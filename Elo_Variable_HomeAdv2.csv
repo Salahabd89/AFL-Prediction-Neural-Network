@@ -1,0 +1,2375 @@
+Season,Team A,Team B,Location,Game A,Game B,Home A,Home B,RatingA,RatingA,Curr_WinLoss
+2012,Greater Western Sydney,Sydney,ANZ Stadium,1,1,0,0,1500,1500,L
+2012,Sydney,Greater Western Sydney,ANZ Stadium,1,1,0,0,1500,1500,W
+2012,Carlton,Richmond,MCG,1,1,0,0,1500,1500,W
+2012,Richmond,Carlton,MCG,1,1,0,0,1500,1500,L
+2012,Collingwood,Hawthorn,MCG,1,1,0,0,1500,1500,L
+2012,Hawthorn,Collingwood,MCG,1,1,0,0,1500,1500,W
+2012,Brisbane Lions,Melbourne,MCG,1,1,0,1,1500,1500,W
+2012,Melbourne,Brisbane Lions,MCG,1,1,1,0,1500,1500,L
+2012,Adelaide,Gold Coast,Metricon Stadium,1,1,0,1,1500,1500,W
+2012,Gold Coast,Adelaide,Metricon Stadium,1,1,1,0,1500,1500,L
+2012,Fremantle,Geelong,Patersons Stadium,1,1,1,0,1500,1500,W
+2012,Geelong,Fremantle,Patersons Stadium,1,1,0,1,1500,1500,L
+2012,Essendon,North Melbourne,Etihad Stadium,1,1,0,0,1500,1500,W
+2012,North Melbourne,Essendon,Etihad Stadium,1,1,0,0,1500,1500,L
+2012,West Coast,Western Bulldogs,Etihad Stadium,1,1,0,1,1500,1500,W
+2012,Western Bulldogs,West Coast,Etihad Stadium,1,1,1,0,1500,1500,L
+2012,Port Adelaide,St Kilda,AAMI Stadium,1,1,1,0,1500,1500,W
+2012,St Kilda,Port Adelaide,AAMI Stadium,1,1,0,1,1500,1500,L
+2012,Brisbane Lions,Carlton,The Gabba,2,2,1,0,1532.74437,1526.81653,L
+2012,Carlton,Brisbane Lions,The Gabba,2,2,0,1,1526.81653,1532.74437,W
+2012,Essendon,Port Adelaide,Etihad Stadium,2,2,1,0,1526.81653,1520.88869,W
+2012,Port Adelaide,Essendon,Etihad Stadium,2,2,0,1,1520.88869,1526.81653,L
+2012,Fremantle,Sydney,SCG,2,2,0,1,1520.88869,1526.81653,L
+2012,Sydney,Fremantle,SCG,2,2,1,0,1526.81653,1520.88869,W
+2012,Melbourne,West Coast,Patersons Stadium,2,2,0,1,1467.25563,1532.74437,L
+2012,West Coast,Melbourne,Patersons Stadium,2,2,1,0,1532.74437,1467.25563,W
+2012,Adelaide,Western Bulldogs,AAMI Stadium,2,2,1,0,1532.74437,1467.25563,W
+2012,Western Bulldogs,Adelaide,AAMI Stadium,2,2,0,1,1467.25563,1532.74437,L
+2012,Collingwood,Richmond,MCG,2,2,0,0,1473.18347,1473.18347,W
+2012,Richmond,Collingwood,MCG,2,2,0,0,1473.18347,1473.18347,L
+2012,Greater Western Sydney,North Melbourne,Blundstone Arena,2,2,0,0,1473.18347,1473.18347,L
+2012,North Melbourne,Greater Western Sydney,Blundstone Arena,2,2,0,0,1473.18347,1473.18347,W
+2012,Gold Coast,St Kilda,Etihad Stadium,2,2,0,1,1467.25563,1479.11131,L
+2012,St Kilda,Gold Coast,Etihad Stadium,2,2,1,0,1479.11131,1467.25563,W
+2012,Geelong,Hawthorn,MCG,2,2,0,0,1479.11131,1526.81653,W
+2012,Hawthorn,Geelong,MCG,2,2,0,0,1526.81653,1479.11131,L
+2012,Carlton,Collingwood,MCG,3,3,0,0,1559.994401,1500,W
+2012,Collingwood,Carlton,MCG,3,3,0,0,1500,1559.994401,L
+2012,Melbourne,Richmond,MCG,3,3,0,0,1450.930573,1446.36694,L
+2012,Richmond,Melbourne,MCG,3,3,0,0,1446.36694,1450.930573,W
+2012,Port Adelaide,Sydney,AAMI Stadium,3,3,1,0,1500.433501,1547.271718,L
+2012,Sydney,Port Adelaide,AAMI Stadium,3,3,0,1,1547.271718,1500.433501,W
+2012,Brisbane Lions,Fremantle,Patersons Stadium,3,3,0,1,1499.566499,1500.433501,L
+2012,Fremantle,Brisbane Lions,Patersons Stadium,3,3,1,0,1500.433501,1499.566499,W
+2012,St Kilda,Western Bulldogs,Etihad Stadium,3,3,0,0,1499.136492,1450.930573,W
+2012,Western Bulldogs,St Kilda,Etihad Stadium,3,3,0,0,1450.930573,1499.136492,L
+2012,Essendon,Gold Coast,Metricon Stadium,3,3,0,1,1547.271718,1447.230449,W
+2012,Gold Coast,Essendon,Metricon Stadium,3,3,1,0,1447.230449,1547.271718,L
+2012,Greater Western Sydney,West Coast,Blacktown ISP,3,3,1,0,1446.36694,1549.069427,L
+2012,West Coast,Greater Western Sydney,Blacktown ISP,3,3,0,1,1549.069427,1446.36694,W
+2012,Adelaide,Hawthorn,MCG,3,3,0,1,1549.069427,1496.340878,L
+2012,Hawthorn,Adelaide,MCG,3,3,1,0,1496.340878,1549.069427,W
+2012,Geelong,North Melbourne,Etihad Stadium,3,3,0,0,1509.586962,1500,L
+2012,North Melbourne,Geelong,Etihad Stadium,3,3,0,0,1500,1509.586962,W
+2012,Fremantle,St Kilda,Etihad Stadium,4,4,0,1,1521.258578,1522.255981,W
+2012,St Kilda,Fremantle,Etihad Stadium,4,4,1,0,1522.255981,1521.258578,L
+2012,Carlton,Essendon,MCG,4,4,0,0,1582.225795,1572.396222,L
+2012,Essendon,Carlton,MCG,4,4,0,0,1572.396222,1582.225795,W
+2012,Collingwood,Port Adelaide,Etihad Stadium,4,4,1,0,1477.768606,1471.2113,W
+2012,Port Adelaide,Collingwood,Etihad Stadium,4,4,0,1,1471.2113,1477.768606,L
+2012,Adelaide,Greater Western Sydney,AAMI Stadium,4,4,1,0,1524.206944,1421.44692,W
+2012,Greater Western Sydney,Adelaide,AAMI Stadium,4,4,0,1,1421.44692,1524.206944,L
+2012,Brisbane Lions,Gold Coast,The Gabba,4,4,1,0,1478.741422,1422.105945,W
+2012,Gold Coast,Brisbane Lions,The Gabba,4,4,0,1,1422.105945,1478.741422,L
+2012,Hawthorn,West Coast,Patersons Stadium,4,4,0,1,1521.203362,1573.989447,L
+2012,West Coast,Hawthorn,Patersons Stadium,4,4,1,0,1573.989447,1521.203362,W
+2012,Geelong,Richmond,Simonds Stadium,4,4,1,0,1482.030658,1473.53569,W
+2012,Richmond,Geelong,Simonds Stadium,4,4,0,1,1473.53569,1482.030658,L
+2012,North Melbourne,Sydney,SCG,4,4,0,1,1527.556304,1576.49392,L
+2012,Sydney,North Melbourne,SCG,4,4,1,0,1576.49392,1527.556304,W
+2012,Melbourne,Western Bulldogs,MCG,4,4,0,0,1423.761823,1427.811084,L
+2012,Western Bulldogs,Melbourne,MCG,4,4,0,0,1427.811084,1423.761823,W
+2012,Collingwood,Essendon,MCG,5,5,0,0,1498.177964,1599.971237,W
+2012,Essendon,Collingwood,MCG,5,5,0,0,1599.971237,1498.177964,L
+2012,Carlton,Fremantle,Patersons Stadium,5,5,0,1,1554.65078,1554.076123,W
+2012,Fremantle,Carlton,Patersons Stadium,5,5,1,0,1554.076123,1554.65078,L
+2012,Greater Western Sydney,Western Bulldogs,Manuka Oval,5,5,0,0,1407.451587,1454.315089,L
+2012,Western Bulldogs,Greater Western Sydney,Manuka Oval,5,5,0,0,1454.315089,1407.451587,W
+2012,Gold Coast,North Melbourne,Etihad Stadium,5,5,0,1,1405.196449,1510.129598,L
+2012,North Melbourne,Gold Coast,Etihad Stadium,5,5,1,0,1510.129598,1405.196449,W
+2012,Melbourne,St Kilda,MCG,5,5,0,0,1397.257818,1489.438436,L
+2012,St Kilda,Melbourne,MCG,5,5,0,0,1489.438436,1397.257818,W
+2012,Brisbane Lions,Geelong,The Gabba,5,5,1,0,1495.650919,1502.299185,L
+2012,Geelong,Brisbane Lions,The Gabba,5,5,0,1,1502.299185,1495.650919,W
+2012,Hawthorn,Sydney,Aurora Stadium,5,5,1,0,1504.03626,1593.920626,L
+2012,Sydney,Hawthorn,Aurora Stadium,5,5,0,1,1593.920626,1504.03626,W
+2012,Richmond,West Coast,Etihad Stadium,5,5,1,0,1453.267163,1591.156549,L
+2012,West Coast,Richmond,Etihad Stadium,5,5,0,1,1591.156549,1453.267163,W
+2012,Adelaide,Port Adelaide,AAMI Stadium,5,5,0,0,1538.202277,1450.801942,W
+2012,Port Adelaide,Adelaide,AAMI Stadium,5,5,0,0,1450.801942,1538.202277,L
+2012,Collingwood,Western Bulldogs,Etihad Stadium,6,6,0,0,1532.633973,1477.536276,W
+2012,Western Bulldogs,Collingwood,Etihad Stadium,6,6,0,0,1477.536276,1532.633973,L
+2012,Brisbane Lions,Essendon,Etihad Stadium,6,6,0,1,1463.396629,1565.515227,L
+2012,Essendon,Brisbane Lions,Etihad Stadium,6,6,1,0,1565.515227,1463.396629,W
+2012,Geelong,Melbourne,Simonds Stadium,6,6,1,0,1534.553475,1377.393797,W
+2012,Melbourne,Geelong,Simonds Stadium,6,6,0,1,1377.393797,1534.553475,L
+2012,Fremantle,Gold Coast,Metricon Stadium,6,6,0,1,1521.373955,1391.330118,W
+2012,Gold Coast,Fremantle,Metricon Stadium,6,6,1,0,1391.330118,1521.373955,L
+2012,Adelaide,Sydney,SCG,6,6,0,1,1558.41167,1619.827181,W
+2012,Sydney,Adelaide,SCG,6,6,1,0,1619.827181,1558.41167,L
+2012,Hawthorn,St Kilda,MCG,6,6,0,0,1478.129706,1509.302456,W
+2012,St Kilda,Hawthorn,MCG,6,6,0,0,1509.302456,1478.129706,L
+2012,Carlton,Greater Western Sydney,Etihad Stadium,6,6,1,0,1587.352947,1384.2304,W
+2012,Greater Western Sydney,Carlton,Etihad Stadium,6,6,0,1,1384.2304,1587.352947,L
+2012,Port Adelaide,Richmond,AAMI Stadium,6,6,1,0,1430.59255,1431.021143,L
+2012,Richmond,Port Adelaide,AAMI Stadium,6,6,0,1,1431.021143,1430.59255,W
+2012,North Melbourne,West Coast,Patersons Stadium,6,6,0,1,1523.995928,1613.402569,L
+2012,West Coast,North Melbourne,Patersons Stadium,6,6,1,0,1613.402569,1523.995928,W
+2012,Hawthorn,Melbourne,MCG,7,7,0,0,1507.345843,1366.389182,W
+2012,Melbourne,Hawthorn,MCG,7,7,0,0,1366.389182,1507.345843,L
+2012,Adelaide,Geelong,AAMI Stadium,7,7,1,0,1595.45219,1545.55809,W
+2012,Geelong,Adelaide,AAMI Stadium,7,7,0,1,1545.55809,1595.45219,L
+2012,Gold Coast,Greater Western Sydney,Manuka Oval,7,7,0,0,1368.493965,1375.361008,L
+2012,Greater Western Sydney,Gold Coast,Manuka Oval,7,7,0,0,1375.361008,1368.493965,W
+2012,Richmond,Sydney,MCG,7,7,1,0,1463.73404,1582.786661,W
+2012,Sydney,Richmond,MCG,7,7,0,1,1582.786661,1463.73404,L
+2012,Brisbane Lions,Collingwood,The Gabba,7,7,1,0,1449.363071,1555.233128,L
+2012,Collingwood,Brisbane Lions,The Gabba,7,7,0,1,1555.233128,1449.363071,W
+2012,Essendon,West Coast,Etihad Stadium,7,7,1,0,1579.548785,1628.207452,W
+2012,West Coast,Essendon,Etihad Stadium,7,7,0,1,1628.207452,1579.548785,L
+2012,North Melbourne,Western Bulldogs,Etihad Stadium,7,7,0,0,1509.191046,1454.937121,L
+2012,Western Bulldogs,North Melbourne,Etihad Stadium,7,7,0,0,1454.937121,1509.191046,W
+2012,Fremantle,Port Adelaide,Patersons Stadium,7,7,1,0,1544.210108,1397.879653,W
+2012,Port Adelaide,Fremantle,Patersons Stadium,7,7,0,1,1397.879653,1544.210108,L
+2012,Carlton,St Kilda,Etihad Stadium,7,7,0,0,1596.222339,1480.086319,L
+2012,St Kilda,Carlton,Etihad Stadium,7,7,0,0,1480.086319,1596.222339,W
+2012,Collingwood,Geelong,MCG,8,8,0,0,1579.910048,1528.196095,W
+2012,Geelong,Collingwood,MCG,8,8,0,0,1528.196095,1579.910048,L
+2012,North Melbourne,Port Adelaide,AAMI Stadium,8,8,0,1,1478.22068,1386.319764,L
+2012,Port Adelaide,North Melbourne,AAMI Stadium,8,8,1,0,1386.319764,1478.22068,W
+2012,Fremantle,Hawthorn,Aurora Stadium,8,8,0,1,1555.769997,1523.842822,L
+2012,Hawthorn,Fremantle,Aurora Stadium,8,8,1,0,1523.842822,1555.769997,W
+2012,Melbourne,Sydney,SCG,8,8,0,1,1349.892203,1552.823046,L
+2012,Sydney,Melbourne,SCG,8,8,1,0,1552.823046,1349.892203,W
+2012,Gold Coast,Western Bulldogs,TIO Stadium,8,8,0,0,1342.207393,1485.907487,L
+2012,Western Bulldogs,Gold Coast,TIO Stadium,8,8,0,0,1485.907487,1342.207393,W
+2012,Essendon,Richmond,MCG,8,8,0,0,1604.099086,1493.697654,W
+2012,Richmond,Essendon,MCG,8,8,0,0,1493.697654,1604.099086,L
+2012,Brisbane Lions,Greater Western Sydney,The Gabba,8,8,1,0,1424.686151,1401.64758,W
+2012,Greater Western Sydney,Brisbane Lions,The Gabba,8,8,0,1,1401.64758,1424.686151,L
+2012,Adelaide,Carlton,Etihad Stadium,8,8,0,1,1612.814185,1560.761527,W
+2012,Carlton,Adelaide,Etihad Stadium,8,8,1,0,1560.761527,1612.814185,L
+2012,St Kilda,West Coast,Patersons Stadium,8,8,0,1,1515.547131,1603.65715,L
+2012,West Coast,St Kilda,Patersons Stadium,8,8,1,0,1603.65715,1515.547131,W
+2012,Geelong,Western Bulldogs,Etihad Stadium,9,9,0,0,1505.341846,1502.224624,W
+2012,Western Bulldogs,Geelong,Etihad Stadium,9,9,0,0,1502.224624,1505.341846,L
+2012,Hawthorn,Richmond,MCG,9,9,0,0,1547.117119,1475.126695,L
+2012,Richmond,Hawthorn,MCG,9,9,0,0,1475.126695,1547.117119,W
+2012,Gold Coast,Port Adelaide,Metricon Stadium,9,9,1,0,1325.890256,1414.201703,L
+2012,Port Adelaide,Gold Coast,Metricon Stadium,9,9,0,1,1414.201703,1325.890256,W
+2012,St Kilda,Sydney,Etihad Stadium,9,9,1,0,1500.662116,1561.700611,W
+2012,Sydney,St Kilda,Etihad Stadium,9,9,0,1,1561.700611,1500.662116,L
+2012,Adelaide,Collingwood,AAMI Stadium,9,9,1,0,1641.636645,1602.764297,L
+2012,Collingwood,Adelaide,AAMI Stadium,9,9,0,1,1602.764297,1641.636645,W
+2012,Essendon,Greater Western Sydney,_koda Stadium,9,9,0,1,1622.670046,1382.423376,W
+2012,Greater Western Sydney,Essendon,_koda Stadium,9,9,1,0,1382.423376,1622.670046,L
+2012,Brisbane Lions,North Melbourne,Etihad Stadium,9,9,0,1,1443.910355,1450.33874,L
+2012,North Melbourne,Brisbane Lions,Etihad Stadium,9,9,1,0,1450.33874,1443.910355,W
+2012,Carlton,Melbourne,MCG,9,9,0,0,1531.939066,1341.014639,W
+2012,Melbourne,Carlton,MCG,9,9,0,0,1341.014639,1531.939066,L
+2012,Fremantle,West Coast,Patersons Stadium,9,9,0,0,1532.4957,1618.542166,L
+2012,West Coast,Fremantle,Patersons Stadium,9,9,0,0,1618.542166,1532.4957,W
+2012,Richmond,St Kilda,Etihad Stadium,10,10,0,0,1507.421567,1526.163581,W
+2012,St Kilda,Richmond,Etihad Stadium,10,10,0,0,1526.163581,1507.421567,L
+2012,Geelong,Greater Western Sydney,Simonds Stadium,10,10,1,0,1531.917782,1367.286745,W
+2012,Greater Western Sydney,Geelong,Simonds Stadium,10,10,0,1,1367.286745,1531.917782,L
+2012,Hawthorn,North Melbourne,Aurora Stadium,10,10,1,0,1514.822246,1470.757481,W
+2012,North Melbourne,Hawthorn,Aurora Stadium,10,10,0,1,1470.757481,1514.822246,L
+2012,Adelaide,Fremantle,Patersons Stadium,10,10,0,1,1606.118712,1512.18806,W
+2012,Fremantle,Adelaide,Patersons Stadium,10,10,1,0,1512.18806,1606.118712,L
+2012,Carlton,Port Adelaide,AAMI Stadium,10,10,0,1,1545.342937,1440.22954,L
+2012,Port Adelaide,Carlton,AAMI Stadium,10,10,1,0,1440.22954,1545.342937,W
+2012,Essendon,Melbourne,MCG,10,10,0,0,1637.806676,1327.610769,L
+2012,Melbourne,Essendon,MCG,10,10,0,0,1327.610769,1637.806676,W
+2012,Brisbane Lions,West Coast,The Gabba,10,10,1,0,1423.491615,1638.849806,W
+2012,West Coast,Brisbane Lions,The Gabba,10,10,0,1,1638.849806,1423.491615,L
+2012,Sydney,Western Bulldogs,SCG,10,10,1,0,1536.199145,1475.648688,W
+2012,Western Bulldogs,Sydney,SCG,10,10,0,1,1475.648688,1536.199145,L
+2012,Collingwood,Gold Coast,MCG,10,10,1,0,1638.28223,1299.86242,W
+2012,Gold Coast,Collingwood,MCG,10,10,0,1,1299.86242,1638.28223,L
+2012,Carlton,Geelong,Etihad Stadium,11,11,0,0,1516.444837,1542.550983,L
+2012,Geelong,Carlton,Etihad Stadium,11,11,0,0,1542.550983,1516.444837,W
+2012,Fremantle,Richmond,MCG,11,11,0,1,1486.593318,1535.683283,W
+2012,Richmond,Fremantle,MCG,11,11,1,0,1535.683283,1486.593318,L
+2012,Gold Coast,St Kilda,Metricon Stadium,11,11,1,0,1295.391887,1497.901866,L
+2012,St Kilda,Gold Coast,Metricon Stadium,11,11,0,1,1497.901866,1295.391887,W
+2012,Essendon,Sydney,Etihad Stadium,11,11,1,0,1591.875817,1552.848802,L
+2012,Sydney,Essendon,Etihad Stadium,11,11,0,1,1552.848802,1591.875817,W
+2012,Hawthorn,Port Adelaide,AAMI Stadium,11,11,0,1,1532.580553,1469.127639,W
+2012,Port Adelaide,Hawthorn,AAMI Stadium,11,11,1,0,1469.127639,1532.580553,L
+2012,Collingwood,Melbourne,MCG,11,11,0,0,1642.752762,1373.541628,W
+2012,Melbourne,Collingwood,MCG,11,11,0,0,1373.541628,1642.752762,L
+2012,Carlton,West Coast,Patersons Stadium,12,11,0,1,1491.639505,1601.957255,L
+2012,West Coast,Carlton,Patersons Stadium,11,12,1,0,1601.957255,1491.639505,W
+2012,Adelaide,St Kilda,AAMI Stadium,11,12,1,0,1631.713454,1515.50565,W
+2012,St Kilda,Adelaide,AAMI Stadium,12,11,0,1,1515.50565,1631.713454,L
+2012,Greater Western Sydney,Richmond,_koda Stadium,11,12,1,0,1356.653545,1499.466614,L
+2012,Richmond,Greater Western Sydney,_koda Stadium,12,11,0,1,1499.466614,1356.653545,W
+2012,Gold Coast,North Melbourne,Metricon Stadium,12,11,1,0,1277.788104,1452.999174,L
+2012,North Melbourne,Gold Coast,Metricon Stadium,11,12,0,1,1452.999174,1277.788104,W
+2012,Brisbane Lions,Hawthorn,MCG,11,12,0,1,1460.384166,1560.52618,L
+2012,Hawthorn,Brisbane Lions,MCG,12,11,1,0,1560.52618,1460.384166,W
+2012,Port Adelaide,Western Bulldogs,Etihad Stadium,12,11,0,1,1441.182013,1458.999031,L
+2012,Western Bulldogs,Port Adelaide,Etihad Stadium,11,12,1,0,1458.999031,1441.182013,W
+2012,Geelong,Sydney,SCG,12,12,0,1,1567.356315,1588.377414,L
+2012,Sydney,Geelong,SCG,12,12,1,0,1588.377414,1567.356315,W
+2012,Brisbane Lions,Western Bulldogs,Etihad Stadium,12,12,0,1,1446.232393,1478.595507,W
+2012,Western Bulldogs,Brisbane Lions,Etihad Stadium,12,12,1,0,1478.595507,1446.232393,L
+2012,Collingwood,West Coast,MCG,12,12,1,0,1652.145469,1615.507296,W
+2012,West Coast,Collingwood,MCG,12,12,0,1,1615.507296,1652.145469,L
+2012,Essendon,Fremantle,Patersons Stadium,12,12,0,1,1556.347204,1522.809987,W
+2012,Fremantle,Essendon,Patersons Stadium,12,12,1,0,1522.809987,1556.347204,L
+2012,Greater Western Sydney,Melbourne,MCG,12,12,0,1,1334.775602,1364.148922,L
+2012,Melbourne,Greater Western Sydney,MCG,12,12,1,0,1364.148922,1334.775602,W
+2012,Adelaide,North Melbourne,Etihad Stadium,12,12,0,1,1644.923028,1472.508844,L
+2012,North Melbourne,Adelaide,Etihad Stadium,12,12,1,0,1472.508844,1644.923028,W
+2012,Carlton,Hawthorn,MCG,13,13,0,0,1478.089464,1574.677953,L
+2012,Hawthorn,Carlton,MCG,13,13,0,0,1574.677953,1478.089464,W
+2012,Collingwood,Fremantle,MCG,13,13,1,0,1670.415203,1492.5734,W
+2012,Fremantle,Collingwood,MCG,13,13,0,1,1492.5734,1670.415203,L
+2012,Adelaide,Richmond,AAMI Stadium,13,13,1,0,1610.999921,1521.344556,W
+2012,Richmond,Adelaide,AAMI Stadium,13,13,0,1,1521.344556,1610.999921,L
+2012,Gold Coast,West Coast,Patersons Stadium,13,13,0,1,1258.278434,1597.237562,L
+2012,West Coast,Gold Coast,Patersons Stadium,13,13,1,0,1597.237562,1258.278434,W
+2012,Greater Western Sydney,Sydney,ANZ Stadium,13,13,0,0,1315.998789,1607.745087,L
+2012,Sydney,Greater Western Sydney,ANZ Stadium,13,13,0,0,1607.745087,1315.998789,W
+2012,Essendon,Western Bulldogs,Etihad Stadium,13,13,0,0,1586.583792,1443.529783,W
+2012,Western Bulldogs,Essendon,Etihad Stadium,13,13,0,0,1443.529783,1586.583792,L
+2012,Geelong,Port Adelaide,Simonds Stadium,13,13,1,0,1547.988642,1421.585536,W
+2012,Port Adelaide,Geelong,Simonds Stadium,13,13,0,1,1421.585536,1547.988642,L
+2012,Brisbane Lions,Melbourne,The Gabba,13,13,1,0,1481.298117,1382.925735,W
+2012,Melbourne,Brisbane Lions,The Gabba,13,13,0,1,1382.925735,1481.298117,L
+2012,North Melbourne,St Kilda,Etihad Stadium,13,13,0,0,1506.43195,1502.296076,W
+2012,St Kilda,North Melbourne,Etihad Stadium,13,13,0,0,1502.296076,1506.43195,L
+2012,Carlton,Collingwood,MCG,14,14,0,0,1458.541736,1680.414936,W
+2012,Collingwood,Carlton,MCG,14,14,0,0,1680.414936,1458.541736,L
+2012,North Melbourne,West Coast,Blundstone Arena,14,14,0,0,1532.929271,1601.695388,L
+2012,West Coast,North Melbourne,Blundstone Arena,14,14,0,0,1601.695388,1532.929271,W
+2012,Melbourne,Richmond,MCG,14,14,0,0,1368.667585,1506.555015,L
+2012,Richmond,Melbourne,MCG,14,14,0,0,1506.555015,1368.667585,W
+2012,Brisbane Lions,Sydney,SCG,14,14,0,1,1495.556267,1616.17467,L
+2012,Sydney,Brisbane Lions,SCG,14,14,1,0,1616.17467,1495.556267,W
+2012,Adelaide,Port Adelaide,AAMI Stadium,14,14,0,0,1625.789463,1408.95154,W
+2012,Port Adelaide,Adelaide,AAMI Stadium,14,14,0,0,1408.95154,1625.789463,L
+2012,Essendon,St Kilda,Etihad Stadium,14,14,0,0,1602.943182,1475.798755,L
+2012,St Kilda,Essendon,Etihad Stadium,14,14,0,0,1475.798755,1602.943182,W
+2012,Greater Western Sydney,Hawthorn,MCG,14,14,0,1,1307.569206,1594.225681,L
+2012,Hawthorn,Greater Western Sydney,MCG,14,14,1,0,1594.225681,1307.569206,W
+2012,Geelong,Gold Coast,Metricon Stadium,14,14,0,1,1560.622638,1253.820607,W
+2012,Gold Coast,Geelong,Metricon Stadium,14,14,1,0,1253.820607,1560.622638,L
+2012,Fremantle,Western Bulldogs,Patersons Stadium,14,14,1,0,1482.573667,1427.170393,W
+2012,Western Bulldogs,Fremantle,Patersons Stadium,14,14,0,1,1427.170393,1482.573667,L
+2012,Carlton,North Melbourne,Etihad Stadium,15,15,0,0,1500.481372,1511.352159,L
+2012,North Melbourne,Carlton,Etihad Stadium,15,15,0,0,1511.352159,1500.481372,W
+2012,Fremantle,Melbourne,Etihad Stadium,15,15,0,1,1499.565397,1351.968108,W
+2012,Melbourne,Fremantle,Etihad Stadium,15,15,1,0,1351.968108,1499.565397,L
+2012,Essendon,Port Adelaide,AAMI Stadium,15,15,0,1,1566.728931,1396.990911,W
+2012,Port Adelaide,Essendon,AAMI Stadium,15,15,1,0,1396.990911,1566.728931,L
+2012,Gold Coast,Richmond,Cazaly's Stadium,15,15,0,0,1242.483152,1523.254492,W
+2012,Richmond,Gold Coast,Cazaly's Stadium,15,15,0,0,1523.254492,1242.483152,L
+2012,Brisbane Lions,St Kilda,The Gabba,15,15,1,0,1482.597842,1512.013006,L
+2012,St Kilda,Brisbane Lions,The Gabba,15,15,0,1,1512.013006,1482.597842,W
+2012,Collingwood,Geelong,MCG,15,15,0,0,1638.475299,1571.960093,W
+2012,Geelong,Collingwood,MCG,15,15,0,0,1571.960093,1638.475299,L
+2012,Adelaide,Greater Western Sydney,_koda Stadium,15,15,0,1,1637.750092,1301.716187,W
+2012,Greater Western Sydney,Adelaide,_koda Stadium,15,15,1,0,1301.716187,1637.750092,L
+2012,Hawthorn,Western Bulldogs,Etihad Stadium,15,15,0,0,1600.0787,1410.178662,W
+2012,Western Bulldogs,Hawthorn,Etihad Stadium,15,15,0,0,1410.178662,1600.0787,L
+2012,Sydney,West Coast,Patersons Stadium,15,15,0,1,1629.133095,1623.272501,W
+2012,West Coast,Sydney,Patersons Stadium,15,15,1,0,1623.272501,1629.133095,L
+2012,Essendon,Geelong,Etihad Stadium,16,16,0,0,1586.631324,1550.215669,L
+2012,Geelong,Essendon,Etihad Stadium,16,16,0,0,1550.215669,1586.631324,W
+2012,Collingwood,Hawthorn,MCG,16,16,0,0,1660.219723,1613.541944,L
+2012,Hawthorn,Collingwood,MCG,16,16,0,0,1613.541944,1660.219723,W
+2012,Adelaide,West Coast,AAMI Stadium,16,16,1,0,1647.655955,1590.959942,W
+2012,West Coast,Adelaide,AAMI Stadium,16,16,0,1,1590.959942,1647.655955,L
+2012,Brisbane Lions,Gold Coast,Metricon Stadium,16,16,0,1,1452.04876,1287.227994,W
+2012,Gold Coast,Brisbane Lions,Metricon Stadium,16,16,1,0,1287.227994,1452.04876,L
+2012,Melbourne,Port Adelaide,TIO Stadium,16,16,0,0,1330.445983,1377.088518,L
+2012,Port Adelaide,Melbourne,TIO Stadium,16,16,0,0,1377.088518,1330.445983,W
+2012,Carlton,Western Bulldogs,Etihad Stadium,16,16,0,0,1474.503621,1396.715418,W
+2012,Western Bulldogs,Carlton,Etihad Stadium,16,16,0,0,1396.715418,1474.503621,L
+2012,St Kilda,Sydney,SCG,16,16,0,1,1542.562088,1661.445654,L
+2012,Sydney,St Kilda,SCG,16,16,1,0,1661.445654,1542.562088,W
+2012,North Melbourne,Richmond,MCG,16,16,0,0,1537.32991,1478.509649,W
+2012,Richmond,North Melbourne,MCG,16,16,0,0,1478.509649,1537.32991,L
+2012,Fremantle,Greater Western Sydney,Patersons Stadium,16,16,1,0,1521.087523,1291.810324,W
+2012,Greater Western Sydney,Fremantle,Patersons Stadium,16,16,0,1,1291.810324,1521.087523,L
+2012,Essendon,Hawthorn,Etihad Stadium,17,17,0,0,1557.01433,1643.939739,L
+2012,Hawthorn,Essendon,Etihad Stadium,17,17,0,0,1643.939739,1557.01433,W
+2012,Adelaide,Geelong,Simonds Stadium,17,17,0,1,1664.561417,1579.832663,L
+2012,Geelong,Adelaide,Simonds Stadium,17,17,1,0,1579.832663,1664.561417,W
+2012,Melbourne,North Melbourne,Etihad Stadium,17,17,0,0,1307.208046,1559.649329,L
+2012,North Melbourne,Melbourne,Etihad Stadium,17,17,0,0,1559.649329,1307.208046,W
+2012,Collingwood,Greater Western Sydney,_koda Stadium,17,17,0,1,1629.821929,1284.0001,W
+2012,Greater Western Sydney,Collingwood,_koda Stadium,17,17,1,0,1284.0001,1629.821929,L
+2012,Gold Coast,Sydney,Metricon Stadium,17,17,1,0,1266.970023,1674.502475,L
+2012,Sydney,Gold Coast,Metricon Stadium,17,17,0,1,1674.502475,1266.970023,W
+2012,Carlton,Richmond,MCG,17,17,0,0,1495.414484,1456.190229,W
+2012,Richmond,Carlton,MCG,17,17,0,0,1456.190229,1495.414484,L
+2012,Fremantle,Port Adelaide,AAMI Stadium,17,17,0,1,1528.897747,1400.326455,W
+2012,Port Adelaide,Fremantle,AAMI Stadium,17,17,1,0,1400.326455,1528.897747,L
+2012,St Kilda,Western Bulldogs,Etihad Stadium,17,17,0,0,1529.505268,1375.804555,W
+2012,Western Bulldogs,St Kilda,Etihad Stadium,17,17,0,0,1375.804555,1529.505268,L
+2012,Brisbane Lions,West Coast,Patersons Stadium,17,17,0,1,1472.306731,1574.05448,L
+2012,West Coast,Brisbane Lions,Patersons Stadium,17,17,1,0,1574.05448,1472.306731,W
+2012,Geelong,Hawthorn,MCG,18,18,0,0,1607.161524,1664.183575,W
+2012,Hawthorn,Geelong,MCG,18,18,0,0,1664.183575,1607.161524,L
+2012,North Melbourne,Western Bulldogs,Etihad Stadium,18,18,0,0,1569.813564,1360.133523,W
+2012,Western Bulldogs,North Melbourne,Etihad Stadium,18,18,0,0,1360.133523,1569.813564,L
+2012,Greater Western Sydney,Port Adelaide,_koda Stadium,18,18,1,0,1274.541226,1377.379079,W
+2012,Port Adelaide,Greater Western Sydney,_koda Stadium,18,18,0,1,1377.379079,1274.541226,L
+2012,Fremantle,West Coast,Patersons Stadium,18,18,0,0,1551.845123,1588.110168,W
+2012,West Coast,Fremantle,Patersons Stadium,18,18,0,0,1588.110168,1551.845123,L
+2012,Brisbane Lions,Richmond,The Gabba,18,18,1,0,1458.251042,1432.388394,L
+2012,Richmond,Brisbane Lions,The Gabba,18,18,0,1,1432.388394,1458.251042,W
+2012,Collingwood,St Kilda,MCG,18,18,0,0,1639.280802,1545.1763,W
+2012,St Kilda,Collingwood,MCG,18,18,0,0,1545.1763,1639.280802,L
+2012,Gold Coast,Melbourne,MCG,18,18,0,1,1259.970161,1297.043811,L
+2012,Melbourne,Gold Coast,MCG,18,18,1,0,1297.043811,1259.970161,W
+2012,Carlton,Sydney,Etihad Stadium,18,18,1,0,1519.216319,1681.502337,L
+2012,Sydney,Carlton,Etihad Stadium,18,18,0,1,1681.502337,1519.216319,W
+2012,Adelaide,Essendon,AAMI Stadium,18,18,1,0,1637.232556,1536.770494,W
+2012,Essendon,Adelaide,AAMI Stadium,18,18,0,1,1536.770494,1637.232556,L
+2012,Geelong,West Coast,Patersons Stadium,19,19,0,1,1638.340158,1558.504672,L
+2012,West Coast,Geelong,Patersons Stadium,19,19,1,0,1558.504672,1638.340158,W
+2012,Melbourne,St Kilda,MCG,19,19,0,0,1315.28336,1525.450592,L
+2012,St Kilda,Melbourne,MCG,19,19,0,0,1525.450592,1315.28336,W
+2012,Adelaide,Fremantle,AAMI Stadium,19,19,1,0,1651.365144,1581.450619,W
+2012,Fremantle,Adelaide,AAMI Stadium,19,19,0,1,1581.450619,1651.365144,L
+2012,Gold Coast,Greater Western Sydney,Metricon Stadium,19,19,1,0,1241.730612,1303.264662,W
+2012,Greater Western Sydney,Gold Coast,Metricon Stadium,19,19,0,1,1303.264662,1241.730612,L
+2012,Brisbane Lions,Carlton,Etihad Stadium,19,19,0,1,1423.64215,1498.774083,L
+2012,Carlton,Brisbane Lions,Etihad Stadium,19,19,1,0,1498.774083,1423.64215,W
+2012,Collingwood,Sydney,ANZ Stadium,19,19,0,1,1659.006511,1701.944574,W
+2012,Sydney,Collingwood,ANZ Stadium,19,19,1,0,1701.944574,1659.006511,L
+2012,Hawthorn,Port Adelaide,Aurora Stadium,19,19,1,0,1633.004941,1348.655644,W
+2012,Port Adelaide,Hawthorn,Aurora Stadium,19,19,0,1,1348.655644,1633.004941,L
+2012,Richmond,Western Bulldogs,MCG,19,19,0,0,1466.997286,1347.785606,W
+2012,Western Bulldogs,Richmond,MCG,19,19,0,0,1347.785606,1466.997286,L
+2012,Essendon,North Melbourne,Etihad Stadium,19,19,0,0,1522.637906,1582.161481,L
+2012,North Melbourne,Essendon,Etihad Stadium,19,19,0,0,1582.161481,1522.637906,W
+2012,Geelong,St Kilda,Etihad Stadium,20,20,0,0,1611.388919,1537.771872,W
+2012,St Kilda,Geelong,Etihad Stadium,20,20,0,0,1537.771872,1611.388919,L
+2012,Carlton,Essendon,MCG,20,20,0,0,1514.475692,1500.371226,W
+2012,Essendon,Carlton,MCG,20,20,0,0,1500.371226,1514.475692,L
+2012,Greater Western Sydney,Melbourne,Manuka Oval,20,20,0,0,1277.725036,1302.96208,L
+2012,Melbourne,Greater Western Sydney,Manuka Oval,20,20,0,0,1302.96208,1277.725036,W
+2012,Fremantle,Richmond,Patersons Stadium,20,20,1,0,1565.413426,1484.957419,W
+2012,Richmond,Fremantle,Patersons Stadium,20,20,0,1,1484.957419,1565.413426,L
+2012,Adelaide,Brisbane Lions,The Gabba,20,20,0,1,1667.402337,1407.94054,L
+2012,Brisbane Lions,Adelaide,The Gabba,20,20,1,0,1407.94054,1667.402337,W
+2012,Collingwood,North Melbourne,Etihad Stadium,20,20,0,0,1694.804138,1604.428161,L
+2012,North Melbourne,Collingwood,Etihad Stadium,20,20,0,0,1604.428161,1694.804138,W
+2012,Port Adelaide,West Coast,AAMI Stadium,20,20,1,0,1342.733013,1585.455911,L
+2012,West Coast,Port Adelaide,AAMI Stadium,20,20,0,1,1585.455911,1342.733013,W
+2012,Sydney,Western Bulldogs,Etihad Stadium,20,20,0,1,1666.146947,1329.825473,W
+2012,Western Bulldogs,Sydney,Etihad Stadium,20,20,1,0,1329.825473,1666.146947,L
+2012,Gold Coast,Hawthorn,MCG,20,20,0,1,1267.270238,1638.927571,L
+2012,Hawthorn,Gold Coast,MCG,20,20,1,0,1638.927571,1267.270238,W
+2012,Essendon,Richmond,MCG,21,21,0,0,1474.642741,1469.593973,L
+2012,Richmond,Essendon,MCG,21,21,0,0,1469.593973,1474.642741,W
+2012,Greater Western Sydney,St Kilda,Etihad Stadium,21,21,0,1,1252.852988,1516.553879,L
+2012,St Kilda,Greater Western Sydney,Etihad Stadium,21,21,1,0,1516.553879,1252.852988,W
+2012,Brisbane Lions,Port Adelaide,AAMI Stadium,21,21,0,1,1447.60929,1327.75077,W
+2012,Port Adelaide,Brisbane Lions,AAMI Stadium,21,21,1,0,1327.75077,1447.60929,L
+2012,Hawthorn,Sydney,SCG,21,21,0,1,1642.673984,1676.039447,W
+2012,Sydney,Hawthorn,SCG,21,21,1,0,1676.039447,1642.673984,L
+2012,Carlton,Gold Coast,Metricon Stadium,21,21,0,1,1540.204178,1263.523826,L
+2012,Gold Coast,Carlton,Metricon Stadium,21,21,1,0,1263.523826,1540.204178,W
+2012,Collingwood,West Coast,Patersons Stadium,21,21,0,1,1661.1652,1600.438155,L
+2012,West Coast,Collingwood,Patersons Stadium,21,21,1,0,1600.438155,1661.1652,W
+2012,Geelong,Western Bulldogs,Simonds Stadium,21,21,1,0,1632.606912,1319.932973,W
+2012,Western Bulldogs,Geelong,Simonds Stadium,21,21,0,1,1319.932973,1632.606912,L
+2012,Fremantle,North Melbourne,Etihad Stadium,21,21,0,1,1580.776872,1638.067099,W
+2012,North Melbourne,Fremantle,Etihad Stadium,21,21,1,0,1638.067099,1580.776872,L
+2012,Adelaide,Melbourne,MCG,21,21,0,1,1627.733587,1327.834128,W
+2012,Melbourne,Adelaide,MCG,21,21,1,0,1327.834128,1627.733587,L
+2012,Hawthorn,West Coast,MCG,22,22,1,0,1677.80969,1625.915641,W
+2012,West Coast,Hawthorn,MCG,22,22,0,1,1625.915641,1677.80969,L
+2012,Geelong,Sydney,Simonds Stadium,22,22,1,0,1637.723484,1640.903741,W
+2012,Sydney,Geelong,Simonds Stadium,22,22,0,1,1640.903741,1637.723484,L
+2012,Adelaide,Gold Coast,AAMI Stadium,22,22,1,0,1639.430374,1304.191761,W
+2012,Gold Coast,Adelaide,AAMI Stadium,22,22,0,1,1304.191761,1639.430374,L
+2012,Greater Western Sydney,North Melbourne,_koda Stadium,22,22,1,0,1246.274526,1601.299927,L
+2012,North Melbourne,Greater Western Sydney,_koda Stadium,22,22,0,1,1601.299927,1246.274526,W
+2012,Fremantle,Melbourne,Patersons Stadium,22,22,1,0,1617.544043,1316.13734,W
+2012,Melbourne,Fremantle,Patersons Stadium,22,22,0,1,1316.13734,1617.544043,L
+2012,Collingwood,Essendon,MCG,22,22,0,0,1635.687714,1447.436553,W
+2012,Essendon,Collingwood,MCG,22,22,0,0,1447.436553,1635.687714,L
+2012,Carlton,St Kilda,Etihad Stadium,22,22,0,0,1499.536243,1523.132341,L
+2012,St Kilda,Carlton,Etihad Stadium,22,22,0,0,1523.132341,1499.536243,W
+2012,Port Adelaide,Richmond,MCG,22,22,0,1,1304.142654,1496.800161,L
+2012,Richmond,Port Adelaide,MCG,22,22,1,0,1496.800161,1304.142654,L
+2012,Brisbane Lions,Western Bulldogs,The Gabba,22,22,1,0,1471.217406,1314.816401,W
+2012,Western Bulldogs,Brisbane Lions,The Gabba,22,22,0,1,1314.816401,1471.217406,L
+2013,Adelaide,Essendon,AAMI Stadium,1,1,1,0,1607.982393,1450.408029,L
+2013,Essendon,Adelaide,AAMI Stadium,1,1,0,1,1450.408029,1607.982393,W
+2013,Fremantle,West Coast,Patersons Stadium,1,1,0,0,1592.226595,1581.51641,W
+2013,West Coast,Fremantle,Patersons Stadium,1,1,0,0,1581.51641,1592.226595,L
+2013,Carlton,Richmond,MCG,1,1,0,0,1480.903622,1484.481003,L
+2013,Richmond,Carlton,MCG,1,1,0,0,1484.481003,1480.903622,W
+2013,Brisbane Lions,Western Bulldogs,Etihad Stadium,1,1,0,1,1486.695202,1352.830153,L
+2013,Western Bulldogs,Brisbane Lions,Etihad Stadium,1,1,1,0,1352.830153,1486.695202,W
+2013,Greater Western Sydney,Sydney,ANZ Stadium,1,1,0,0,1302.916014,1589.835835,L
+2013,Sydney,Greater Western Sydney,ANZ Stadium,1,1,0,0,1589.835835,1302.916014,W
+2013,Gold Coast,St Kilda,Metricon Stadium,1,1,1,0,1349.734209,1536.097815,W
+2013,St Kilda,Gold Coast,Metricon Stadium,1,1,0,1,1536.097815,1349.734209,L
+2013,Melbourne,Port Adelaide,MCG,1,1,1,0,1358.034443,1366.226107,L
+2013,Port Adelaide,Melbourne,MCG,1,1,0,1,1366.226107,1358.034443,W
+2013,Collingwood,North Melbourne,Etihad Stadium,1,1,0,0,1611.935172,1582.764826,W
+2013,North Melbourne,Collingwood,Etihad Stadium,1,1,0,0,1582.764826,1611.935172,L
+2013,Geelong,Hawthorn,MCG,1,1,0,0,1619.134584,1646.277587,W
+2013,Hawthorn,Geelong,MCG,1,1,0,0,1646.277587,1619.134584,L
+2013,Richmond,St Kilda,MCG,2,2,0,0,1511.021426,1501.184713,W
+2013,St Kilda,Richmond,MCG,2,2,0,0,1501.184713,1511.021426,L
+2013,Gold Coast,Sydney,SCG,2,2,0,1,1384.647311,1598.464696,L
+2013,Sydney,Gold Coast,SCG,2,2,1,0,1598.464696,1384.647311,W
+2013,Fremantle,Western Bulldogs,Etihad Stadium,2,2,0,1,1618.21673,1383.915018,W
+2013,Western Bulldogs,Fremantle,Etihad Stadium,2,2,1,0,1383.915018,1618.21673,L
+2013,Adelaide,Brisbane Lions,Gabba,2,2,0,1,1565.333084,1455.610338,W
+2013,Brisbane Lions,Adelaide,Gabba,2,2,1,0,1455.610338,1565.333084,L
+2013,Greater Western Sydney,Port Adelaide,AAMI Stadium,2,2,0,1,1294.287152,1398.366067,L
+2013,Port Adelaide,Greater Western Sydney,AAMI Stadium,2,2,1,0,1398.366067,1294.287152,W
+2013,Essendon,Melbourne,MCG,2,2,0,0,1493.057338,1325.894483,W
+2013,Melbourne,Essendon,MCG,2,2,0,0,1325.894483,1493.057338,L
+2013,Geelong,North Melbourne,Etihad Stadium,2,2,0,0,1648.041872,1558.19451,W
+2013,North Melbourne,Geelong,Etihad Stadium,2,2,0,0,1558.19451,1648.041872,L
+2013,Carlton,Collingwood,MCG,2,2,0,0,1454.3632,1636.505488,L
+2013,Collingwood,Carlton,MCG,2,2,0,0,1636.505488,1454.3632,W
+2013,Hawthorn,West Coast,Patersons Stadium,2,2,0,1,1617.370299,1555.526276,W
+2013,West Coast,Hawthorn,Patersons Stadium,2,2,1,0,1555.526276,1617.370299,L
+2013,Essendon,Fremantle,Patersons Stadium,3,3,0,1,1507.882834,1633.727925,W
+2013,Fremantle,Essendon,Patersons Stadium,3,3,1,0,1633.727925,1507.882834,L
+2013,North Melbourne,Sydney,Blundstone Arena,3,3,0,0,1538.162213,1606.887686,L
+2013,Sydney,North Melbourne,Blundstone Arena,3,3,0,0,1606.887686,1538.162213,W
+2013,Melbourne,West Coast,MCG,3,3,1,0,1311.068987,1527.456713,L
+2013,West Coast,Melbourne,MCG,3,3,0,1,1527.456713,1311.068987,W
+2013,Greater Western Sydney,St Kilda,StarTrack Oval Canberra,3,3,0,0,1280.370204,1475.127219,L
+2013,St Kilda,Greater Western Sydney,StarTrack Oval Canberra,3,3,0,0,1475.127219,1280.370204,W
+2013,Carlton,Geelong,Etihad Stadium,3,3,0,0,1440.444662,1668.074169,L
+2013,Geelong,Carlton,Etihad Stadium,3,3,0,0,1668.074169,1440.444662,W
+2013,Brisbane Lions,Gold Coast,Metricon Stadium,3,3,0,1,1431.228618,1376.224321,W
+2013,Gold Coast,Brisbane Lions,Metricon Stadium,3,3,1,0,1376.224321,1431.228618,L
+2013,Richmond,Western Bulldogs,Etihad Stadium,3,3,0,0,1537.07892,1368.403822,W
+2013,Western Bulldogs,Richmond,Etihad Stadium,3,3,0,0,1368.403822,1537.07892,L
+2013,Collingwood,Hawthorn,MCG,3,3,0,0,1650.424026,1645.439861,L
+2013,Hawthorn,Collingwood,MCG,3,3,0,0,1645.439861,1650.424026,W
+2013,Adelaide,Port Adelaide,AAMI Stadium,3,3,0,0,1589.714804,1412.283015,L
+2013,Port Adelaide,Adelaide,AAMI Stadium,3,3,0,0,1412.283015,1589.714804,W
+2013,Geelong,Sydney,SCG,4,4,0,1,1679.46743,1628.467816,W
+2013,Sydney,Geelong,SCG,4,4,1,0,1628.467816,1679.46743,L
+2013,Fremantle,Hawthorn,Aurora Stadium,4,4,0,1,1592.759911,1672.641063,L
+2013,Hawthorn,Fremantle,Aurora Stadium,4,4,1,0,1672.641063,1592.759911,W
+2013,Collingwood,Richmond,MCG,4,4,0,0,1623.222824,1551.811215,W
+2013,Richmond,Collingwood,MCG,4,4,0,0,1551.811215,1623.222824,L
+2013,Essendon,St Kilda,Etihad Stadium,4,4,0,0,1548.850849,1488.310502,W
+2013,St Kilda,Essendon,Etihad Stadium,4,4,0,0,1488.310502,1548.850849,L
+2013,Carlton,West Coast,Patersons Stadium,4,4,0,1,1429.051401,1544.129053,W
+2013,West Coast,Carlton,Patersons Stadium,4,4,1,0,1544.129053,1429.051401,L
+2013,Gold Coast,Port Adelaide,Metricon Stadium,4,4,1,0,1347.628545,1451.716251,L
+2013,Port Adelaide,Gold Coast,Metricon Stadium,4,4,0,1,1451.716251,1347.628545,W
+2013,Greater Western Sydney,Melbourne,MCG,4,4,0,1,1267.186921,1294.396647,L
+2013,Melbourne,Greater Western Sydney,MCG,4,4,1,0,1294.396647,1267.186921,W
+2013,Adelaide,Western Bulldogs,AAMI Stadium,4,4,1,0,1550.281567,1353.671527,W
+2013,Western Bulldogs,Adelaide,AAMI Stadium,4,4,0,1,1353.671527,1550.281567,L
+2013,Brisbane Lions,North Melbourne,Etihad Stadium,4,4,0,1,1459.824395,1516.582084,L
+2013,North Melbourne,Brisbane Lions,Etihad Stadium,4,4,1,0,1516.582084,1459.824395,W
+2013,Collingwood,Essendon,MCG,5,5,0,0,1644.603836,1571.041347,L
+2013,Essendon,Collingwood,MCG,5,5,0,0,1571.041347,1644.603836,W
+2013,St Kilda,Sydney,"Westpac Stadium, NZ",5,5,0,0,1466.120004,1599.564551,L
+2013,Sydney,St Kilda,"Westpac Stadium, NZ",5,5,0,0,1599.564551,1466.120004,W
+2013,Fremantle,Richmond,Patersons Stadium,5,5,1,0,1577.360163,1530.430202,W
+2013,Richmond,Fremantle,Patersons Stadium,5,5,0,1,1530.430202,1577.360163,L
+2013,Gold Coast,Greater Western Sydney,StarTrack Oval Canberra,5,5,0,0,1322.814876,1248.25784,W
+2013,Greater Western Sydney,Gold Coast,StarTrack Oval Canberra,5,5,0,0,1248.25784,1322.814876,L
+2013,Adelaide,Carlton,MCG,5,5,0,1,1559.43197,1469.410008,L
+2013,Carlton,Adelaide,MCG,5,5,1,0,1469.410008,1559.43197,W
+2013,Port Adelaide,West Coast,AAMI Stadium,5,5,1,0,1476.52992,1503.770445,W
+2013,West Coast,Port Adelaide,AAMI Stadium,5,5,0,1,1503.770445,1476.52992,L
+2013,Geelong,Western Bulldogs,Etihad Stadium,5,5,0,0,1708.370695,1344.521125,W
+2013,Western Bulldogs,Geelong,Etihad Stadium,5,5,0,0,1344.521125,1708.370695,L
+2013,Brisbane Lions,Melbourne,Gabba,5,5,1,0,1442.923042,1313.325728,W
+2013,Melbourne,Brisbane Lions,Gabba,5,5,0,1,1313.325728,1442.923042,L
+2013,Hawthorn,North Melbourne,MCG,5,5,0,0,1688.040811,1533.483436,W
+2013,North Melbourne,Hawthorn,MCG,5,5,0,0,1533.483436,1688.040811,L
+2013,Collingwood,St Kilda,Etihad Stadium,6,6,0,0,1612.192797,1449.125006,W
+2013,St Kilda,Collingwood,Etihad Stadium,6,6,0,0,1449.125006,1612.192797,L
+2013,Essendon,Greater Western Sydney,Etihad Stadium,6,6,1,0,1603.452386,1227.109198,W
+2013,Greater Western Sydney,Essendon,Etihad Stadium,6,6,0,1,1227.109198,1603.452386,L
+2013,North Melbourne,Port Adelaide,Blundstone Arena,6,6,0,0,1517.867046,1499.449447,W
+2013,Port Adelaide,North Melbourne,Blundstone Arena,6,6,0,0,1499.449447,1517.867046,L
+2013,Adelaide,Hawthorn,AAMI Stadium,6,6,1,0,1531.694856,1703.657201,L
+2013,Hawthorn,Adelaide,AAMI Stadium,6,6,0,1,1703.657201,1531.694856,W
+2013,Fremantle,Gold Coast,Metricon Stadium,6,6,0,1,1594.923104,1343.963519,W
+2013,Gold Coast,Fremantle,Metricon Stadium,6,6,1,0,1343.963519,1594.923104,L
+2013,Geelong,Richmond,MCG,6,6,0,0,1714.250695,1512.867261,W
+2013,Richmond,Geelong,MCG,6,6,0,0,1512.867261,1714.250695,L
+2013,Brisbane Lions,Sydney,SCG,6,6,0,1,1455.38032,1616.559549,L
+2013,Sydney,Brisbane Lions,SCG,6,6,1,0,1616.559549,1455.38032,W
+2013,Carlton,Melbourne,MCG,6,6,0,0,1497.147121,1300.868451,W
+2013,Melbourne,Carlton,MCG,6,6,0,0,1300.868451,1497.147121,L
+2013,West Coast,Western Bulldogs,Patersons Stadium,6,6,1,0,1480.850918,1338.641125,W
+2013,Western Bulldogs,West Coast,Patersons Stadium,6,6,0,1,1338.641125,1480.850918,L
+2013,Essendon,Geelong,Etihad Stadium,7,7,0,0,1607.105885,1727.058401,L
+2013,Geelong,Essendon,Etihad Stadium,7,7,0,0,1727.058401,1607.105885,W
+2013,Port Adelaide,Richmond,AAMI Stadium,7,7,1,0,1474.053134,1500.059555,L
+2013,Richmond,Port Adelaide,AAMI Stadium,7,7,0,1,1500.059555,1474.053134,W
+2013,Brisbane Lions,West Coast,Gabba,7,7,1,0,1444.576708,1492.627363,L
+2013,West Coast,Brisbane Lions,Gabba,7,7,0,1,1492.627363,1444.576708,W
+2013,North Melbourne,Western Bulldogs,Etihad Stadium,7,7,0,0,1543.263359,1326.864681,W
+2013,Western Bulldogs,North Melbourne,Etihad Stadium,7,7,0,0,1326.864681,1543.263359,L
+2013,Collingwood,Fremantle,Patersons Stadium,7,7,0,1,1627.272498,1609.398811,L
+2013,Fremantle,Collingwood,Patersons Stadium,7,7,1,0,1609.398811,1627.272498,W
+2013,Hawthorn,Sydney,MCG,7,7,1,0,1723.399591,1627.363161,W
+2013,Sydney,Hawthorn,MCG,7,7,0,1,1627.363161,1723.399591,L
+2013,Adelaide,Greater Western Sydney,_koda Stadium,7,7,0,1,1511.952467,1223.455699,W
+2013,Greater Western Sydney,Adelaide,_koda Stadium,7,7,1,0,1223.455699,1511.952467,L
+2013,Gold Coast,Melbourne,MCG,7,7,0,1,1329.487811,1287.772065,W
+2013,Melbourne,Gold Coast,MCG,7,7,1,0,1287.772065,1329.487811,L
+2013,Carlton,St Kilda,Etihad Stadium,7,7,0,0,1510.243506,1434.045305,L
+2013,St Kilda,Carlton,Etihad Stadium,7,7,0,0,1434.045305,1510.243506,W
+2013,North Melbourne,West Coast,Patersons Stadium,8,8,0,1,1555.247503,1521.756708,L
+2013,West Coast,North Melbourne,Patersons Stadium,8,8,1,0,1521.756708,1555.247503,W
+2013,Brisbane Lions,Essendon,Etihad Stadium,8,8,0,1,1415.447363,1589.196661,W
+2013,Essendon,Brisbane Lions,Etihad Stadium,8,8,1,0,1589.196661,1415.447363,L
+2013,Greater Western Sydney,Hawthorn,Aurora Stadium,8,8,0,1,1211.147491,1737.79894,L
+2013,Hawthorn,Greater Western Sydney,Aurora Stadium,8,8,1,0,1737.79894,1211.147491,W
+2013,Gold Coast,Western Bulldogs,Metricon Stadium,8,8,1,0,1359.101659,1314.880537,W
+2013,Western Bulldogs,Gold Coast,Metricon Stadium,8,8,0,1,1314.880537,1359.101659,L
+2013,Fremantle,Sydney,SCG,8,8,0,1,1631.613566,1612.963811,L
+2013,Sydney,Fremantle,SCG,8,8,1,0,1612.963811,1631.613566,L
+2013,Collingwood,Geelong,MCG,8,8,0,0,1605.057743,1744.967626,W
+2013,Geelong,Collingwood,MCG,8,8,0,0,1744.967626,1605.057743,L
+2013,Carlton,Port Adelaide,Etihad Stadium,8,8,1,0,1477.638197,1443.246408,W
+2013,Port Adelaide,Carlton,Etihad Stadium,8,8,0,1,1443.246408,1477.638197,L
+2013,Melbourne,Richmond,MCG,8,8,0,0,1258.158218,1530.866281,L
+2013,Richmond,Melbourne,MCG,8,8,0,0,1530.866281,1258.158218,W
+2013,Adelaide,St Kilda,AAMI Stadium,8,8,1,0,1524.260674,1466.650614,W
+2013,St Kilda,Adelaide,AAMI Stadium,8,8,0,1,1466.650614,1524.260674,L
+2013,Collingwood,Sydney,MCG,9,9,1,0,1642.124914,1608.420195,L
+2013,Sydney,Collingwood,MCG,9,9,0,1,1608.420195,1642.124914,W
+2013,Geelong,Port Adelaide,AAMI Stadium,9,9,0,1,1707.900455,1424.820581,W
+2013,Port Adelaide,Geelong,AAMI Stadium,9,9,1,0,1424.820581,1707.900455,L
+2013,Greater Western Sydney,West Coast,_koda Stadium,9,9,1,0,1209.546399,1545.149655,L
+2013,West Coast,Greater Western Sydney,_koda Stadium,9,9,0,1,1545.149655,1209.546399,W
+2013,St Kilda,Western Bulldogs,Etihad Stadium,9,9,0,0,1449.806005,1297.132919,L
+2013,Western Bulldogs,St Kilda,Etihad Stadium,9,9,0,0,1297.132919,1449.806005,W
+2013,Brisbane Lions,Carlton,Gabba,9,9,1,0,1458.887618,1496.064024,L
+2013,Carlton,Brisbane Lions,Gabba,9,9,0,1,1496.064024,1458.887618,W
+2013,Essendon,Richmond,MCG,9,9,0,0,1545.756405,1540.104044,W
+2013,Richmond,Essendon,MCG,9,9,0,0,1540.104044,1545.756405,L
+2013,Gold Coast,Hawthorn,MCG,9,9,0,1,1376.849276,1739.400032,L
+2013,Hawthorn,Gold Coast,MCG,9,9,1,0,1739.400032,1376.849276,W
+2013,Adelaide,North Melbourne,Etihad Stadium,9,9,0,1,1541.105283,1531.854555,W
+2013,North Melbourne,Adelaide,Etihad Stadium,9,9,1,0,1531.854555,1541.105283,L
+2013,Fremantle,Melbourne,Patersons Stadium,9,9,1,0,1636.157183,1248.920455,W
+2013,Melbourne,Fremantle,Patersons Stadium,9,9,0,1,1248.920455,1636.157183,L
+2013,Brisbane Lions,Collingwood,Gabba,10,10,1,0,1428.927709,1606.96555,L
+2013,Collingwood,Brisbane Lions,Gabba,10,10,0,1,1606.96555,1428.927709,W
+2013,Carlton,Greater Western Sydney,Etihad Stadium,10,10,1,0,1526.023933,1199.6205,W
+2013,Greater Western Sydney,Carlton,Etihad Stadium,10,10,0,1,1199.6205,1526.023933,L
+2013,Adelaide,Fremantle,AAMI Stadium,10,10,1,0,1573.166674,1639.60288,L
+2013,Fremantle,Adelaide,AAMI Stadium,10,10,0,1,1639.60288,1573.166674,W
+2013,Essendon,Sydney,SCG,10,10,0,1,1572.136701,1643.579559,L
+2013,Sydney,Essendon,SCG,10,10,1,0,1643.579559,1572.136701,W
+2013,Geelong,Gold Coast,Simonds Stadium,10,10,1,0,1720.506873,1372.916019,W
+2013,Gold Coast,Geelong,Simonds Stadium,10,10,0,1,1372.916019,1720.506873,L
+2013,Port Adelaide,Western Bulldogs,TIO Stadium,10,10,0,0,1412.214163,1335.029251,L
+2013,Western Bulldogs,Port Adelaide,TIO Stadium,10,10,0,0,1335.029251,1412.214163,W
+2013,Hawthorn,Melbourne,MCG,10,10,0,0,1743.333289,1245.474758,W
+2013,Melbourne,Hawthorn,MCG,10,10,0,0,1245.474758,1743.333289,L
+2013,North Melbourne,St Kilda,Etihad Stadium,10,10,0,0,1499.793164,1411.909674,W
+2013,St Kilda,North Melbourne,Etihad Stadium,10,10,0,0,1411.909674,1499.793164,L
+2013,Richmond,West Coast,Patersons Stadium,10,10,0,1,1513.723748,1555.075555,W
+2013,West Coast,Richmond,Patersons Stadium,10,10,1,0,1555.075555,1513.723748,L
+2013,Carlton,Essendon,MCG,11,11,0,0,1530.786216,1556.198236,L
+2013,Essendon,Carlton,MCG,11,11,0,0,1556.198236,1530.786216,W
+2013,Geelong,Greater Western Sydney,_koda Stadium,11,11,0,1,1724.76577,1194.858216,W
+2013,Greater Western Sydney,Geelong,_koda Stadium,11,11,1,0,1194.858216,1724.76577,L
+2013,Adelaide,Sydney,AAMI Stadium,11,11,1,0,1545.450979,1659.518024,L
+2013,Sydney,Adelaide,AAMI Stadium,11,11,0,1,1659.518024,1545.450979,W
+2013,Gold Coast,North Melbourne,Metricon Stadium,11,11,1,0,1368.657122,1519.967541,W
+2013,North Melbourne,Gold Coast,Metricon Stadium,11,11,0,1,1519.967541,1368.657122,L
+2013,St Kilda,West Coast,Etihad Stadium,11,11,1,0,1391.735298,1519.386795,L
+2013,West Coast,St Kilda,Etihad Stadium,11,11,0,1,1519.386795,1391.735298,W
+2013,Collingwood,Melbourne,MCG,11,11,0,0,1626.273688,1242.585812,W
+2013,Melbourne,Collingwood,MCG,11,11,0,0,1242.585812,1626.273688,L
+2013,Carlton,Hawthorn,Etihad Stadium,12,11,0,0,1505.927602,1746.222235,L
+2013,Hawthorn,Carlton,Etihad Stadium,11,12,0,0,1746.222235,1505.927602,W
+2013,Adelaide,Richmond,MCG,12,11,0,1,1521.401412,1549.412508,L
+2013,Richmond,Adelaide,MCG,11,12,1,0,1549.412508,1521.401412,W
+2013,Brisbane Lions,Fremantle,Patersons Stadium,11,11,0,1,1409.619572,1667.318575,L
+2013,Fremantle,Brisbane Lions,Patersons Stadium,11,11,1,0,1667.318575,1409.619572,W
+2013,Essendon,Gold Coast,Etihad Stadium,12,12,1,0,1581.05685,1401.04289,W
+2013,Gold Coast,Essendon,Etihad Stadium,12,12,0,1,1401.04289,1581.05685,L
+2013,Greater Western Sydney,Port Adelaide,_koda Stadium,12,11,1,0,1191.153113,1379.536289,L
+2013,Port Adelaide,Greater Western Sydney,_koda Stadium,11,12,0,1,1379.536289,1191.153113,W
+2013,Collingwood,Western Bulldogs,Etihad Stadium,12,11,0,0,1631.581928,1367.707125,W
+2013,Western Bulldogs,Collingwood,Etihad Stadium,11,12,0,0,1367.707125,1631.581928,L
+2013,Hawthorn,West Coast,Etihad Stadium,12,12,1,0,1756.97502,1542.403712,W
+2013,West Coast,Hawthorn,Etihad Stadium,12,12,0,1,1542.403712,1756.97502,L
+2013,Port Adelaide,Sydney,AAMI Stadium,12,12,1,0,1398.114827,1683.567591,W
+2013,Sydney,Port Adelaide,AAMI Stadium,12,12,0,1,1683.567591,1398.114827,L
+2013,Melbourne,St Kilda,MCG,12,12,0,0,1237.277572,1368.71838,L
+2013,St Kilda,Melbourne,MCG,12,12,0,0,1368.71838,1237.277572,W
+2013,Richmond,Western Bulldogs,Etihad Stadium,12,12,0,0,1568.285125,1358.074039,W
+2013,Western Bulldogs,Richmond,Etihad Stadium,12,12,0,0,1358.074039,1568.285125,L
+2013,Fremantle,North Melbourne,Patersons Stadium,12,12,1,0,1674.099056,1487.581773,W
+2013,North Melbourne,Fremantle,Patersons Stadium,12,12,0,1,1487.581773,1674.099056,L
+2013,Brisbane Lions,Geelong,Gabba,12,12,1,0,1402.83909,1728.470874,W
+2013,Geelong,Brisbane Lions,Gabba,12,12,0,1,1728.470874,1402.83909,L
+2013,Essendon,West Coast,Patersons Stadium,13,13,0,1,1590.955258,1534.011491,W
+2013,West Coast,Essendon,Patersons Stadium,13,13,1,0,1534.011491,1590.955258,L
+2013,Carlton,Sydney,SCG,13,13,0,1,1495.174817,1642.409705,L
+2013,Sydney,Carlton,SCG,13,13,1,0,1642.409705,1495.174817,W
+2013,Adelaide,Gold Coast,Metricon Stadium,13,13,0,1,1502.528795,1391.144482,W
+2013,Gold Coast,Adelaide,Metricon Stadium,13,13,1,0,1391.144482,1502.528795,L
+2013,Collingwood,Port Adelaide,AAMI Stadium,13,13,0,1,1641.215013,1439.272713,L
+2013,Port Adelaide,Collingwood,AAMI Stadium,13,13,1,0,1439.272713,1641.215013,W
+2013,Melbourne,Western Bulldogs,MCG,13,13,0,0,1220.148381,1345.755155,W
+2013,Western Bulldogs,Melbourne,MCG,13,13,0,0,1345.755155,1220.148381,L
+2013,Fremantle,Geelong,Simonds Stadium,13,13,0,1,1683.698856,1685.236436,L
+2013,Geelong,Fremantle,Simonds Stadium,13,13,1,0,1685.236436,1683.698856,W
+2013,Brisbane Lions,Hawthorn,Aurora Stadium,13,13,0,1,1446.073528,1765.367241,L
+2013,Hawthorn,Brisbane Lions,Aurora Stadium,13,13,1,0,1765.367241,1446.073528,W
+2013,Greater Western Sydney,North Melbourne,Etihad Stadium,13,13,0,1,1172.574575,1477.981973,L
+2013,North Melbourne,Greater Western Sydney,Etihad Stadium,13,13,1,0,1477.981973,1172.574575,W
+2013,Richmond,St Kilda,MCG,13,13,0,0,1580.60401,1385.847572,W
+2013,St Kilda,Richmond,MCG,13,13,0,0,1385.847572,1580.60401,L
+2013,Carlton,Collingwood,MCG,14,14,0,0,1483.66207,1605.224403,L
+2013,Collingwood,Carlton,MCG,14,14,0,0,1605.224403,1483.66207,W
+2013,Greater Western Sydney,Western Bulldogs,StarTrack Oval Canberra,14,14,0,0,1167.261093,1309.645172,L
+2013,Western Bulldogs,Greater Western Sydney,StarTrack Oval Canberra,14,14,0,0,1309.645172,1167.261093,W
+2013,North Melbourne,Richmond,Etihad Stadium,14,14,0,0,1483.295455,1593.787326,W
+2013,Richmond,North Melbourne,Etihad Stadium,14,14,0,0,1593.787326,1483.295455,L
+2013,Brisbane Lions,Gold Coast,Gabba,14,14,1,0,1441.130631,1366.889895,W
+2013,Gold Coast,Brisbane Lions,Gabba,14,14,0,1,1366.889895,1441.130631,L
+2013,Adelaide,West Coast,AAMI Stadium,14,14,1,0,1526.783381,1505.564805,L
+2013,West Coast,Adelaide,AAMI Stadium,14,14,0,1,1505.564805,1526.783381,W
+2013,Geelong,Hawthorn,MCG,14,14,0,0,1706.012359,1770.310138,W
+2013,Hawthorn,Geelong,MCG,14,14,0,0,1770.310138,1706.012359,L
+2013,Melbourne,Sydney,MCG,14,14,1,0,1256.258364,1653.922451,L
+2013,Sydney,Melbourne,MCG,14,14,0,1,1653.922451,1256.258364,W
+2013,Fremantle,St Kilda,Patersons Stadium,14,14,1,0,1662.922933,1372.664256,W
+2013,St Kilda,Fremantle,Patersons Stadium,14,14,0,1,1372.664256,1662.922933,L
+2013,Essendon,Port Adelaide,Etihad Stadium,14,14,1,0,1619.401943,1475.263323,W
+2013,Port Adelaide,Essendon,Etihad Stadium,14,14,0,1,1475.263323,1619.401943,L
+2013,Adelaide,Collingwood,MCG,15,15,0,1,1492.503931,1623.023255,L
+2013,Collingwood,Adelaide,MCG,15,15,1,0,1623.023255,1492.503931,W
+2013,Hawthorn,Port Adelaide,AAMI Stadium,15,15,0,1,1738.586727,1463.588607,W
+2013,Port Adelaide,Hawthorn,AAMI Stadium,15,15,1,0,1463.588607,1738.586727,L
+2013,Geelong,Melbourne,Simonds Stadium,15,15,1,0,1737.73577,1248.905444,W
+2013,Melbourne,Geelong,Simonds Stadium,15,15,0,1,1248.905444,1737.73577,L
+2013,Gold Coast,Richmond,Cazaly's Stadium,15,15,0,0,1351.131256,1558.718906,L
+2013,Richmond,Gold Coast,Cazaly's Stadium,15,15,0,0,1558.718906,1351.131256,W
+2013,Brisbane Lions,North Melbourne,Gabba,15,15,1,0,1456.889271,1518.363875,W
+2013,North Melbourne,Brisbane Lions,Gabba,15,15,0,1,1518.363875,1456.889271,L
+2013,Carlton,St Kilda,Etihad Stadium,15,15,0,0,1465.863219,1366.918487,W
+2013,St Kilda,Carlton,Etihad Stadium,15,15,0,0,1366.918487,1465.863219,L
+2013,Greater Western Sydney,Sydney,SCG,15,15,0,0,1150.857824,1661.275372,L
+2013,Sydney,Greater Western Sydney,SCG,15,15,0,0,1661.275372,1150.857824,W
+2013,Essendon,Western Bulldogs,Etihad Stadium,15,15,0,0,1631.07666,1326.04844,W
+2013,Western Bulldogs,Essendon,Etihad Stadium,15,15,0,0,1326.04844,1631.07666,L
+2013,Fremantle,West Coast,Patersons Stadium,15,15,0,0,1668.668702,1539.844256,W
+2013,West Coast,Fremantle,Patersons Stadium,15,15,0,0,1539.844256,1668.668702,L
+2013,Carlton,North Melbourne,Etihad Stadium,16,16,0,0,1485.242756,1492.828827,W
+2013,North Melbourne,Carlton,Etihad Stadium,16,16,0,0,1492.828827,1485.242756,L
+2013,Hawthorn,Western Bulldogs,Aurora Stadium,16,16,1,0,1751.64729,1318.147934,W
+2013,Western Bulldogs,Hawthorn,Aurora Stadium,16,16,0,1,1318.147934,1751.64729,L
+2013,Essendon,Greater Western Sydney,_koda Stadium,16,16,0,1,1638.977166,1148.160231,W
+2013,Greater Western Sydney,Essendon,_koda Stadium,16,16,1,0,1148.160231,1638.977166,L
+2013,Collingwood,Gold Coast,Metricon Stadium,16,16,0,1,1635.429844,1338.668481,L
+2013,Gold Coast,Collingwood,Metricon Stadium,16,16,1,0,1338.668481,1635.429844,W
+2013,Brisbane Lions,Melbourne,TIO Stadium,16,16,0,0,1482.424318,1246.929262,W
+2013,Melbourne,Brisbane Lions,TIO Stadium,16,16,0,0,1246.929262,1482.424318,L
+2013,Port Adelaide,St Kilda,Etihad Stadium,16,16,0,1,1450.528045,1347.538949,W
+2013,St Kilda,Port Adelaide,Etihad Stadium,16,16,1,0,1347.538949,1450.528045,L
+2013,Fremantle,Richmond,MCG,16,16,0,1,1685.973958,1571.181681,L
+2013,Richmond,Fremantle,MCG,16,16,1,0,1571.181681,1685.973958,W
+2013,Adelaide,Geelong,AAMI Stadium,16,16,1,0,1480.097342,1739.711952,W
+2013,Geelong,Adelaide,AAMI Stadium,16,16,0,1,1739.711952,1480.097342,L
+2013,Sydney,West Coast,Patersons Stadium,16,16,0,1,1663.972965,1522.539,W
+2013,West Coast,Sydney,Patersons Stadium,16,16,1,0,1522.539,1663.972965,L
+2013,Essendon,Hawthorn,Etihad Stadium,17,17,0,0,1643.537755,1754.327651,L
+2013,Hawthorn,Essendon,Etihad Stadium,17,17,0,0,1754.327651,1643.537755,W
+2013,Carlton,Gold Coast,Metricon Stadium,17,17,0,1,1512.644718,1380.438698,W
+2013,Gold Coast,Carlton,Metricon Stadium,17,17,1,0,1380.438698,1512.644718,L
+2013,Melbourne,North Melbourne,Etihad Stadium,17,17,0,0,1235.936988,1465.426866,L
+2013,North Melbourne,Melbourne,Etihad Stadium,17,17,0,0,1465.426866,1235.936988,W
+2013,Collingwood,Greater Western Sydney,MCG,17,17,1,0,1593.659627,1143.599641,W
+2013,Greater Western Sydney,Collingwood,MCG,17,17,0,1,1143.599641,1593.659627,L
+2013,Adelaide,Fremantle,Patersons Stadium,17,17,0,1,1519.775176,1656.335097,L
+2013,Fremantle,Adelaide,Patersons Stadium,17,17,1,0,1656.335097,1519.775176,W
+2013,Geelong,St Kilda,Simonds Stadium,17,17,1,0,1700.034118,1322.640939,W
+2013,St Kilda,Geelong,Simonds Stadium,17,17,0,1,1322.640939,1700.034118,L
+2013,Brisbane Lions,Port Adelaide,AAMI Stadium,17,17,0,1,1493.416592,1475.426055,L
+2013,Port Adelaide,Brisbane Lions,AAMI Stadium,17,17,1,0,1475.426055,1493.416592,W
+2013,West Coast,Western Bulldogs,Etihad Stadium,17,17,0,1,1500.558147,1315.467573,L
+2013,Western Bulldogs,West Coast,Etihad Stadium,17,17,1,0,1315.467573,1500.558147,W
+2013,Richmond,Sydney,SCG,17,17,0,1,1600.820542,1685.953817,L
+2013,Sydney,Richmond,SCG,17,17,1,0,1685.953817,1600.820542,W
+2013,Geelong,North Melbourne,Etihad Stadium,18,18,0,0,1703.667092,1476.72433,L
+2013,North Melbourne,Geelong,Etihad Stadium,18,18,0,0,1476.72433,1703.667092,W
+2013,Greater Western Sydney,Melbourne,_koda Stadium,18,18,1,0,1141.151876,1224.639523,W
+2013,Melbourne,Greater Western Sydney,_koda Stadium,18,18,0,1,1224.639523,1141.151876,L
+2013,Hawthorn,Richmond,MCG,18,18,0,0,1772.871472,1585.750551,L
+2013,Richmond,Hawthorn,MCG,18,18,0,0,1585.750551,1772.871472,W
+2013,Gold Coast,West Coast,Patersons Stadium,18,18,0,1,1357.765602,1465.734445,L
+2013,West Coast,Gold Coast,Patersons Stadium,18,18,1,0,1465.734445,1357.765602,W
+2013,Brisbane Lions,St Kilda,Gabba,18,18,1,0,1471.193083,1319.007964,W
+2013,St Kilda,Brisbane Lions,Gabba,18,18,0,1,1319.007964,1471.193083,L
+2013,Carlton,Fremantle,Etihad Stadium,18,18,1,0,1535.317814,1668.413176,L
+2013,Fremantle,Carlton,Etihad Stadium,18,18,0,1,1668.413176,1535.317814,W
+2013,Sydney,Western Bulldogs,Etihad Stadium,18,18,0,1,1701.023807,1350.291276,W
+2013,Western Bulldogs,Sydney,Etihad Stadium,18,18,1,0,1350.291276,1701.023807,L
+2013,Adelaide,Port Adelaide,AAMI Stadium,18,18,0,0,1507.697097,1497.649564,L
+2013,Port Adelaide,Adelaide,AAMI Stadium,18,18,0,0,1497.649564,1507.697097,W
+2013,Collingwood,Essendon,MCG,18,18,0,0,1596.107393,1624.993935,W
+2013,Essendon,Collingwood,MCG,18,18,0,0,1624.993935,1596.107393,L
+2013,Hawthorn,St Kilda,Etihad Stadium,19,19,0,0,1732.863615,1307.750766,W
+2013,St Kilda,Hawthorn,Etihad Stadium,19,19,0,0,1307.750766,1732.863615,L
+2013,Brisbane Lions,Richmond,MCG,19,19,0,1,1482.450282,1625.758408,L
+2013,Richmond,Brisbane Lions,MCG,19,19,1,0,1625.758408,1482.450282,W
+2013,Geelong,Port Adelaide,Simonds Stadium,19,19,1,0,1661.462807,1525.241388,W
+2013,Port Adelaide,Geelong,Simonds Stadium,19,19,0,1,1525.241388,1661.462807,L
+2013,Carlton,Western Bulldogs,Etihad Stadium,19,19,0,0,1512.711695,1341.05062,L
+2013,Western Bulldogs,Carlton,Etihad Stadium,19,19,0,0,1341.05062,1512.711695,W
+2013,Gold Coast,Melbourne,Metricon Stadium,19,19,1,0,1344.078177,1197.406427,W
+2013,Melbourne,Gold Coast,Metricon Stadium,19,19,0,1,1197.406427,1344.078177,L
+2013,Collingwood,Sydney,ANZ Stadium,19,19,0,1,1625.148383,1710.264463,W
+2013,Sydney,Collingwood,ANZ Stadium,19,19,1,0,1710.264463,1625.148383,L
+2013,Essendon,West Coast,Etihad Stadium,19,19,1,0,1595.952944,1479.42187,L
+2013,West Coast,Essendon,Etihad Stadium,19,19,0,1,1479.42187,1595.952944,W
+2013,Adelaide,North Melbourne,AAMI Stadium,19,19,1,0,1480.105273,1518.928616,W
+2013,North Melbourne,Adelaide,AAMI Stadium,19,19,0,1,1518.928616,1480.105273,L
+2013,Fremantle,Greater Western Sydney,Patersons Stadium,19,19,1,0,1691.019294,1168.384972,W
+2013,Greater Western Sydney,Fremantle,Patersons Stadium,19,19,0,1,1168.384972,1691.019294,L
+2013,Collingwood,Hawthorn,MCG,20,20,0,0,1663.71038,1737.135353,L
+2013,Hawthorn,Collingwood,MCG,20,20,0,0,1737.135353,1663.71038,W
+2013,Carlton,Richmond,MCG,20,20,0,0,1473.627974,1637.476848,W
+2013,Richmond,Carlton,MCG,20,20,0,0,1637.476848,1473.627974,L
+2013,Gold Coast,Port Adelaide,AAMI Stadium,20,20,0,1,1355.62026,1513.145065,L
+2013,Port Adelaide,Gold Coast,AAMI Stadium,20,20,1,0,1513.145065,1355.62026,W
+2013,Essendon,North Melbourne,Etihad Stadium,20,20,0,0,1555.51094,1495.130025,L
+2013,North Melbourne,Essendon,Etihad Stadium,20,20,0,0,1495.130025,1555.51094,W
+2013,Geelong,West Coast,Patersons Stadium,20,20,0,1,1673.55913,1519.863875,W
+2013,West Coast,Geelong,Patersons Stadium,20,20,1,0,1519.863875,1673.55913,L
+2013,Brisbane Lions,Greater Western Sydney,Gabba,20,20,1,0,1470.731842,1166.747568,W
+2013,Greater Western Sydney,Brisbane Lions,Gabba,20,20,0,1,1166.747568,1470.731842,L
+2013,Fremantle,Melbourne,MCG,20,20,0,1,1692.656698,1185.864344,W
+2013,Melbourne,Fremantle,MCG,20,20,1,0,1185.864344,1692.656698,L
+2013,St Kilda,Sydney,SCG,20,20,0,1,1303.479028,1671.702466,L
+2013,Sydney,St Kilda,SCG,20,20,1,0,1671.702466,1303.479028,W
+2013,Adelaide,Western Bulldogs,Etihad Stadium,20,20,0,1,1503.903863,1380.134342,L
+2013,Western Bulldogs,Adelaide,Etihad Stadium,20,20,1,0,1380.134342,1503.903863,W
+2013,Collingwood,West Coast,MCG,21,21,1,0,1642.478206,1498.792462,W
+2013,West Coast,Collingwood,MCG,21,21,0,1,1498.792462,1642.478206,L
+2013,Adelaide,Melbourne,AAMI Stadium,21,21,1,0,1473.581786,1181.673136,W
+2013,Melbourne,Adelaide,AAMI Stadium,21,21,0,1,1181.673136,1473.581786,L
+2013,Hawthorn,North Melbourne,Etihad Stadium,21,21,0,0,1758.367527,1526.560646,W
+2013,North Melbourne,Hawthorn,Etihad Stadium,21,21,0,0,1526.560646,1758.367527,L
+2013,Geelong,Sydney,Simonds Stadium,21,21,1,0,1694.630543,1675.518349,W
+2013,Sydney,Geelong,Simonds Stadium,21,21,0,1,1675.518349,1694.630543,L
+2013,Fremantle,Port Adelaide,Patersons Stadium,21,21,1,0,1696.847906,1524.131307,W
+2013,Port Adelaide,Fremantle,Patersons Stadium,21,21,0,1,1524.131307,1696.847906,L
+2013,Carlton,Essendon,MCG,21,21,0,0,1512.230023,1524.080319,L
+2013,Essendon,Carlton,MCG,21,21,0,0,1524.080319,1512.230023,W
+2013,Gold Coast,St Kilda,Etihad Stadium,21,21,0,1,1344.634017,1299.663145,L
+2013,St Kilda,Gold Coast,Etihad Stadium,21,21,1,0,1299.663145,1344.634017,W
+2013,Greater Western Sydney,Richmond,_koda Stadium,21,21,1,0,1161.394741,1598.874798,L
+2013,Richmond,Greater Western Sydney,_koda Stadium,21,21,0,1,1598.874798,1161.394741,W
+2013,Brisbane Lions,Western Bulldogs,Gabba,21,21,1,0,1476.084669,1410.45642,W
+2013,Western Bulldogs,Brisbane Lions,Gabba,21,21,0,1,1410.45642,1476.084669,L
+2013,Hawthorn,Sydney,ANZ Stadium,22,22,0,1,1769.546508,1656.0145,W
+2013,Sydney,Hawthorn,ANZ Stadium,22,22,1,0,1656.0145,1769.546508,L
+2013,Fremantle,St Kilda,Etihad Stadium,22,22,0,1,1707.089879,1323.931103,L
+2013,St Kilda,Fremantle,Etihad Stadium,22,22,1,0,1323.931103,1707.089879,W
+2013,Brisbane Lions,Geelong,Simonds Stadium,22,22,0,1,1492.400608,1714.134392,L
+2013,Geelong,Brisbane Lions,Simonds Stadium,22,22,1,0,1714.134392,1492.400608,W
+2013,Carlton,Port Adelaide,AAMI Stadium,22,22,0,1,1486.327794,1513.889335,W
+2013,Port Adelaide,Carlton,AAMI Stadium,22,22,1,0,1513.889335,1486.327794,L
+2013,Adelaide,West Coast,Patersons Stadium,22,22,0,1,1479.27901,1487.093917,W
+2013,West Coast,Adelaide,Patersons Stadium,22,22,1,0,1487.093917,1479.27901,L
+2013,Essendon,Richmond,MCG,22,22,0,0,1549.982548,1604.890553,L
+2013,Richmond,Essendon,MCG,22,22,0,0,1604.890553,1549.982548,W
+2013,Gold Coast,Greater Western Sydney,Metricon Stadium,22,22,1,0,1320.366059,1155.378986,W
+2013,Greater Western Sydney,Gold Coast,Metricon Stadium,22,22,0,1,1155.378986,1320.366059,L
+2013,Collingwood,North Melbourne,MCG,22,22,0,0,1654.176751,1515.381665,L
+2013,North Melbourne,Collingwood,MCG,22,22,0,0,1515.381665,1654.176751,W
+2013,Melbourne,Western Bulldogs,Etihad Stadium,22,22,0,0,1175.975912,1394.140481,L
+2013,Western Bulldogs,Melbourne,Etihad Stadium,22,22,0,0,1394.140481,1175.975912,W
+2014,Collingwood,Fremantle,Etihad Stadium,1,1,1,0,1587.887357,1621.016819,L
+2014,Fremantle,Collingwood,Etihad Stadium,1,1,0,1,1621.016819,1587.887357,W
+2014,Greater Western Sydney,Sydney,Spotless Stadium,1,1,1,0,1233.572435,1598.943052,W
+2014,Sydney,Greater Western Sydney,Spotless Stadium,1,1,0,1,1598.943052,1233.572435,L
+2014,Gold Coast,Richmond,Metricon Stadium,1,1,1,0,1373.236348,1595.627991,W
+2014,Richmond,Gold Coast,Metricon Stadium,1,1,0,1,1595.627991,1373.236348,L
+2014,Carlton,Port Adelaide,Etihad Stadium,1,1,1,0,1515.792428,1484.370418,L
+2014,Port Adelaide,Carlton,Etihad Stadium,1,1,0,1,1484.370418,1515.792428,W
+2014,Adelaide,Geelong,Simonds Stadium,1,1,0,1,1509.445619,1666.679143,L
+2014,Geelong,Adelaide,Simonds Stadium,1,1,1,0,1666.679143,1509.445619,W
+2014,Essendon,North Melbourne,Etihad Stadium,1,1,0,0,1520.526835,1539.281456,W
+2014,North Melbourne,Essendon,Etihad Stadium,1,1,0,0,1539.281456,1520.526835,L
+2014,Brisbane Lions,Hawthorn,Aurora Stadium,1,1,0,1,1488.222107,1720.227704,L
+2014,Hawthorn,Brisbane Lions,Aurora Stadium,1,1,1,0,1720.227704,1488.222107,W
+2014,Melbourne,St Kilda,Etihad Stadium,1,1,0,0,1248.064578,1402.248917,L
+2014,St Kilda,Melbourne,Etihad Stadium,1,1,0,0,1402.248917,1248.064578,W
+2014,West Coast,Western Bulldogs,Patersons Stadium,1,1,1,0,1465.334076,1429.522717,W
+2014,Western Bulldogs,West Coast,Patersons Stadium,1,1,0,1,1429.522717,1465.334076,L
+2014,Carlton,Richmond,MCG,2,2,0,0,1480.792524,1558.272793,L
+2014,Richmond,Carlton,MCG,2,2,0,0,1558.272793,1480.792524,W
+2014,Essendon,Hawthorn,Etihad Stadium,2,2,0,0,1548.78952,1727.933707,L
+2014,Hawthorn,Essendon,Etihad Stadium,2,2,0,0,1727.933707,1548.78952,W
+2014,Greater Western Sydney,St Kilda,Etihad Stadium,2,2,0,1,1278.591654,1417.889087,L
+2014,St Kilda,Greater Western Sydney,Etihad Stadium,2,2,1,0,1417.889087,1278.591654,W
+2014,Adelaide,Port Adelaide,Adelaide Oval,2,2,0,0,1498.444721,1519.370323,L
+2014,Port Adelaide,Adelaide,Adelaide Oval,2,2,0,0,1519.370323,1498.444721,W
+2014,Fremantle,Gold Coast,Patersons Stadium,2,2,1,0,1651.284362,1410.591546,W
+2014,Gold Coast,Fremantle,Patersons Stadium,2,2,0,1,1410.591546,1651.284362,L
+2014,Collingwood,Sydney,ANZ Stadium,2,2,0,1,1557.619814,1553.923833,W
+2014,Sydney,Collingwood,ANZ Stadium,2,2,1,0,1553.923833,1557.619814,L
+2014,Brisbane Lions,Geelong,Gabba,2,2,1,0,1480.516104,1677.68004,L
+2014,Geelong,Brisbane Lions,Gabba,2,2,0,1,1677.68004,1480.516104,W
+2014,Melbourne,West Coast,MCG,2,2,1,0,1232.424408,1483.661189,L
+2014,West Coast,Melbourne,MCG,2,2,0,1,1483.661189,1232.424408,W
+2014,North Melbourne,Western Bulldogs,Etihad Stadium,2,2,0,0,1511.01877,1411.195605,W
+2014,Western Bulldogs,North Melbourne,Etihad Stadium,2,2,0,0,1411.195605,1511.01877,L
+2014,Fremantle,Hawthorn,MCG,3,3,0,1,1658.666218,1742.030856,L
+2014,Hawthorn,Fremantle,MCG,3,3,1,0,1742.030856,1658.666218,W
+2014,Richmond,Western Bulldogs,Etihad Stadium,3,3,0,0,1579.206275,1391.87861,L
+2014,Western Bulldogs,Richmond,Etihad Stadium,3,3,0,0,1391.87861,1579.206275,W
+2014,Adelaide,Sydney,Adelaide Oval,3,3,1,0,1473.241367,1521.451425,L
+2014,Sydney,Adelaide,Adelaide Oval,3,3,0,1,1521.451425,1473.241367,W
+2014,Brisbane Lions,Gold Coast,Metricon Stadium,3,3,0,1,1462.546486,1403.20969,L
+2014,Gold Coast,Brisbane Lions,Metricon Stadium,3,3,1,0,1403.20969,1462.546486,W
+2014,Collingwood,Geelong,MCG,3,3,0,0,1590.092222,1695.649658,L
+2014,Geelong,Collingwood,MCG,3,3,0,0,1695.649658,1590.092222,W
+2014,St Kilda,West Coast,Patersons Stadium,3,3,0,1,1429.820336,1498.120038,L
+2014,West Coast,St Kilda,Patersons Stadium,3,3,1,0,1498.120038,1429.820336,W
+2014,Greater Western Sydney,Melbourne,Spotless Stadium,3,3,1,0,1266.660405,1217.965558,W
+2014,Melbourne,Greater Western Sydney,Spotless Stadium,3,3,0,1,1217.965558,1266.660405,L
+2014,North Melbourne,Port Adelaide,Etihad Stadium,3,3,1,0,1530.335765,1544.573678,W
+2014,Port Adelaide,North Melbourne,Etihad Stadium,3,3,0,1,1544.573678,1530.335765,L
+2014,Carlton,Essendon,MCG,3,3,0,0,1459.859042,1534.692372,L
+2014,Essendon,Carlton,MCG,3,3,0,0,1534.692372,1459.859042,W
+2014,Collingwood,Richmond,MCG,4,4,0,0,1571.181296,1539.186326,W
+2014,Richmond,Collingwood,MCG,4,4,0,0,1539.186326,1571.181296,L
+2014,Carlton,Melbourne,MCG,4,4,0,0,1438.730769,1200.522407,L
+2014,Melbourne,Carlton,MCG,4,4,0,0,1200.522407,1438.730769,W
+2014,Brisbane Lions,Port Adelaide,Adelaide Oval,4,4,0,1,1437.176016,1522.630785,L
+2014,Port Adelaide,Brisbane Lions,Adelaide Oval,4,4,1,0,1522.630785,1437.176016,W
+2014,Greater Western Sydney,Western Bulldogs,StarTrack Oval,4,4,1,0,1284.103556,1431.898559,L
+2014,Western Bulldogs,Greater Western Sydney,StarTrack Oval,4,4,0,1,1431.898559,1284.103556,W
+2014,Gold Coast,Hawthorn,Metricon Stadium,4,4,1,0,1428.58016,1757.21141,L
+2014,Hawthorn,Gold Coast,Metricon Stadium,4,4,0,1,1757.21141,1428.58016,W
+2014,Geelong,West Coast,Simonds Stadium,4,4,1,0,1714.560585,1514.261926,W
+2014,West Coast,Geelong,Simonds Stadium,4,4,0,1,1514.261926,1714.560585,L
+2014,North Melbourne,Sydney,SCG,4,4,0,1,1552.278658,1550.568557,W
+2014,Sydney,North Melbourne,SCG,4,4,1,0,1550.568557,1552.278658,L
+2014,Adelaide,St Kilda,Etihad Stadium,4,4,0,1,1444.124234,1413.678448,W
+2014,St Kilda,Adelaide,Etihad Stadium,4,4,1,0,1413.678448,1444.124234,L
+2014,Essendon,Fremantle,Patersons Stadium,4,4,0,1,1555.820645,1643.485664,L
+2014,Fremantle,Essendon,Patersons Stadium,4,4,1,0,1643.485664,1555.820645,W
+2014,Brisbane Lions,Richmond,Gabba,5,5,1,0,1422.126071,1514.832344,L
+2014,Richmond,Brisbane Lions,Gabba,5,5,0,1,1514.832344,1422.126071,W
+2014,Collingwood,North Melbourne,MCG,5,5,0,0,1595.535277,1584.897349,W
+2014,North Melbourne,Collingwood,MCG,5,5,0,0,1584.897349,1595.535277,L
+2014,Fremantle,Sydney,SCG,5,5,0,1,1658.398243,1517.949866,L
+2014,Sydney,Fremantle,SCG,5,5,1,0,1517.949866,1658.398243,W
+2014,Port Adelaide,West Coast,Patersons Stadium,5,5,0,1,1537.68073,1505.271544,W
+2014,West Coast,Port Adelaide,Patersons Stadium,5,5,1,0,1505.271544,1537.68073,L
+2014,Essendon,St Kilda,Etihad Stadium,5,5,0,0,1540.908066,1383.207405,L
+2014,St Kilda,Essendon,Etihad Stadium,5,5,0,0,1383.207405,1540.908066,W
+2014,Adelaide,Greater Western Sydney,Adelaide Oval,5,5,1,0,1474.595278,1262.596095,W
+2014,Greater Western Sydney,Adelaide,Adelaide Oval,5,5,0,1,1262.596095,1474.595278,L
+2014,Gold Coast,Melbourne,MCG,5,5,0,1,1418.325508,1243.299065,W
+2014,Melbourne,Gold Coast,MCG,5,5,1,0,1243.299065,1418.325508,L
+2014,Carlton,Western Bulldogs,Etihad Stadium,5,5,0,0,1395.954112,1453.40602,W
+2014,Western Bulldogs,Carlton,Etihad Stadium,5,5,0,0,1453.40602,1395.954112,L
+2014,Geelong,Hawthorn,MCG,5,5,0,0,1723.550967,1767.466061,W
+2014,Hawthorn,Geelong,MCG,5,5,0,0,1767.466061,1723.550967,L
+2014,Collingwood,Essendon,MCG,6,6,0,0,1621.530984,1502.691864,W
+2014,Essendon,Collingwood,MCG,6,6,0,0,1502.691864,1621.530984,L
+2014,Fremantle,North Melbourne,Patersons Stadium,6,6,1,0,1626.819671,1558.901642,L
+2014,North Melbourne,Fremantle,Patersons Stadium,6,6,0,1,1558.901642,1626.819671,W
+2014,Brisbane Lions,St Kilda,Westpac Stadium,6,6,0,0,1396.437008,1421.423606,W
+2014,St Kilda,Brisbane Lions,Westpac Stadium,6,6,0,0,1421.423606,1396.437008,L
+2014,Gold Coast,Greater Western Sydney,Metricon Stadium,6,6,1,0,1437.848372,1254.098525,W
+2014,Greater Western Sydney,Gold Coast,Metricon Stadium,6,6,0,1,1254.098525,1437.848372,L
+2014,Carlton,West Coast,Etihad Stadium,6,6,1,0,1427.165039,1474.949342,W
+2014,West Coast,Carlton,Etihad Stadium,6,6,0,1,1474.949342,1427.165039,L
+2014,Melbourne,Sydney,MCG,6,6,1,0,1223.7762,1549.528438,L
+2014,Sydney,Melbourne,MCG,6,6,0,1,1549.528438,1223.7762,W
+2014,Adelaide,Western Bulldogs,Etihad Stadium,6,6,0,1,1483.092848,1422.195093,W
+2014,Western Bulldogs,Adelaide,Etihad Stadium,6,6,1,0,1422.195093,1483.092848,L
+2014,Hawthorn,Richmond,MCG,6,6,0,0,1737.277917,1540.521407,W
+2014,Richmond,Hawthorn,MCG,6,6,0,0,1540.521407,1737.277917,L
+2014,Geelong,Port Adelaide,Adelaide Oval,6,6,0,1,1753.739111,1568.002932,L
+2014,Port Adelaide,Geelong,Adelaide Oval,6,6,1,0,1568.002932,1753.739111,W
+2014,Carlton,Collingwood,MCG,7,7,0,0,1451.64835,1639.516745,L
+2014,Collingwood,Carlton,MCG,7,7,0,0,1639.516745,1451.64835,W
+2014,Hawthorn,St Kilda,MCG,7,7,0,0,1750.347095,1392.681825,W
+2014,St Kilda,Hawthorn,MCG,7,7,0,0,1392.681825,1750.347095,L
+2014,Greater Western Sydney,Port Adelaide,StarTrack Oval,7,7,1,0,1244.372524,1602.871997,L
+2014,Port Adelaide,Greater Western Sydney,StarTrack Oval,7,7,0,1,1602.871997,1244.372524,W
+2014,Adelaide,Melbourne,Adelaide Oval,7,7,1,0,1511.235278,1213.38339,L
+2014,Melbourne,Adelaide,Adelaide Oval,7,7,0,1,1213.38339,1511.235278,W
+2014,Essendon,Western Bulldogs,Etihad Stadium,7,7,0,0,1484.706103,1394.052662,W
+2014,Western Bulldogs,Essendon,Etihad Stadium,7,7,0,0,1394.052662,1484.706103,L
+2014,Brisbane Lions,Sydney,Gabba,7,7,1,0,1425.178789,1559.921249,L
+2014,Sydney,Brisbane Lions,Gabba,7,7,0,1,1559.921249,1425.178789,W
+2014,Gold Coast,North Melbourne,Etihad Stadium,7,7,0,1,1447.574373,1596.368012,W
+2014,North Melbourne,Gold Coast,Etihad Stadium,7,7,1,0,1596.368012,1447.574373,L
+2014,Fremantle,West Coast,Patersons Stadium,7,7,0,0,1589.353302,1450.466031,W
+2014,West Coast,Fremantle,Patersons Stadium,7,7,0,0,1450.466031,1589.353302,L
+2014,Geelong,Richmond,MCG,7,7,0,0,1718.870046,1527.45223,W
+2014,Richmond,Geelong,MCG,7,7,0,0,1527.45223,1718.870046,L
+2014,Hawthorn,Sydney,ANZ Stadium,8,8,0,1,1756.416077,1582.403465,L
+2014,Sydney,Hawthorn,ANZ Stadium,8,8,1,0,1582.403465,1756.416077,W
+2014,Fremantle,Port Adelaide,Adelaide Oval,8,8,0,1,1605.986663,1611.775679,L
+2014,Port Adelaide,Fremantle,Adelaide Oval,8,8,1,0,1611.775679,1605.986663,W
+2014,Brisbane Lions,Essendon,Gabba,8,8,1,0,1402.696574,1504.680199,L
+2014,Essendon,Brisbane Lions,Gabba,8,8,0,1,1504.680199,1402.696574,W
+2014,Melbourne,Western Bulldogs,MCG,8,8,0,0,1261.491102,1374.078566,L
+2014,Western Bulldogs,Melbourne,MCG,8,8,0,0,1374.078566,1261.491102,W
+2014,Greater Western Sydney,West Coast,Patersons Stadium,8,8,0,1,1235.468842,1433.83267,L
+2014,West Coast,Greater Western Sydney,Patersons Stadium,8,8,1,0,1433.83267,1235.468842,W
+2014,Carlton,St Kilda,Etihad Stadium,8,8,0,0,1438.066833,1386.612842,W
+2014,St Kilda,Carlton,Etihad Stadium,8,8,0,0,1386.612842,1438.066833,L
+2014,Adelaide,Collingwood,Adelaide Oval,8,8,1,0,1463.127565,1653.098262,W
+2014,Collingwood,Adelaide,Adelaide Oval,8,8,0,1,1653.098262,1463.127565,L
+2014,Essendon,Sydney,Etihad Stadium,9,9,1,0,1529.655434,1616.44114,L
+2014,Sydney,Essendon,Etihad Stadium,9,9,0,1,1616.44114,1529.655434,W
+2014,Melbourne,Richmond,MCG,9,8,0,0,1243.072621,1514.076895,W
+2014,Richmond,Melbourne,MCG,8,9,0,0,1514.076895,1243.072621,L
+2014,Brisbane Lions,North Melbourne,Etihad Stadium,9,8,0,1,1377.721339,1554.166778,L
+2014,North Melbourne,Brisbane Lions,Etihad Stadium,8,9,1,0,1554.166778,1377.721339,W
+2014,Fremantle,Geelong,Patersons Stadium,9,8,1,0,1585.521361,1732.245381,W
+2014,Geelong,Fremantle,Patersons Stadium,8,9,0,1,1732.245381,1585.521361,L
+2014,Gold Coast,St Kilda,Etihad Stadium,8,9,0,1,1489.775606,1363.738964,W
+2014,St Kilda,Gold Coast,Etihad Stadium,9,8,1,0,1363.738964,1489.775606,L
+2014,Geelong,North Melbourne,Simonds Stadium,9,9,1,0,1700.199254,1564.232068,W
+2014,North Melbourne,Geelong,Simonds Stadium,9,9,0,1,1564.232068,1700.199254,L
+2014,Greater Western Sydney,Richmond,Spotless Stadium,9,9,1,0,1226.394804,1469.756836,L
+2014,Richmond,Greater Western Sydney,Spotless Stadium,9,9,0,1,1469.756836,1226.394804,W
+2014,Collingwood,West Coast,MCG,9,9,1,0,1617.932928,1442.906709,W
+2014,West Coast,Collingwood,MCG,9,9,0,1,1442.906709,1617.932928,L
+2014,Hawthorn,Port Adelaide,Adelaide Oval,9,9,0,1,1722.378402,1632.24098,L
+2014,Port Adelaide,Hawthorn,Adelaide Oval,9,9,1,0,1632.24098,1722.378402,W
+2014,Gold Coast,Western Bulldogs,Metricon Stadium,9,9,1,0,1512.914742,1392.497048,W
+2014,Western Bulldogs,Gold Coast,Metricon Stadium,9,9,0,1,1392.497048,1512.914742,L
+2014,Adelaide,Carlton,MCG,9,9,0,1,1498.292899,1460.940711,L
+2014,Carlton,Adelaide,MCG,9,9,1,0,1460.940711,1498.292899,W
+2014,Geelong,Sydney,SCG,10,10,0,1,1712.309293,1642.586652,L
+2014,Sydney,Geelong,SCG,10,10,1,0,1642.586652,1712.309293,W
+2014,Collingwood,St Kilda,Etihad Stadium,10,10,0,0,1628.065187,1340.599828,W
+2014,St Kilda,Collingwood,Etihad Stadium,10,10,0,0,1340.599828,1628.065187,L
+2014,Melbourne,Port Adelaide,TIO Traegar Park,10,10,0,0,1287.392679,1659.986994,L
+2014,Port Adelaide,Melbourne,TIO Traegar Park,10,10,0,0,1659.986994,1287.392679,W
+2014,Brisbane Lions,Carlton,Gabba,10,10,1,0,1367.656049,1484.627244,W
+2014,Carlton,Brisbane Lions,Gabba,10,10,0,1,1484.627244,1367.656049,L
+2014,Essendon,Richmond,MCG,10,10,0,0,1503.509922,1484.699388,W
+2014,Richmond,Essendon,MCG,10,10,0,0,1484.699388,1503.509922,L
+2014,Adelaide,Gold Coast,Adelaide Oval,10,10,1,0,1474.606366,1525.884525,W
+2014,Gold Coast,Adelaide,Adelaide Oval,10,10,0,1,1525.884525,1474.606366,L
+2014,Fremantle,Western Bulldogs,Etihad Stadium,10,10,0,1,1617.567488,1379.527265,W
+2014,Western Bulldogs,Fremantle,Etihad Stadium,10,10,1,0,1379.527265,1617.567488,L
+2014,Greater Western Sydney,Hawthorn,MCG,10,10,0,1,1211.452251,1694.632388,L
+2014,Hawthorn,Greater Western Sydney,MCG,10,10,1,0,1694.632388,1211.452251,W
+2014,North Melbourne,West Coast,Patersons Stadium,10,10,0,1,1552.122029,1432.774451,W
+2014,West Coast,North Melbourne,Patersons Stadium,10,10,1,0,1432.774451,1552.122029,L
+2014,Carlton,Geelong,Etihad Stadium,11,11,0,0,1454.82218,1686.138479,L
+2014,Geelong,Carlton,Etihad Stadium,11,11,0,0,1686.138479,1454.82218,W
+2014,Hawthorn,West Coast,Aurora Stadium,11,11,1,0,1696.671418,1409.127456,W
+2014,West Coast,Hawthorn,Aurora Stadium,11,11,0,1,1409.127456,1696.671418,L
+2014,Port Adelaide,St Kilda,Adelaide Oval,11,11,1,0,1665.608585,1331.993681,W
+2014,St Kilda,Port Adelaide,Adelaide Oval,11,11,0,1,1331.993681,1665.608585,L
+2014,Essendon,Greater Western Sydney,Spotless Stadium,11,11,0,1,1528.875993,1209.413221,W
+2014,Greater Western Sydney,Essendon,Spotless Stadium,11,11,1,0,1209.413221,1528.875993,L
+2014,Brisbane Lions,Western Bulldogs,Etihad Stadium,11,11,0,1,1397.461113,1364.252258,W
+2014,Western Bulldogs,Brisbane Lions,Etihad Stadium,11,11,1,0,1364.252258,1397.461113,L
+2014,Gold Coast,Sydney,Metricon Stadium,11,11,1,0,1501.13336,1668.757466,L
+2014,Sydney,Gold Coast,Metricon Stadium,11,11,0,1,1668.757466,1501.13336,W
+2014,Adelaide,Fremantle,Patersons Stadium,11,11,0,1,1499.357531,1632.842495,L
+2014,Fremantle,Adelaide,Patersons Stadium,11,11,1,0,1632.842495,1499.357531,W
+2014,North Melbourne,Richmond,Etihad Stadium,11,11,0,0,1575.769024,1459.333317,W
+2014,Richmond,North Melbourne,Etihad Stadium,11,11,0,0,1459.333317,1575.769024,L
+2014,Collingwood,Melbourne,MCG,11,11,0,0,1636.671334,1281.771089,W
+2014,Melbourne,Collingwood,MCG,11,11,0,0,1281.771089,1636.671334,L
+2014,Carlton,Hawthorn,MCG,12,12,0,0,1443.618189,1702.497851,L
+2014,Hawthorn,Carlton,MCG,12,12,0,0,1702.497851,1443.618189,W
+2014,Fremantle,Richmond,MCG,12,12,0,1,1645.087026,1441.181792,W
+2014,Richmond,Fremantle,MCG,12,12,1,0,1441.181792,1645.087026,L
+2014,Port Adelaide,Sydney,SCG,12,12,0,1,1670.193776,1688.812411,L
+2014,Sydney,Port Adelaide,SCG,12,12,1,0,1688.812411,1670.193776,W
+2014,Gold Coast,West Coast,Patersons Stadium,12,12,0,1,1481.078415,1403.301022,L
+2014,West Coast,Gold Coast,Patersons Stadium,12,12,1,0,1403.301022,1481.078415,W
+2014,Adelaide,North Melbourne,Adelaide Oval,12,12,1,0,1487.113,1593.92055,W
+2014,North Melbourne,Adelaide,Adelaide Oval,12,12,0,1,1593.92055,1487.113,L
+2014,Brisbane Lions,Greater Western Sydney,Gabba,12,12,1,0,1427.722629,1198.713683,L
+2014,Greater Western Sydney,Brisbane Lions,Gabba,12,12,0,1,1198.713683,1427.722629,W
+2014,Geelong,St Kilda,Simonds Stadium,12,12,1,0,1697.34247,1327.40849,W
+2014,St Kilda,Geelong,Simonds Stadium,12,12,0,1,1327.40849,1697.34247,L
+2014,Collingwood,Western Bulldogs,Etihad Stadium,12,12,0,0,1642.826514,1333.990741,L
+2014,Western Bulldogs,Collingwood,Etihad Stadium,12,12,0,0,1333.990741,1642.826514,W
+2014,Essendon,Melbourne,MCG,12,12,0,0,1539.575531,1275.61591,L
+2014,Melbourne,Essendon,MCG,12,12,0,0,1275.61591,1539.575531,W
+2014,Richmond,Sydney,MCG,13,13,1,0,1423.672858,1708.351536,L
+2014,Sydney,Richmond,MCG,13,13,0,1,1708.351536,1423.672858,W
+2014,Port Adelaide,Western Bulldogs,Adelaide Oval,13,13,1,0,1650.654651,1379.869812,W
+2014,Western Bulldogs,Port Adelaide,Adelaide Oval,13,13,0,1,1379.869812,1650.654651,L
+2014,Collingwood,Hawthorn,MCG,13,13,0,0,1596.947443,1712.360276,L
+2014,Hawthorn,Collingwood,MCG,13,13,0,0,1712.360276,1596.947443,W
+2014,Geelong,Gold Coast,Metricon Stadium,13,13,0,1,1701.1236,1454.286027,L
+2014,Gold Coast,Geelong,Metricon Stadium,13,13,1,0,1454.286027,1701.1236,W
+2014,Brisbane Lions,Fremantle,Patersons Stadium,13,13,0,1,1381.910104,1662.59596,L
+2014,Fremantle,Brisbane Lions,Patersons Stadium,13,13,1,0,1662.59596,1381.910104,W
+2014,Adelaide,Essendon,Etihad Stadium,13,13,0,1,1516.141023,1495.571698,L
+2014,Essendon,Adelaide,Etihad Stadium,13,13,1,0,1495.571698,1516.141023,W
+2014,Carlton,Greater Western Sydney,Spotless Stadium,13,13,0,1,1433.755764,1244.526209,L
+2014,Greater Western Sydney,Carlton,Spotless Stadium,13,13,1,0,1244.526209,1433.755764,W
+2014,St Kilda,West Coast,Etihad Stadium,13,13,1,0,1323.62736,1430.093411,L
+2014,West Coast,St Kilda,Etihad Stadium,13,13,0,1,1430.093411,1323.62736,W
+2014,Melbourne,North Melbourne,MCG,13,13,0,0,1319.619742,1564.892527,L
+2014,North Melbourne,Melbourne,MCG,13,13,0,0,1564.892527,1319.619742,W
+2014,Essendon,Geelong,Etihad Stadium,14,14,0,0,1517.988652,1662.218388,L
+2014,Geelong,Essendon,Etihad Stadium,14,14,0,0,1662.218388,1517.988652,W
+2014,Gold Coast,Hawthorn,Aurora Stadium,14,14,0,1,1493.191239,1730.582575,L
+2014,Hawthorn,Gold Coast,Aurora Stadium,14,14,1,0,1730.582575,1493.191239,W
+2014,Richmond,St Kilda,Etihad Stadium,14,14,0,0,1411.154975,1298.996142,W
+2014,St Kilda,Richmond,Etihad Stadium,14,14,0,0,1298.996142,1411.154975,L
+2014,Fremantle,West Coast,Patersons Stadium,14,14,0,0,1668.630613,1454.724629,W
+2014,West Coast,Fremantle,Patersons Stadium,14,14,0,0,1454.724629,1668.630613,L
+2014,Brisbane Lions,North Melbourne,Gabba,14,14,1,0,1375.875451,1575.401065,W
+2014,North Melbourne,Brisbane Lions,Gabba,14,14,0,1,1575.401065,1375.875451,L
+2014,Greater Western Sydney,Sydney,SCG,14,14,0,1,1279.639848,1720.869419,L
+2014,Sydney,Greater Western Sydney,SCG,14,14,1,0,1720.869419,1279.639848,W
+2014,Melbourne,Western Bulldogs,Etihad Stadium,14,14,0,0,1309.111203,1373.523107,L
+2014,Western Bulldogs,Melbourne,Etihad Stadium,14,14,0,0,1373.523107,1309.111203,W
+2014,Adelaide,Port Adelaide,Adelaide Oval,14,14,0,0,1493.724069,1657.001356,W
+2014,Port Adelaide,Adelaide,Adelaide Oval,14,14,0,0,1657.001356,1493.724069,L
+2014,Carlton,Collingwood,MCG,14,14,0,0,1398.642125,1578.725144,L
+2014,Collingwood,Carlton,MCG,14,14,0,0,1578.725144,1398.642125,W
+2014,Hawthorn,North Melbourne,Etihad Stadium,15,15,0,0,1738.086248,1539.575545,L
+2014,North Melbourne,Hawthorn,Etihad Stadium,15,15,0,0,1539.575545,1738.086248,W
+2014,Brisbane Lions,Richmond,MCG,15,15,0,1,1411.700971,1429.603307,L
+2014,Richmond,Brisbane Lions,MCG,15,15,1,0,1429.603307,1411.700971,W
+2014,Adelaide,Greater Western Sydney,Spotless Stadium,15,15,0,1,1532.290497,1277.070556,W
+2014,Greater Western Sydney,Adelaide,Spotless Stadium,15,15,1,0,1277.070556,1532.290497,L
+2014,Collingwood,Gold Coast,Metricon Stadium,15,15,0,1,1592.766204,1485.687566,L
+2014,Gold Coast,Collingwood,Metricon Stadium,15,15,1,0,1485.687566,1592.766204,W
+2014,Essendon,Port Adelaide,Adelaide Oval,15,15,0,1,1501.706108,1618.434929,W
+2014,Port Adelaide,Essendon,Adelaide Oval,15,15,1,0,1618.434929,1501.706108,L
+2014,Fremantle,Melbourne,TIO Stadium,15,15,0,0,1680.748824,1287.210067,W
+2014,Melbourne,Fremantle,TIO Stadium,15,15,0,0,1287.210067,1680.748824,L
+2014,Carlton,St Kilda,Etihad Stadium,15,15,0,0,1384.601065,1280.54781,W
+2014,St Kilda,Carlton,Etihad Stadium,15,15,0,0,1280.54781,1384.601065,L
+2014,Sydney,West Coast,Patersons Stadium,15,15,0,1,1723.438711,1442.606418,W
+2014,West Coast,Sydney,Patersons Stadium,15,15,1,0,1442.606418,1723.438711,L
+2014,Geelong,Western Bulldogs,Simonds Stadium,15,15,1,0,1678.500932,1395.424243,W
+2014,Western Bulldogs,Geelong,Simonds Stadium,15,15,0,1,1395.424243,1678.500932,L
+2014,Adelaide,Hawthorn,Adelaide Oval,16,16,1,0,1546.508479,1697.422811,L
+2014,Hawthorn,Adelaide,Adelaide Oval,16,16,0,1,1697.422811,1546.508479,W
+2014,Geelong,Melbourne,MCG,16,16,0,0,1684.462269,1282.166945,W
+2014,Melbourne,Geelong,MCG,16,16,0,0,1282.166945,1684.462269,L
+2014,North Melbourne,St Kilda,Blundstone Arena,16,16,1,0,1580.238982,1261.530739,W
+2014,St Kilda,North Melbourne,Blundstone Arena,16,16,0,1,1261.530739,1580.238982,L
+2014,Gold Coast,Western Bulldogs,Cazaly's Stadium,16,16,0,0,1514.736369,1389.462906,L
+2014,Western Bulldogs,Gold Coast,Cazaly's Stadium,16,16,0,0,1389.462906,1514.736369,W
+2014,Carlton,Sydney,SCG,16,16,0,1,1403.618135,1736.170323,L
+2014,Sydney,Carlton,SCG,16,16,1,0,1736.170323,1403.618135,W
+2014,Brisbane Lions,West Coast,Gabba,16,16,1,0,1392.110602,1429.874806,L
+2014,West Coast,Brisbane Lions,Gabba,16,16,0,1,1429.874806,1392.110602,W
+2014,Port Adelaide,Richmond,Etihad Stadium,16,16,0,1,1577.981605,1449.193676,L
+2014,Richmond,Port Adelaide,Etihad Stadium,16,16,1,0,1449.193676,1577.981605,W
+2014,Collingwood,Essendon,MCG,16,16,0,0,1563.717401,1542.159432,L
+2014,Essendon,Collingwood,MCG,16,16,0,0,1542.159432,1563.717401,W
+2014,Fremantle,Greater Western Sydney,Patersons Stadium,16,16,1,0,1685.791946,1262.852574,W
+2014,Greater Western Sydney,Fremantle,Patersons Stadium,16,16,0,1,1262.852574,1685.791946,L
+2014,Carlton,North Melbourne,Etihad Stadium,17,17,0,0,1399.007227,1585.197023,W
+2014,North Melbourne,Carlton,Etihad Stadium,17,17,0,0,1585.197023,1399.007227,L
+2014,Fremantle,St Kilda,Etihad Stadium,17,17,0,1,1688.631402,1256.572699,L
+2014,St Kilda,Fremantle,Etihad Stadium,17,17,1,0,1256.572699,1688.631402,W
+2014,Geelong,Greater Western Sydney,Spotless Stadium,17,17,0,1,1689.279752,1260.013117,W
+2014,Greater Western Sydney,Geelong,Spotless Stadium,17,17,1,0,1260.013117,1689.279752,L
+2014,Melbourne,Port Adelaide,Adelaide Oval,17,17,0,1,1277.349463,1547.27955,L
+2014,Port Adelaide,Melbourne,Adelaide Oval,17,17,1,0,1547.27955,1277.349463,W
+2014,Essendon,Western Bulldogs,Etihad Stadium,17,17,0,0,1570.637764,1425.550245,W
+2014,Western Bulldogs,Essendon,Etihad Stadium,17,17,0,0,1425.550245,1570.637764,L
+2014,Richmond,West Coast,Patersons Stadium,17,17,0,1,1479.895732,1459.789961,W
+2014,West Coast,Richmond,Patersons Stadium,17,17,1,0,1459.789961,1479.895732,L
+2014,Brisbane Lions,Gold Coast,Gabba,17,17,1,0,1362.195448,1478.64903,W
+2014,Gold Coast,Brisbane Lions,Gabba,17,17,0,1,1478.64903,1362.195448,L
+2014,Hawthorn,Sydney,MCG,17,17,1,0,1718.699362,1740.781231,W
+2014,Sydney,Hawthorn,MCG,17,17,0,1,1740.781231,1718.699362,L
+2014,Adelaide,Collingwood,MCG,17,17,0,1,1525.231927,1535.239069,W
+2014,Collingwood,Adelaide,MCG,17,17,1,0,1535.239069,1525.231927,L
+2014,Carlton,Fremantle,Patersons Stadium,18,18,0,1,1438.960534,1641.182806,L
+2014,Fremantle,Carlton,Patersons Stadium,18,18,1,0,1641.182806,1438.960534,W
+2014,Essendon,Sydney,SCG,18,18,0,1,1586.864371,1718.250594,L
+2014,Sydney,Essendon,SCG,18,18,1,0,1718.250594,1586.864371,W
+2014,Adelaide,West Coast,Adelaide Oval,18,18,1,0,1558.706099,1428.539047,L
+2014,West Coast,Adelaide,Adelaide Oval,18,18,0,1,1428.539047,1558.706099,W
+2014,Greater Western Sydney,Richmond,MCG,18,18,0,1,1253.740171,1511.146646,L
+2014,Richmond,Greater Western Sydney,MCG,18,18,1,0,1511.146646,1253.740171,W
+2014,Geelong,North Melbourne,Etihad Stadium,18,18,0,0,1695.552698,1545.243716,W
+2014,North Melbourne,Geelong,Etihad Stadium,18,18,0,0,1545.243716,1695.552698,L
+2014,Gold Coast,St Kilda,Metricon Stadium,18,18,1,0,1448.883427,1304.021295,W
+2014,St Kilda,Gold Coast,Metricon Stadium,18,18,0,1,1304.021295,1448.883427,L
+2014,Brisbane Lions,Melbourne,Etihad Stadium,18,18,0,1,1391.96105,1270.975174,W
+2014,Melbourne,Brisbane Lions,Etihad Stadium,18,18,1,0,1270.975174,1391.96105,L
+2014,Hawthorn,Western Bulldogs,Aurora Stadium,18,18,1,0,1741.229999,1409.323638,W
+2014,Western Bulldogs,Hawthorn,Aurora Stadium,18,18,0,1,1409.323638,1741.229999,L
+2014,Collingwood,Port Adelaide,MCG,18,18,1,0,1501.764896,1553.653839,W
+2014,Port Adelaide,Collingwood,MCG,18,18,0,1,1553.653839,1501.764896,L
+2014,Essendon,Richmond,MCG,19,19,0,0,1574.505308,1517.937108,L
+2014,Richmond,Essendon,MCG,19,19,0,0,1517.937108,1574.505308,W
+2014,Greater Western Sydney,North Melbourne,StarTrack Oval,19,19,1,0,1246.949709,1529.355241,L
+2014,North Melbourne,Greater Western Sydney,StarTrack Oval,19,19,0,1,1529.355241,1246.949709,W
+2014,Carlton,Gold Coast,Etihad Stadium,19,19,1,0,1430.052712,1460.520149,W
+2014,Gold Coast,Carlton,Etihad Stadium,19,19,0,1,1460.520149,1430.052712,L
+2014,Hawthorn,Melbourne,MCG,19,19,0,0,1745.856599,1247.452793,W
+2014,Melbourne,Hawthorn,MCG,19,19,0,0,1247.452793,1745.856599,L
+2014,Fremantle,Geelong,Simonds Stadium,19,19,0,1,1650.090628,1711.441173,L
+2014,Geelong,Fremantle,Simonds Stadium,19,19,1,0,1711.441173,1650.090628,W
+2014,Port Adelaide,Sydney,Adelaide Oval,19,19,1,0,1528.855804,1730.609657,L
+2014,Sydney,Port Adelaide,Adelaide Oval,19,19,0,1,1730.609657,1528.855804,W
+2014,Adelaide,Brisbane Lions,Gabba,19,19,0,1,1517.498978,1415.483431,W
+2014,Brisbane Lions,Adelaide,Gabba,19,19,1,0,1415.483431,1517.498978,L
+2014,St Kilda,Western Bulldogs,Etihad Stadium,19,19,0,0,1292.384573,1404.697037,L
+2014,Western Bulldogs,St Kilda,Etihad Stadium,19,19,0,0,1404.697037,1292.384573,W
+2014,Collingwood,West Coast,Patersons Stadium,19,19,0,1,1526.562931,1469.746168,L
+2014,West Coast,Collingwood,Patersons Stadium,19,19,1,0,1469.746168,1526.562931,W
+2014,Carlton,Geelong,Etihad Stadium,20,20,0,0,1453.216368,1728.037998,L
+2014,Geelong,Carlton,Etihad Stadium,20,20,0,0,1728.037998,1453.216368,W
+2014,St Kilda,Sydney,SCG,20,20,0,1,1273.946942,1748.264952,L
+2014,Sydney,St Kilda,SCG,20,20,1,0,1748.264952,1273.946942,W
+2014,Gold Coast,Port Adelaide,Metricon Stadium,20,20,1,0,1437.356493,1511.200509,L
+2014,Port Adelaide,Gold Coast,Metricon Stadium,20,20,0,1,1511.200509,1437.356493,W
+2014,Essendon,West Coast,Etihad Stadium,20,20,1,0,1543.360785,1494.922776,W
+2014,West Coast,Essendon,Etihad Stadium,20,20,0,1,1494.922776,1543.360785,L
+2014,Adelaide,Richmond,Adelaide Oval,20,20,1,0,1542.471761,1549.081631,L
+2014,Richmond,Adelaide,Adelaide Oval,20,20,0,1,1549.081631,1542.471761,W
+2014,Brisbane Lions,Collingwood,MCG,20,20,0,1,1390.510648,1501.386323,W
+2014,Collingwood,Brisbane Lions,MCG,20,20,1,0,1501.386323,1390.510648,L
+2014,North Melbourne,Western Bulldogs,Etihad Stadium,20,20,0,0,1541.999132,1423.134668,W
+2014,Western Bulldogs,North Melbourne,Etihad Stadium,20,20,0,0,1423.134668,1541.999132,L
+2014,Greater Western Sydney,Melbourne,MCG,20,20,0,1,1234.305818,1244.572415,W
+2014,Melbourne,Greater Western Sydney,MCG,20,20,1,0,1244.572415,1234.305818,L
+2014,Fremantle,Hawthorn,Patersons Stadium,20,20,1,0,1633.493803,1748.736977,W
+2014,Hawthorn,Fremantle,Patersons Stadium,20,20,0,1,1748.736977,1633.493803,L
+2014,Carlton,Port Adelaide,Adelaide Oval,21,21,0,1,1444.071269,1538.344759,L
+2014,Port Adelaide,Carlton,Adelaide Oval,21,21,1,0,1538.344759,1444.071269,W
+2014,Adelaide,North Melbourne,Blundstone Arena,21,21,0,1,1510.21463,1559.983149,L
+2014,North Melbourne,Adelaide,Blundstone Arena,21,21,1,0,1559.983149,1510.21463,W
+2014,Essendon,Gold Coast,Etihad Stadium,21,21,1,0,1560.821342,1410.212243,W
+2014,Gold Coast,Essendon,Etihad Stadium,21,21,0,1,1410.212243,1560.821342,L
+2014,Collingwood,Greater Western Sydney,Spotless Stadium,21,21,0,1,1461.270806,1267.798779,W
+2014,Greater Western Sydney,Collingwood,Spotless Stadium,21,21,1,0,1267.798779,1461.270806,L
+2014,Geelong,Hawthorn,MCG,21,21,0,0,1737.183097,1719.063704,L
+2014,Hawthorn,Geelong,MCG,21,21,0,0,1719.063704,1737.183097,W
+2014,Melbourne,West Coast,Patersons Stadium,21,21,0,1,1211.079454,1477.462219,L
+2014,West Coast,Melbourne,Patersons Stadium,21,21,1,0,1477.462219,1211.079454,W
+2014,Brisbane Lions,Fremantle,Gabba,21,21,1,0,1430.626165,1663.167076,L
+2014,Fremantle,Brisbane Lions,Gabba,21,21,0,1,1663.167076,1430.626165,W
+2014,Sydney,Western Bulldogs,Etihad Stadium,21,21,0,1,1750.40644,1405.150651,W
+2014,Western Bulldogs,Sydney,Etihad Stadium,21,21,1,0,1405.150651,1750.40644,L
+2014,Richmond,St Kilda,MCG,21,21,0,0,1581.338763,1271.805454,W
+2014,St Kilda,Richmond,MCG,21,21,0,0,1271.805454,1581.338763,L
+2014,Collingwood,Hawthorn,MCG,22,22,0,0,1479.495251,1747.277498,L
+2014,Hawthorn,Collingwood,MCG,22,22,0,0,1747.277498,1479.495251,W
+2014,Carlton,Essendon,MCG,22,22,0,0,1429.564772,1572.159445,L
+2014,Essendon,Carlton,MCG,22,22,0,0,1572.159445,1429.564772,L
+2014,Fremantle,Port Adelaide,Patersons Stadium,22,22,1,0,1678.790261,1552.851256,W
+2014,Port Adelaide,Fremantle,Patersons Stadium,22,22,0,1,1552.851256,1678.790261,L
+2014,Richmond,Sydney,ANZ Stadium,22,22,0,1,1589.066156,1759.890726,W
+2014,Sydney,Richmond,ANZ Stadium,22,22,1,0,1759.890726,1589.066156,L
+2014,Brisbane Lions,Geelong,Simonds Stadium,22,22,0,1,1415.002979,1708.969304,L
+2014,Geelong,Brisbane Lions,Simonds Stadium,22,22,1,0,1708.969304,1415.002979,W
+2014,Melbourne,North Melbourne,Etihad Stadium,22,22,0,0,1204.589576,1577.353633,L
+2014,North Melbourne,Melbourne,Etihad Stadium,22,22,0,0,1577.353633,1204.589576,W
+2014,Gold Coast,West Coast,Metricon Stadium,22,22,1,0,1398.87414,1483.952097,L
+2014,West Coast,Gold Coast,Metricon Stadium,22,22,0,1,1483.952097,1398.87414,W
+2014,Adelaide,St Kilda,Adelaide Oval,22,22,1,0,1492.844146,1264.078061,W
+2014,St Kilda,Adelaide,Adelaide Oval,22,22,0,1,1264.078061,1492.844146,L
+2014,Greater Western Sydney,Western Bulldogs,Etihad Stadium,22,22,0,1,1249.574334,1395.666365,W
+2014,Western Bulldogs,Greater Western Sydney,Etihad Stadium,22,22,1,0,1395.666365,1249.574334,L
+2015,Carlton,Richmond,MCG,1,1,0,0,1454.993875,1599.275019,L
+2015,Richmond,Carlton,MCG,1,1,0,0,1599.275019,1454.993875,W
+2015,Gold Coast,Melbourne,MCG,1,1,0,1,1404.447663,1274.229676,L
+2015,Melbourne,Gold Coast,MCG,1,1,1,0,1274.229676,1404.447663,W
+2015,Essendon,Sydney,ANZ Stadium,1,1,0,1,1546.299288,1662.442642,L
+2015,Sydney,Essendon,ANZ Stadium,1,1,1,0,1662.442642,1546.299288,W
+2015,Brisbane Lions,Collingwood,Gabba,1,1,1,0,1432.024342,1477.528985,L
+2015,Collingwood,Brisbane Lions,Gabba,1,1,0,1,1477.528985,1432.024342,W
+2015,West Coast,Western Bulldogs,Etihad Stadium,1,1,0,1,1507.672015,1390.204234,L
+2015,Western Bulldogs,West Coast,Etihad Stadium,1,1,1,0,1390.204234,1507.672015,W
+2015,Greater Western Sydney,St Kilda,Etihad Stadium,1,1,0,1,1343.72629,1317.186137,W
+2015,St Kilda,Greater Western Sydney,Etihad Stadium,1,1,1,0,1317.186137,1343.72629,L
+2015,Adelaide,North Melbourne,Adelaide Oval,1,1,1,0,1500.505518,1562.227731,W
+2015,North Melbourne,Adelaide,Adelaide Oval,1,1,0,1,1562.227731,1500.505518,L
+2015,Fremantle,Port Adelaide,Domain Stadium,1,1,1,0,1643.587558,1530.14358,W
+2015,Port Adelaide,Fremantle,Domain Stadium,1,1,0,1,1530.14358,1643.587558,L
+2015,Geelong,Hawthorn,MCG,1,1,0,0,1660.95487,1692.550577,L
+2015,Hawthorn,Geelong,MCG,1,1,0,0,1692.550577,1660.95487,W
+2015,Carlton,West Coast,Domain Stadium,2,2,0,1,1438.714687,1477.829104,L
+2015,West Coast,Carlton,Domain Stadium,2,2,1,0,1477.829104,1438.714687,W
+2015,Richmond,Western Bulldogs,MCG,2,2,0,0,1615.554208,1420.047145,L
+2015,Western Bulldogs,Richmond,MCG,2,2,0,0,1420.047145,1615.554208,W
+2015,Greater Western Sydney,Melbourne,StarTrack Oval,2,2,1,0,1374.492723,1305.039727,W
+2015,Melbourne,Greater Western Sydney,StarTrack Oval,2,2,0,1,1305.039727,1374.492723,L
+2015,Adelaide,Collingwood,Etihad Stadium,2,2,0,1,1526.059634,1506.853253,W
+2015,Collingwood,Adelaide,Etihad Stadium,2,2,1,0,1506.853253,1526.059634,L
+2015,Gold Coast,St Kilda,Metricon Stadium,2,2,1,0,1373.637611,1286.419704,L
+2015,St Kilda,Gold Coast,Metricon Stadium,2,2,0,1,1286.419704,1373.637611,W
+2015,Port Adelaide,Sydney,Adelaide Oval,2,2,1,0,1516.774967,1675.65591,L
+2015,Sydney,Port Adelaide,Adelaide Oval,2,2,0,1,1675.65591,1516.774967,W
+2015,Fremantle,Geelong,Simonds Stadium,2,2,0,1,1656.956171,1636.570328,W
+2015,Geelong,Fremantle,Simonds Stadium,2,2,1,0,1636.570328,1656.956171,L
+2015,Essendon,Hawthorn,MCG,2,2,0,0,1533.08602,1716.935119,W
+2015,Hawthorn,Essendon,MCG,2,2,0,0,1716.935119,1533.08602,L
+2015,Brisbane Lions,North Melbourne,Etihad Stadium,2,2,0,1,1402.700074,1536.673615,L
+2015,North Melbourne,Brisbane Lions,Etihad Stadium,2,2,1,0,1536.673615,1402.700074,W
+2015,Collingwood,St Kilda,MCG,3,3,0,0,1475.534848,1325.112459,W
+2015,St Kilda,Collingwood,MCG,3,3,0,0,1325.112459,1475.534848,L
+2015,Carlton,Essendon,MCG,3,3,0,0,1420.616273,1572.901565,L
+2015,Essendon,Carlton,MCG,3,3,0,0,1572.901565,1420.616273,W
+2015,Adelaide,Melbourne,Adelaide Oval,3,3,1,0,1557.37804,1288.972651,W
+2015,Melbourne,Adelaide,Adelaide Oval,3,3,0,1,1288.972651,1557.37804,L
+2015,Greater Western Sydney,Sydney,SCG,3,3,0,1,1390.559799,1696.346686,L
+2015,Sydney,Greater Western Sydney,SCG,3,3,1,0,1696.346686,1390.559799,W
+2015,North Melbourne,Port Adelaide,Etihad Stadium,3,3,1,0,1548.891591,1496.084191,L
+2015,Port Adelaide,North Melbourne,Etihad Stadium,3,3,0,1,1496.084191,1548.891591,W
+2015,Brisbane Lions,Richmond,Gabba,3,3,1,0,1390.482098,1575.061549,L
+2015,Richmond,Brisbane Lions,Gabba,3,3,0,1,1575.061549,1390.482098,W
+2015,Hawthorn,Western Bulldogs,Aurora Stadium,3,3,1,0,1677.119573,1460.539803,W
+2015,Western Bulldogs,Hawthorn,Aurora Stadium,3,3,0,1,1460.539803,1677.119573,L
+2015,Geelong,Gold Coast,Simonds Stadium,3,3,1,0,1605.340443,1334.944856,W
+2015,Gold Coast,Geelong,Simonds Stadium,3,3,0,1,1334.944856,1605.340443,L
+2015,Fremantle,West Coast,Domain Stadium,3,3,0,0,1688.186056,1495.927518,W
+2015,West Coast,Fremantle,Domain Stadium,3,3,0,0,1495.927518,1688.186056,L
+2015,Melbourne,Richmond,MCG,4,4,0,0,1282.5489,1593.906855,W
+2015,Richmond,Melbourne,MCG,4,4,0,0,1593.906855,1282.5489,L
+2015,Carlton,St Kilda,Westpac Stadium,4,4,0,0,1404.854711,1309.231283,W
+2015,St Kilda,Carlton,Westpac Stadium,4,4,0,0,1309.231283,1404.854711,L
+2015,Collingwood,Essendon,MCG,4,4,0,0,1491.416024,1588.663127,W
+2015,Essendon,Collingwood,MCG,4,4,0,0,1588.663127,1491.416024,L
+2015,Gold Coast,Greater Western Sydney,StarTrack Oval,4,4,0,1,1328.585602,1385.256766,L
+2015,Greater Western Sydney,Gold Coast,StarTrack Oval,4,4,1,0,1385.256766,1328.585602,W
+2015,Hawthorn,Port Adelaide,Adelaide Oval,4,4,0,1,1685.430274,1532.551581,L
+2015,Port Adelaide,Hawthorn,Adelaide Oval,4,4,1,0,1532.551581,1685.430274,W
+2015,Fremantle,Sydney,Domain Stadium,4,4,1,0,1701.512863,1701.64972,W
+2015,Sydney,Fremantle,Domain Stadium,4,4,0,1,1701.64972,1701.512863,L
+2015,Brisbane Lions,West Coast,Gabba,4,4,1,0,1371.636792,1482.600712,L
+2015,West Coast,Brisbane Lions,Gabba,4,4,0,1,1482.600712,1371.636792,W
+2015,Geelong,North Melbourne,Simonds Stadium,4,4,1,0,1611.699697,1512.424201,L
+2015,North Melbourne,Geelong,Simonds Stadium,4,4,0,1,1512.424201,1611.699697,W
+2015,Adelaide,Western Bulldogs,Etihad Stadium,4,4,0,1,1563.801791,1452.229102,L
+2015,Western Bulldogs,Adelaide,Etihad Stadium,4,4,1,0,1452.229102,1563.801791,W
+2015,Carlton,Collingwood,MCG,5,5,0,0,1424.471506,1525.54843,L
+2015,Collingwood,Carlton,MCG,5,5,0,0,1525.54843,1424.471506,W
+2015,Geelong,Richmond,MCG,5,5,0,0,1572.270435,1547.931978,W
+2015,Richmond,Geelong,MCG,5,5,0,0,1547.931978,1572.270435,L
+2015,Sydney,Western Bulldogs,SCG,5,5,1,0,1680.750982,1481.621982,L
+2015,Western Bulldogs,Sydney,SCG,5,5,0,1,1481.621982,1680.750982,W
+2015,Brisbane Lions,Gold Coast,Metricon Stadium,5,5,0,1,1347.35005,1311.678484,L
+2015,Gold Coast,Brisbane Lions,Metricon Stadium,5,5,1,0,1311.678484,1347.35005,W
+2015,Hawthorn,North Melbourne,Etihad Stadium,5,5,0,0,1652.928791,1551.853463,W
+2015,North Melbourne,Hawthorn,Etihad Stadium,5,5,0,0,1551.853463,1652.928791,L
+2015,Greater Western Sydney,West Coast,Domain Stadium,5,5,0,1,1402.163884,1506.887453,L
+2015,West Coast,Greater Western Sydney,Domain Stadium,5,5,1,0,1506.887453,1402.163884,W
+2015,Fremantle,Melbourne,MCG,5,5,0,1,1722.4116,1328.523777,W
+2015,Melbourne,Fremantle,MCG,5,5,1,0,1328.523777,1722.4116,L
+2015,Essendon,St Kilda,Etihad Stadium,5,5,0,0,1554.53072,1289.614488,W
+2015,St Kilda,Essendon,Etihad Stadium,5,5,0,0,1289.614488,1554.53072,L
+2015,Adelaide,Port Adelaide,Adelaide Oval,5,5,0,0,1534.408912,1565.053064,L
+2015,Port Adelaide,Adelaide,Adelaide Oval,5,5,0,0,1565.053064,1534.408912,W
+2015,Collingwood,Geelong,MCG,6,6,0,0,1544.776314,1597.211488,L
+2015,Geelong,Collingwood,MCG,6,6,0,0,1597.211488,1544.776314,W
+2015,North Melbourne,Richmond,Blundstone Arena,6,6,1,0,1532.625466,1522.990925,W
+2015,Richmond,North Melbourne,Blundstone Arena,6,6,0,1,1522.990925,1532.625466,L
+2015,St Kilda,Western Bulldogs,Etihad Stadium,6,6,0,0,1280.028689,1526.214161,W
+2015,Western Bulldogs,St Kilda,Etihad Stadium,6,6,0,0,1526.214161,1280.028689,L
+2015,Greater Western Sydney,Hawthorn,Spotless Stadium,6,6,1,0,1388.285146,1672.156787,W
+2015,Hawthorn,Greater Western Sydney,Spotless Stadium,6,6,0,1,1672.156787,1388.285146,L
+2015,Adelaide,Gold Coast,Metricon Stadium,6,6,0,1,1509.951511,1335.23714,W
+2015,Gold Coast,Adelaide,Metricon Stadium,6,6,1,0,1335.23714,1509.951511,L
+2015,Melbourne,Sydney,MCG,6,6,1,0,1321.031842,1636.158803,L
+2015,Sydney,Melbourne,MCG,6,6,0,1,1636.158803,1321.031842,W
+2015,Essendon,Fremantle,Domain Stadium,6,6,0,1,1564.116519,1729.903536,L
+2015,Fremantle,Essendon,Domain Stadium,6,6,1,0,1729.903536,1564.116519,W
+2015,Brisbane Lions,Carlton,Etihad Stadium,6,6,0,1,1323.791394,1405.243623,W
+2015,Carlton,Brisbane Lions,Etihad Stadium,6,6,1,0,1405.243623,1323.791394,L
+2015,Port Adelaide,West Coast,Adelaide Oval,6,6,1,0,1589.510465,1520.766192,L
+2015,West Coast,Port Adelaide,Adelaide Oval,6,6,0,1,1520.766192,1589.510465,W
+2015,Essendon,North Melbourne,Etihad Stadium,7,7,0,0,1553.539934,1552.811347,L
+2015,North Melbourne,Essendon,Etihad Stadium,7,7,0,0,1552.811347,1553.539934,W
+2015,Adelaide,St Kilda,Adelaide Oval,7,7,1,0,1529.496686,1323.197532,W
+2015,St Kilda,Adelaide,Adelaide Oval,7,7,0,1,1323.197532,1529.496686,L
+2015,Hawthorn,Melbourne,MCG,7,7,0,0,1631.086247,1310.116926,W
+2015,Melbourne,Hawthorn,MCG,7,7,0,0,1310.116926,1631.086247,L
+2015,Carlton,Greater Western Sydney,Etihad Stadium,7,7,1,0,1366.911219,1429.355686,L
+2015,Greater Western Sydney,Carlton,Etihad Stadium,7,7,0,1,1429.355686,1366.911219,W
+2015,Geelong,Sydney,ANZ Stadium,7,7,0,1,1620.011302,1647.07372,L
+2015,Sydney,Geelong,ANZ Stadium,7,7,1,0,1647.07372,1620.011302,W
+2015,Gold Coast,West Coast,Domain Stadium,7,7,0,1,1315.691965,1558.286225,L
+2015,West Coast,Gold Coast,Domain Stadium,7,7,1,0,1558.286225,1315.691965,W
+2015,Fremantle,Western Bulldogs,Etihad Stadium,7,7,0,1,1740.480122,1483.045318,W
+2015,Western Bulldogs,Fremantle,Etihad Stadium,7,7,1,0,1483.045318,1740.480122,L
+2015,Collingwood,Richmond,MCG,7,7,0,0,1521.9765,1502.805044,L
+2015,Richmond,Collingwood,MCG,7,7,0,0,1502.805044,1521.9765,W
+2015,Brisbane Lions,Port Adelaide,Gabba,7,7,1,0,1362.123798,1551.990431,W
+2015,Port Adelaide,Brisbane Lions,Gabba,7,7,0,1,1551.990431,1362.123798,L
+2015,Carlton,Geelong,Etihad Stadium,8,8,0,0,1338.887904,1601.071833,L
+2015,Geelong,Carlton,Etihad Stadium,8,8,0,0,1601.071833,1338.887904,W
+2015,St Kilda,West Coast,Etihad Stadium,8,8,1,0,1314.462678,1565.598679,L
+2015,West Coast,St Kilda,Etihad Stadium,8,8,0,1,1565.598679,1314.462678,W
+2015,Adelaide,Greater Western Sydney,Spotless Stadium,8,8,0,1,1538.23154,1457.379001,L
+2015,Greater Western Sydney,Adelaide,Spotless Stadium,8,8,1,0,1457.379001,1538.23154,W
+2015,Collingwood,Gold Coast,Metricon Stadium,8,8,0,1,1493.681737,1308.379511,W
+2015,Gold Coast,Collingwood,Metricon Stadium,8,8,1,0,1308.379511,1493.681737,L
+2015,Hawthorn,Sydney,MCG,8,8,1,0,1638.38835,1666.013188,L
+2015,Sydney,Hawthorn,MCG,8,8,0,1,1666.013188,1638.38835,W
+2015,Fremantle,North Melbourne,Domain Stadium,8,8,1,0,1754.565283,1579.684112,W
+2015,North Melbourne,Fremantle,Domain Stadium,8,8,0,1,1579.684112,1754.565283,L
+2015,Brisbane Lions,Essendon,Etihad Stadium,8,8,0,1,1397.281877,1526.667169,L
+2015,Essendon,Brisbane Lions,Etihad Stadium,8,8,1,0,1526.667169,1397.281877,W
+2015,Melbourne,Western Bulldogs,MCG,8,8,0,0,1302.814822,1468.960156,W
+2015,Western Bulldogs,Melbourne,MCG,8,8,0,0,1468.960156,1302.814822,L
+2015,Port Adelaide,Richmond,Adelaide Oval,8,8,1,0,1516.832352,1531.099807,L
+2015,Richmond,Port Adelaide,Adelaide Oval,8,8,0,1,1531.099807,1516.832352,W
+2015,Carlton,Sydney,SCG,9,9,0,1,1329.177656,1696.697679,L
+2015,Sydney,Carlton,SCG,9,9,1,0,1696.697679,1329.177656,W
+2015,Gold Coast,Hawthorn,Aurora Stadium,9,9,0,1,1289.585031,1607.703858,L
+2015,Hawthorn,Gold Coast,Aurora Stadium,9,9,1,0,1607.703858,1289.585031,W
+2015,Melbourne,Port Adelaide,TIO Traeger Park,9,9,0,0,1341.55947,1485.14439,L
+2015,Port Adelaide,Melbourne,TIO Traeger Park,9,9,0,0,1485.14439,1341.55947,W
+2015,Greater Western Sydney,Western Bulldogs,Etihad Stadium,9,9,0,1,1484.408737,1430.215509,L
+2015,Western Bulldogs,Greater Western Sydney,Etihad Stadium,9,9,1,0,1430.215509,1484.408737,W
+2015,Essendon,Richmond,MCG,9,9,0,0,1539.136123,1562.787769,L
+2015,Richmond,Essendon,MCG,9,9,0,0,1562.787769,1539.136123,W
+2015,Adelaide,Fremantle,Adelaide Oval,9,9,1,0,1511.201804,1764.704406,L
+2015,Fremantle,Adelaide,Adelaide Oval,9,9,0,1,1764.704406,1511.201804,W
+2015,Brisbane Lions,St Kilda,Gabba,9,9,1,0,1384.812923,1299.997701,L
+2015,St Kilda,Brisbane Lions,Gabba,9,9,0,1,1299.997701,1384.812923,W
+2015,Collingwood,North Melbourne,MCG,9,9,0,0,1512.476217,1569.54499,W
+2015,North Melbourne,Collingwood,MCG,9,9,0,0,1569.54499,1512.476217,L
+2015,Geelong,West Coast,Domain Stadium,9,9,0,1,1610.782081,1580.063656,L
+2015,West Coast,Geelong,Domain Stadium,9,9,1,0,1580.063656,1610.782081,W
+2015,Fremantle,Richmond,Domain Stadium,10,10,1,0,1779.025922,1587.781581,L
+2015,Richmond,Fremantle,Domain Stadium,10,10,0,1,1587.781581,1779.025922,W
+2015,Adelaide,Carlton,MCG,10,10,0,1,1496.880287,1325.347396,W
+2015,Carlton,Adelaide,MCG,10,10,1,0,1325.347396,1496.880287,L
+2015,Gold Coast,Sydney,Metricon Stadium,10,10,1,0,1284.611702,1700.527939,L
+2015,Sydney,Gold Coast,Metricon Stadium,10,10,0,1,1700.527939,1284.611702,W
+2015,Essendon,Geelong,Etihad Stadium,10,10,0,0,1514.142311,1587.59941,L
+2015,Geelong,Essendon,Etihad Stadium,10,10,0,0,1587.59941,1514.142311,W
+2015,Port Adelaide,Western Bulldogs,Adelaide Oval,10,10,1,0,1501.469054,1455.190476,W
+2015,Western Bulldogs,Port Adelaide,Adelaide Oval,10,10,0,1,1455.190476,1501.469054,L
+2015,Brisbane Lions,Greater Western Sydney,Spotless Stadium,10,10,0,1,1346.2697,1459.43377,L
+2015,Greater Western Sydney,Brisbane Lions,Spotless Stadium,10,10,1,0,1459.43377,1346.2697,W
+2015,North Melbourne,West Coast,Blundstone Arena,10,10,1,0,1538.362845,1603.246327,W
+2015,West Coast,North Melbourne,Blundstone Arena,10,10,0,1,1603.246327,1538.362845,L
+2015,Hawthorn,St Kilda,Etihad Stadium,10,10,0,0,1612.677188,1338.540924,W
+2015,St Kilda,Hawthorn,Etihad Stadium,10,10,0,0,1338.540924,1612.677188,L
+2015,Collingwood,Melbourne,MCG,10,10,0,0,1543.658361,1325.234805,W
+2015,Melbourne,Collingwood,MCG,10,10,0,0,1325.234805,1543.658361,L
+2015,Geelong,Port Adelaide,Adelaide Oval,11,11,0,1,1608.829212,1519.076314,W
+2015,Port Adelaide,Geelong,Adelaide Oval,11,11,1,0,1519.076314,1608.829212,L
+2015,Fremantle,Gold Coast,Metricon Stadium,11,11,0,1,1734.780068,1277.900369,W
+2015,Gold Coast,Fremantle,Metricon Stadium,11,11,1,0,1277.900369,1734.780068,L
+2015,Essendon,West Coast,Domain Stadium,11,11,0,1,1492.912509,1577.448654,L
+2015,West Coast,Essendon,Domain Stadium,11,11,1,0,1577.448654,1492.912509,W
+2015,North Melbourne,Sydney,Etihad Stadium,11,11,1,0,1564.160518,1707.239273,L
+2015,Sydney,North Melbourne,Etihad Stadium,11,11,0,1,1707.239273,1564.160518,W
+2015,Collingwood,Greater Western Sydney,MCG,11,11,1,0,1555.534379,1472.818562,W
+2015,Greater Western Sydney,Collingwood,MCG,11,11,0,1,1472.818562,1555.534379,L
+2015,Melbourne,St Kilda,Etihad Stadium,11,11,0,0,1313.358788,1329.365858,L
+2015,St Kilda,Melbourne,Etihad Stadium,11,11,0,0,1329.365858,1313.358788,W
+2015,Adelaide,Hawthorn,Adelaide Oval,11,11,1,0,1516.653527,1621.852254,L
+2015,Hawthorn,Adelaide,Adelaide Oval,11,11,0,1,1621.852254,1516.653527,W
+2015,Richmond,West Coast,MCG,11,12,1,0,1632.027436,1592.555918,L
+2015,West Coast,Richmond,MCG,12,11,0,1,1592.555918,1632.027436,W
+2015,Carlton,Port Adelaide,MCG,11,12,1,0,1305.574156,1493.159624,W
+2015,Port Adelaide,Carlton,MCG,12,11,0,1,1493.159624,1305.574156,L
+2015,Greater Western Sydney,North Melbourne,Spotless Stadium,12,12,1,0,1457.597325,1542.302384,L
+2015,North Melbourne,Greater Western Sydney,Spotless Stadium,12,12,0,1,1542.302384,1457.597325,W
+2015,Brisbane Lions,Western Bulldogs,Etihad Stadium,11,11,0,1,1332.884909,1437.583216,L
+2015,Western Bulldogs,Brisbane Lions,Etihad Stadium,11,11,1,0,1437.583216,1332.884909,W
+2015,Geelong,Melbourne,Simonds Stadium,12,12,1,0,1634.745902,1287.776877,L
+2015,Melbourne,Geelong,Simonds Stadium,12,12,0,1,1287.776877,1634.745902,W
+2015,Collingwood,Fremantle,Domain Stadium,12,12,0,1,1570.755616,1740.224704,L
+2015,Fremantle,Collingwood,Domain Stadium,12,12,1,0,1740.224704,1570.755616,W
+2015,Richmond,Sydney,SCG,12,12,0,1,1596.468149,1729.097407,W
+2015,Sydney,Richmond,SCG,12,12,1,0,1729.097407,1596.468149,L
+2015,Essendon,Hawthorn,MCG,12,12,0,0,1477.805245,1646.580668,L
+2015,Hawthorn,Essendon,MCG,12,12,0,0,1646.580668,1477.805245,W
+2015,Adelaide,Brisbane Lions,Gabba,12,12,0,1,1491.925113,1319.004675,W
+2015,Brisbane Lions,Adelaide,Gabba,12,12,1,0,1319.004675,1491.925113,L
+2015,St Kilda,Western Bulldogs,Etihad Stadium,12,12,0,0,1354.947769,1451.463451,L
+2015,Western Bulldogs,St Kilda,Etihad Stadium,12,12,0,0,1451.463451,1354.947769,W
+2015,Carlton,Gold Coast,Etihad Stadium,12,12,1,0,1340.572878,1272.455732,W
+2015,Gold Coast,Carlton,Etihad Stadium,12,12,0,1,1272.455732,1340.572878,L
+2015,Port Adelaide,Sydney,SCG,13,13,0,1,1458.160901,1687.755485,L
+2015,Sydney,Port Adelaide,SCG,13,13,1,0,1687.755485,1458.160901,W
+2015,Collingwood,Hawthorn,MCG,13,13,0,0,1560.357845,1661.306792,L
+2015,Hawthorn,Collingwood,MCG,13,13,0,0,1661.306792,1560.357845,W
+2015,Greater Western Sydney,Richmond,MCG,13,13,0,1,1431.291298,1637.810071,L
+2015,Richmond,Greater Western Sydney,MCG,13,13,1,0,1637.810071,1431.291298,W
+2015,Gold Coast,North Melbourne,Metricon Stadium,13,13,1,0,1256.301984,1568.608411,W
+2015,North Melbourne,Gold Coast,Metricon Stadium,13,13,0,1,1568.608411,1256.301984,L
+2015,Carlton,Western Bulldogs,Etihad Stadium,13,13,0,0,1356.726626,1471.016386,L
+2015,Western Bulldogs,Carlton,Etihad Stadium,13,13,0,0,1471.016386,1356.726626,W
+2015,Melbourne,West Coast,TIO Stadium,13,13,0,0,1337.136984,1628.115205,L
+2015,West Coast,Melbourne,TIO Stadium,13,13,0,0,1628.115205,1337.136984,W
+2015,Essendon,St Kilda,Etihad Stadium,13,13,0,0,1463.079121,1335.394833,L
+2015,St Kilda,Essendon,Etihad Stadium,13,13,0,0,1335.394833,1463.079121,W
+2015,Brisbane Lions,Fremantle,Domain Stadium,13,13,0,1,1299.331038,1750.622475,L
+2015,Fremantle,Brisbane Lions,Domain Stadium,13,13,1,0,1750.622475,1299.331038,W
+2015,Collingwood,Port Adelaide,Adelaide Oval,14,14,0,1,1541.120874,1450.36286,L
+2015,Port Adelaide,Collingwood,Adelaide Oval,14,14,1,0,1450.36286,1541.120874,W
+2015,Carlton,Richmond,MCG,14,14,0,0,1338.426466,1646.535684,L
+2015,Richmond,Carlton,MCG,14,14,0,0,1646.535684,1338.426466,W
+2015,Essendon,Melbourne,MCG,14,14,0,0,1426.828338,1328.67594,W
+2015,Melbourne,Essendon,MCG,14,14,0,0,1328.67594,1426.828338,L
+2015,Gold Coast,Western Bulldogs,Cazaly's Stadium,14,14,0,0,1298.878296,1489.316546,L
+2015,Western Bulldogs,Gold Coast,Cazaly's Stadium,14,14,0,0,1489.316546,1298.878296,W
+2015,Geelong,North Melbourne,Etihad Stadium,13,14,0,0,1585.385795,1526.032099,L
+2015,North Melbourne,Geelong,Etihad Stadium,14,13,0,0,1526.032099,1585.385795,W
+2015,Adelaide,West Coast,Domain Stadium,13,14,0,1,1511.59875,1636.576249,L
+2015,West Coast,Adelaide,Domain Stadium,14,13,1,0,1636.576249,1511.59875,W
+2015,Greater Western Sydney,St Kilda,Spotless Stadium,14,14,1,0,1422.565684,1371.645616,W
+2015,St Kilda,Greater Western Sydney,Spotless Stadium,14,14,0,1,1371.645616,1422.565684,L
+2015,Fremantle,Hawthorn,Aurora Stadium,14,14,0,1,1753.053733,1680.543763,L
+2015,Hawthorn,Fremantle,Aurora Stadium,14,14,1,0,1680.543763,1753.053733,W
+2015,Brisbane Lions,Sydney,Gabba,14,14,1,0,1296.899779,1695.553526,L
+2015,Sydney,Brisbane Lions,Gabba,14,14,0,1,1695.553526,1296.899779,W
+2015,Essendon,North Melbourne,Etihad Stadium,15,15,0,0,1446.264363,1557.385743,L
+2015,North Melbourne,Essendon,Etihad Stadium,15,15,0,0,1557.385743,1446.264363,W
+2015,Geelong,Western Bulldogs,Simonds Stadium,14,15,1,0,1554.03215,1502.748574,W
+2015,Western Bulldogs,Geelong,Simonds Stadium,15,14,0,1,1502.748574,1554.03215,L
+2015,Gold Coast,Greater Western Sydney,Metricon Stadium,15,15,1,0,1285.446268,1439.858406,L
+2015,Greater Western Sydney,Gold Coast,Metricon Stadium,15,15,0,1,1439.858406,1285.446268,W
+2015,Collingwood,West Coast,Etihad Stadium,15,15,1,0,1513.327021,1649.289674,L
+2015,West Coast,Collingwood,Etihad Stadium,15,15,0,1,1649.289674,1513.327021,W
+2015,Hawthorn,Sydney,ANZ Stadium,15,15,0,1,1706.929627,1702.870375,W
+2015,Sydney,Hawthorn,ANZ Stadium,15,15,1,0,1702.870375,1706.929627,L
+2015,Carlton,Fremantle,Domain Stadium,15,15,0,1,1330.644694,1726.66787,L
+2015,Fremantle,Carlton,Domain Stadium,15,15,1,0,1726.66787,1330.644694,W
+2015,Brisbane Lions,Melbourne,MCG,15,15,0,1,1289.582931,1309.239915,L
+2015,Melbourne,Brisbane Lions,MCG,15,15,1,0,1309.239915,1289.582931,W
+2015,Adelaide,Port Adelaide,Adelaide Oval,14,15,0,0,1498.885325,1478.156714,W
+2015,Port Adelaide,Adelaide,Adelaide Oval,15,14,0,0,1478.156714,1498.885325,L
+2015,Richmond,St Kilda,Etihad Stadium,15,15,0,0,1654.317456,1354.352894,W
+2015,St Kilda,Richmond,Etihad Stadium,15,15,0,0,1354.352894,1654.317456,L
+2015,Carlton,Hawthorn,Etihad Stadium,16,16,0,0,1327.35853,1739.375238,L
+2015,Hawthorn,Carlton,Etihad Stadium,16,16,0,0,1739.375238,1327.35853,W
+2015,Geelong,Greater Western Sydney,StarTrack Oval,15,16,0,1,1571.300363,1460.87705,W
+2015,Greater Western Sydney,Geelong,StarTrack Oval,16,15,1,0,1460.87705,1571.300363,L
+2015,Adelaide,Gold Coast,Adelaide Oval,15,16,1,0,1524.103829,1264.427624,W
+2015,Gold Coast,Adelaide,Adelaide Oval,16,15,0,1,1264.427624,1524.103829,L
+2015,Fremantle,Richmond,MCG,16,16,0,1,1729.954035,1662.416354,W
+2015,Richmond,Fremantle,MCG,16,16,1,0,1662.416354,1729.954035,L
+2015,Essendon,Port Adelaide,Etihad Stadium,16,16,1,0,1427.743687,1452.938209,L
+2015,Port Adelaide,Essendon,Etihad Stadium,16,16,0,1,1452.938209,1427.743687,W
+2015,Brisbane Lions,North Melbourne,Gabba,16,16,1,0,1270.117987,1575.90642,L
+2015,North Melbourne,Brisbane Lions,Gabba,16,16,0,1,1575.90642,1270.117987,W
+2015,Collingwood,Western Bulldogs,Etihad Stadium,16,16,0,0,1490.936472,1485.480361,L
+2015,Western Bulldogs,Collingwood,Etihad Stadium,16,16,0,0,1485.480361,1490.936472,W
+2015,Melbourne,St Kilda,MCG,16,16,0,0,1328.704859,1346.253996,L
+2015,St Kilda,Melbourne,MCG,16,16,0,0,1346.253996,1328.704859,W
+2015,Sydney,West Coast,Domain Stadium,16,16,0,1,1670.424764,1671.680222,L
+2015,West Coast,Sydney,Domain Stadium,16,16,1,0,1671.680222,1670.424764,W
+2015,Hawthorn,Richmond,MCG,17,17,0,0,1743.952913,1634.785589,L
+2015,Richmond,Hawthorn,MCG,17,17,0,0,1634.785589,1743.952913,W
+2015,Brisbane Lions,Geelong,Simonds Stadium,17,16,0,1,1258.728277,1595.628466,L
+2015,Geelong,Brisbane Lions,Simonds Stadium,16,17,1,0,1595.628466,1258.728277,W
+2015,Collingwood,Melbourne,MCG,17,17,0,0,1463.698851,1303.241694,L
+2015,Melbourne,Collingwood,MCG,17,17,0,0,1303.241694,1463.698851,W
+2015,Adelaide,Sydney,SCG,16,17,0,1,1530.81718,1649.628166,L
+2015,Sydney,Adelaide,SCG,17,16,1,0,1649.628166,1530.81718,W
+2015,Carlton,North Melbourne,Etihad Stadium,17,17,0,0,1322.780855,1587.296131,L
+2015,North Melbourne,Carlton,Etihad Stadium,17,17,0,0,1587.296131,1322.780855,W
+2015,Gold Coast,West Coast,Metricon Stadium,17,17,1,0,1257.714273,1692.47682,L
+2015,West Coast,Gold Coast,Metricon Stadium,17,17,0,1,1692.47682,1257.714273,L
+2015,Port Adelaide,St Kilda,Adelaide Oval,17,17,1,0,1483.806192,1371.717161,W
+2015,St Kilda,Port Adelaide,Adelaide Oval,17,17,0,1,1371.717161,1483.806192,L
+2015,Essendon,Western Bulldogs,Etihad Stadium,17,17,0,0,1396.875704,1512.717982,L
+2015,Western Bulldogs,Essendon,Etihad Stadium,17,17,0,0,1512.717982,1396.875704,W
+2015,Fremantle,Greater Western Sydney,Domain Stadium,17,17,1,0,1757.5848,1436.548947,W
+2015,Greater Western Sydney,Fremantle,Domain Stadium,17,17,0,1,1436.548947,1757.5848,L
+2015,Adelaide,Richmond,Adelaide Oval,17,18,1,0,1517.756232,1669.761348,W
+2015,Richmond,Adelaide,Adelaide Oval,18,17,0,1,1669.761348,1517.756232,L
+2015,Carlton,Collingwood,MCG,18,18,0,0,1313.176872,1425.308928,L
+2015,Collingwood,Carlton,MCG,18,18,0,0,1425.308928,1313.176872,W
+2015,Port Adelaide,Western Bulldogs,Etihad Stadium,18,18,0,1,1497.253239,1530.910551,L
+2015,Western Bulldogs,Port Adelaide,Etihad Stadium,18,18,1,0,1530.910551,1497.253239,W
+2015,Brisbane Lions,Gold Coast,Gabba,18,18,1,0,1254.221766,1278.43099,L
+2015,Gold Coast,Brisbane Lions,Gabba,18,18,0,1,1278.43099,1254.221766,W
+2015,Geelong,Sydney,Simonds Stadium,17,18,1,0,1600.134976,1662.689115,W
+2015,Sydney,Geelong,Simonds Stadium,18,17,0,1,1662.689115,1600.134976,L
+2015,Hawthorn,West Coast,Domain Stadium,18,18,0,1,1708.977155,1671.760103,W
+2015,West Coast,Hawthorn,Domain Stadium,18,18,1,0,1671.760103,1708.977155,L
+2015,Melbourne,North Melbourne,MCG,18,18,0,0,1341.631617,1596.900114,L
+2015,North Melbourne,Melbourne,MCG,18,18,0,0,1596.900114,1341.631617,W
+2015,Essendon,Greater Western Sydney,Spotless Stadium,18,18,0,1,1378.683135,1431.650869,L
+2015,Greater Western Sydney,Essendon,Spotless Stadium,18,18,1,0,1431.650869,1378.683135,W
+2015,Fremantle,St Kilda,Etihad Stadium,18,18,0,1,1762.482878,1358.270114,W
+2015,St Kilda,Fremantle,Etihad Stadium,18,18,1,0,1358.270114,1762.482878,L
+2015,Collingwood,Sydney,SCG,19,19,0,1,1443.759126,1637.070922,L
+2015,Sydney,Collingwood,SCG,19,19,1,0,1637.070922,1443.759126,W
+2015,Adelaide,Essendon,Etihad Stadium,18,19,0,1,1550.193286,1361.528236,W
+2015,Essendon,Adelaide,Etihad Stadium,19,18,1,0,1361.528236,1550.193286,L
+2015,North Melbourne,St Kilda,Blundstone Arena,19,19,1,0,1606.930955,1351.153121,W
+2015,St Kilda,North Melbourne,Blundstone Arena,19,19,0,1,1351.153121,1606.930955,L
+2015,Greater Western Sydney,Port Adelaide,Adelaide Oval,19,19,0,1,1448.805768,1478.776238,L
+2015,Port Adelaide,Greater Western Sydney,Adelaide Oval,19,19,1,0,1478.776238,1448.805768,W
+2015,Geelong,Hawthorn,MCG,18,19,0,0,1625.753168,1738.933969,L
+2015,Hawthorn,Geelong,MCG,19,18,0,0,1738.933969,1625.753168,W
+2015,Brisbane Lions,Carlton,Gabba,19,19,1,0,1223.279502,1294.726674,W
+2015,Carlton,Brisbane Lions,Gabba,19,19,0,1,1294.726674,1223.279502,L
+2015,Gold Coast,Richmond,MCG,19,19,0,1,1309.373254,1637.324294,L
+2015,Richmond,Gold Coast,MCG,19,19,1,0,1637.324294,1309.373254,W
+2015,Melbourne,Western Bulldogs,Etihad Stadium,19,19,0,0,1331.600776,1549.387551,L
+2015,Western Bulldogs,Melbourne,Etihad Stadium,19,19,0,0,1549.387551,1331.600776,W
+2015,Fremantle,West Coast,Domain Stadium,19,19,0,0,1769.599871,1641.803289,L
+2015,West Coast,Fremantle,Domain Stadium,19,19,0,0,1641.803289,1769.599871,W
+2015,Hawthorn,Port Adelaide,Etihad Stadium,20,20,1,0,1757.311168,1497.511125,L
+2015,Port Adelaide,Hawthorn,Etihad Stadium,20,20,0,1,1497.511125,1757.311168,W
+2015,Collingwood,Richmond,MCG,20,20,0,0,1434.46373,1642.04806,L
+2015,Richmond,Collingwood,MCG,20,20,0,0,1642.04806,1434.46373,W
+2015,Greater Western Sydney,Sydney,Spotless Stadium,20,20,1,0,1430.070881,1646.366318,L
+2015,Sydney,Greater Western Sydney,Spotless Stadium,20,20,0,1,1646.366318,1430.070881,W
+2015,Essendon,Gold Coast,Metricon Stadium,20,20,0,1,1342.969396,1304.649488,L
+2015,Gold Coast,Essendon,Metricon Stadium,20,20,1,0,1304.649488,1342.969396,W
+2015,Geelong,St Kilda,Etihad Stadium,19,20,0,0,1607.375969,1344.306862,L
+2015,St Kilda,Geelong,Etihad Stadium,20,19,0,0,1344.306862,1607.375969,L
+2015,Adelaide,Brisbane Lions,Adelaide Oval,19,20,1,0,1568.752126,1249.58336,W
+2015,Brisbane Lions,Adelaide,Adelaide Oval,20,19,0,1,1249.58336,1568.752126,L
+2015,Fremantle,North Melbourne,Etihad Stadium,20,20,0,1,1733.341494,1613.777214,L
+2015,North Melbourne,Fremantle,Etihad Stadium,20,20,1,0,1613.777214,1733.341494,W
+2015,Carlton,Melbourne,MCG,20,20,0,0,1268.422817,1319.69083,W
+2015,Melbourne,Carlton,MCG,20,20,0,0,1319.69083,1268.422817,L
+2015,West Coast,Western Bulldogs,Domain Stadium,20,20,1,0,1678.061665,1561.297497,W
+2015,Western Bulldogs,West Coast,Domain Stadium,20,20,0,1,1561.297497,1678.061665,L
+2015,Collingwood,Geelong,MCG,21,20,0,0,1422.000773,1590.229233,W
+2015,Geelong,Collingwood,MCG,20,21,0,0,1590.229233,1422.000773,L
+2015,Carlton,Greater Western Sydney,Spotless Stadium,21,21,0,1,1299.167953,1413.392437,L
+2015,Greater Western Sydney,Carlton,Spotless Stadium,21,21,1,0,1413.392437,1299.167953,W
+2015,Brisbane Lions,Hawthorn,Aurora Stadium,21,21,0,1,1244.637235,1710.387274,L
+2015,Hawthorn,Brisbane Lions,Aurora Stadium,21,21,1,0,1710.387274,1244.637235,W
+2015,North Melbourne,Western Bulldogs,Etihad Stadium,21,21,0,0,1643.77977,1548.119783,L
+2015,Western Bulldogs,North Melbourne,Etihad Stadium,21,21,0,0,1548.119783,1643.77977,W
+2015,Essendon,Richmond,MCG,21,21,0,0,1319.209164,1654.511018,L
+2015,Richmond,Essendon,MCG,21,21,0,0,1654.511018,1319.209164,W
+2015,Gold Coast,Port Adelaide,Metricon Stadium,21,21,1,0,1328.40972,1544.435019,L
+2015,Port Adelaide,Gold Coast,Metricon Stadium,21,21,0,1,1544.435019,1328.40972,W
+2015,Adelaide,West Coast,Adelaide Oval,20,21,1,0,1573.698251,1691.239379,W
+2015,West Coast,Adelaide,Adelaide Oval,21,20,0,1,1691.239379,1573.698251,L
+2015,St Kilda,Sydney,Etihad Stadium,21,21,1,0,1361.453599,1663.044762,L
+2015,Sydney,St Kilda,Etihad Stadium,21,21,0,1,1663.044762,1361.453599,W
+2015,Fremantle,Melbourne,Domain Stadium,21,21,1,0,1703.338939,1288.945694,W
+2015,Melbourne,Fremantle,Domain Stadium,21,21,0,1,1288.945694,1703.338939,L
+2015,North Melbourne,Richmond,Etihad Stadium,22,22,0,0,1609.760887,1661.308133,L
+2015,Richmond,North Melbourne,Etihad Stadium,22,22,0,0,1661.308133,1609.760887,W
+2015,Adelaide,Geelong,Simonds Stadium,21,21,0,1,1603.54675,1551.355957,L
+2015,Geelong,Adelaide,Simonds Stadium,21,21,1,0,1551.355957,1603.54675,W
+2015,Brisbane Lions,Western Bulldogs,Gabba,22,22,1,0,1242.39201,1582.138666,W
+2015,Western Bulldogs,Brisbane Lions,Gabba,22,22,0,1,1582.138666,1242.39201,L
+2015,Fremantle,Port Adelaide,Adelaide Oval,22,22,0,1,1706.313635,1561.131339,L
+2015,Port Adelaide,Fremantle,Adelaide Oval,22,22,1,0,1561.131339,1706.313635,W
+2015,Carlton,Hawthorn,MCG,22,22,0,0,1285.844382,1712.632499,L
+2015,Hawthorn,Carlton,MCG,22,22,0,0,1712.632499,1285.844382,W
+2015,Gold Coast,Sydney,SCG,22,22,0,1,1311.7134,1674.65273,L
+2015,Sydney,Gold Coast,SCG,22,22,1,0,1674.65273,1311.7134,W
+2015,St Kilda,West Coast,Domain Stadium,22,22,0,1,1349.845631,1661.390879,L
+2015,West Coast,St Kilda,Domain Stadium,22,22,1,0,1661.390879,1349.845631,W
+2015,Greater Western Sydney,Melbourne,Etihad Stadium,22,22,0,1,1426.716008,1285.970998,L
+2015,Melbourne,Greater Western Sydney,Etihad Stadium,22,22,1,0,1285.970998,1426.716008,W
+2015,Collingwood,Essendon,MCG,22,22,0,0,1460.874049,1312.412049,L
+2015,Essendon,Collingwood,MCG,22,22,0,0,1312.412049,1460.874049,W
+2016,Carlton,Richmond,MCG,1,1,0,0,1336.207803,1500,L
+2016,Richmond,Carlton,MCG,1,1,0,0,1500,1336.207803,W
+2016,Greater Western Sydney,Melbourne,MCG,1,1,0,1,1421.336449,1363.178805,L
+2016,Melbourne,Greater Western Sydney,MCG,1,1,1,0,1363.178805,1421.336449,W
+2016,Essendon,Gold Coast,Metricon Stadium,1,1,0,1,1387.52812,1355.841216,L
+2016,Gold Coast,Essendon,Metricon Stadium,1,1,1,0,1355.841216,1387.52812,W
+2016,Collingwood,Sydney,SCG,1,1,0,1,1442.436453,1633.933382,L
+2016,Sydney,Collingwood,SCG,1,1,1,0,1633.933382,1442.436453,W
+2016,Adelaide,North Melbourne,Etihad Stadium,1,1,0,1,1500,1500,L
+2016,North Melbourne,Adelaide,Etihad Stadium,1,1,1,0,1500,1500,W
+2016,Fremantle,Western Bulldogs,Etihad Stadium,1,1,0,1,1630.786558,1528.680017,L
+2016,Western Bulldogs,Fremantle,Etihad Stadium,1,1,1,0,1528.680017,1630.786558,W
+2016,Port Adelaide,St Kilda,Adelaide Oval,1,1,1,0,1569.797172,1383.524181,W
+2016,St Kilda,Port Adelaide,Adelaide Oval,1,1,0,1,1383.524181,1569.797172,L
+2016,Brisbane Lions,West Coast,Domain Stadium,1,1,0,1,1339.71799,1624.903202,L
+2016,West Coast,Brisbane Lions,Domain Stadium,1,1,1,0,1624.903202,1339.71799,W
+2016,Geelong,Hawthorn,MCG,1,1,0,0,1500,1662.649857,W
+2016,Hawthorn,Geelong,MCG,1,1,0,0,1662.649857,1500,L
+2016,Collingwood,Richmond,MCG,2,2,0,0,1433.060503,1515.03454,W
+2016,Richmond,Collingwood,MCG,2,2,0,0,1515.03454,1433.060503,L
+2016,Adelaide,Port Adelaide,Adelaide Oval,2,2,0,0,1479.11131,1579.408061,W
+2016,Port Adelaide,Adelaide,Adelaide Oval,2,2,0,0,1579.408061,1479.11131,L
+2016,Essendon,Melbourne,MCG,2,2,0,0,1364.272043,1388.458544,W
+2016,Melbourne,Essendon,MCG,2,2,0,0,1388.458544,1364.272043,L
+2016,Brisbane Lions,North Melbourne,Gabba,2,2,1,0,1333.820664,1520.88869,L
+2016,North Melbourne,Brisbane Lions,Gabba,2,2,0,1,1520.88869,1333.820664,W
+2016,St Kilda,Western Bulldogs,Etihad Stadium,2,2,0,0,1373.913292,1557.347283,L
+2016,Western Bulldogs,St Kilda,Etihad Stadium,2,2,0,0,1557.347283,1373.913292,W
+2016,Fremantle,Gold Coast,Domain Stadium,2,2,1,0,1602.119291,1379.097293,L
+2016,Gold Coast,Fremantle,Domain Stadium,2,2,0,1,1379.097293,1602.119291,W
+2016,Geelong,Greater Western Sydney,StarTrack Oval,2,2,0,1,1538.527266,1396.05671,L
+2016,Greater Western Sydney,Geelong,StarTrack Oval,2,2,1,0,1396.05671,1538.527266,W
+2016,Hawthorn,West Coast,MCG,2,2,1,0,1624.122591,1630.800528,W
+2016,West Coast,Hawthorn,MCG,2,2,0,1,1630.800528,1624.122591,L
+2016,Carlton,Sydney,Etihad Stadium,2,2,1,0,1321.173263,1643.309332,L
+2016,Sydney,Carlton,Etihad Stadium,2,2,0,1,1643.309332,1321.173263,W
+2016,Essendon,Port Adelaide,Adelaide Oval,3,3,0,1,1392.952378,1545.058315,L
+2016,Port Adelaide,Essendon,Adelaide Oval,3,3,1,0,1545.058315,1392.952378,W
+2016,Collingwood,St Kilda,MCG,3,3,0,0,1466.089283,1360.071252,L
+2016,St Kilda,Collingwood,MCG,3,3,0,0,1360.071252,1466.089283,W
+2016,Adelaide,Richmond,Etihad Stadium,3,3,0,1,1513.461056,1482.00576,W
+2016,Richmond,Adelaide,Etihad Stadium,3,3,1,0,1482.00576,1513.461056,L
+2016,Greater Western Sydney,Sydney,SCG,3,3,0,1,1427.786282,1653.877674,L
+2016,Sydney,Greater Western Sydney,SCG,3,3,1,0,1653.877674,1427.786282,W
+2016,Carlton,Gold Coast,Metricon Stadium,3,3,0,1,1310.604921,1424.676774,L
+2016,Gold Coast,Carlton,Metricon Stadium,3,3,1,0,1424.676774,1310.604921,W
+2016,Fremantle,West Coast,Domain Stadium,3,3,0,0,1556.539811,1609.419562,L
+2016,West Coast,Fremantle,Domain Stadium,3,3,0,0,1609.419562,1556.539811,W
+2016,Melbourne,North Melbourne,Blundstone Arena,3,3,0,1,1359.778209,1539.559264,L
+2016,North Melbourne,Melbourne,Blundstone Arena,3,3,1,0,1539.559264,1359.778209,W
+2016,Hawthorn,Western Bulldogs,Etihad Stadium,3,3,0,0,1645.503557,1571.189323,W
+2016,Western Bulldogs,Hawthorn,Etihad Stadium,3,3,0,0,1571.189323,1645.503557,L
+2016,Brisbane Lions,Geelong,Simonds Stadium,3,3,0,1,1315.15009,1506.797694,L
+2016,Geelong,Brisbane Lions,Simonds Stadium,3,3,1,0,1506.797694,1315.15009,W
+2016,Richmond,West Coast,Domain Stadium,4,4,0,1,1451.611218,1632.185838,L
+2016,West Coast,Richmond,Domain Stadium,4,4,1,0,1632.185838,1451.611218,W
+2016,Essendon,Geelong,MCG,4,4,0,0,1381.691125,1516.166935,L
+2016,Geelong,Essendon,MCG,4,4,0,0,1516.166935,1381.691125,W
+2016,Hawthorn,St Kilda,Aurora Stadium,4,4,1,0,1666.670106,1394.825834,W
+2016,St Kilda,Hawthorn,Aurora Stadium,4,4,0,1,1394.825834,1666.670106,L
+2016,Brisbane Lions,Gold Coast,Gabba,4,4,1,0,1305.780849,1438.009145,W
+2016,Gold Coast,Brisbane Lions,Gabba,4,4,0,1,1438.009145,1305.780849,L
+2016,Carlton,Western Bulldogs,Etihad Stadium,4,4,0,0,1297.272549,1550.022775,L
+2016,Western Bulldogs,Carlton,Etihad Stadium,4,4,0,0,1550.022775,1297.272549,W
+2016,Adelaide,Sydney,Adelaide Oval,4,4,1,0,1543.855599,1661.811069,W
+2016,Sydney,Adelaide,Adelaide Oval,4,4,0,1,1661.811069,1543.855599,L
+2016,Greater Western Sydney,Port Adelaide,StarTrack Oval,4,4,1,0,1419.852887,1556.319567,W
+2016,Port Adelaide,Greater Western Sydney,StarTrack Oval,4,4,0,1,1556.319567,1419.852887,L
+2016,Collingwood,Melbourne,MCG,4,4,0,0,1431.334702,1349.868975,L
+2016,Melbourne,Collingwood,MCG,4,4,0,0,1349.868975,1431.334702,W
+2016,Fremantle,North Melbourne,Etihad Stadium,4,4,0,1,1533.773535,1549.468498,L
+2016,North Melbourne,Fremantle,Etihad Stadium,4,4,1,0,1549.468498,1533.773535,W
+2016,Adelaide,Hawthorn,MCG,5,5,0,1,1573.735666,1672.982764,L
+2016,Hawthorn,Adelaide,MCG,5,5,1,0,1672.982764,1573.735666,W
+2016,Sydney,West Coast,SCG,5,5,1,0,1631.931002,1642.058222,W
+2016,West Coast,Sydney,SCG,5,5,0,1,1642.058222,1631.931002,L
+2016,Gold Coast,North Melbourne,Metricon Stadium,5,5,1,0,1407.047503,1569.217138,L
+2016,North Melbourne,Gold Coast,Metricon Stadium,5,5,0,1,1569.217138,1407.047503,W
+2016,Brisbane Lions,Western Bulldogs,Etihad Stadium,5,5,0,1,1336.742491,1560.172367,L
+2016,Western Bulldogs,Brisbane Lions,Etihad Stadium,5,5,1,0,1560.172367,1336.742491,W
+2016,Geelong,Port Adelaide,Adelaide Oval,5,5,0,1,1533.093088,1525.039222,W
+2016,Port Adelaide,Geelong,Adelaide Oval,5,5,1,0,1525.039222,1533.093088,L
+2016,Greater Western Sydney,St Kilda,Etihad Stadium,5,5,0,1,1451.133232,1388.513175,W
+2016,St Kilda,Greater Western Sydney,Etihad Stadium,5,5,1,0,1388.513175,1451.133232,L
+2016,Carlton,Fremantle,Domain Stadium,5,5,0,1,1287.122957,1514.024894,W
+2016,Fremantle,Carlton,Domain Stadium,5,5,1,0,1514.024894,1287.122957,L
+2016,Melbourne,Richmond,MCG,5,5,0,0,1382.860614,1441.738834,W
+2016,Richmond,Melbourne,MCG,5,5,0,0,1441.738834,1382.860614,L
+2016,Collingwood,Essendon,MCG,5,5,0,0,1398.343062,1364.764972,W
+2016,Essendon,Collingwood,MCG,5,5,0,0,1364.764972,1398.343062,L
+2016,North Melbourne,Western Bulldogs,Etihad Stadium,6,6,0,0,1589.667851,1568.20989,W
+2016,Western Bulldogs,North Melbourne,Etihad Stadium,6,6,0,0,1568.20989,1589.667851,L
+2016,Melbourne,St Kilda,Etihad Stadium,6,6,0,0,1414.178602,1360.503386,L
+2016,St Kilda,Melbourne,Etihad Stadium,6,6,0,0,1360.503386,1414.178602,W
+2016,Adelaide,Fremantle,Adelaide Oval,6,6,1,0,1559.530161,1468.293741,W
+2016,Fremantle,Adelaide,Adelaide Oval,6,6,0,1,1468.293741,1559.530161,L
+2016,Greater Western Sydney,Hawthorn,Spotless Stadium,6,6,1,0,1479.143022,1687.188269,W
+2016,Hawthorn,Greater Western Sydney,Spotless Stadium,6,6,0,1,1687.188269,1479.143022,L
+2016,Geelong,Gold Coast,Simonds Stadium,6,6,1,0,1565.243264,1386.59679,W
+2016,Gold Coast,Geelong,Simonds Stadium,6,6,0,1,1386.59679,1565.243264,L
+2016,Port Adelaide,Richmond,MCG,6,6,0,1,1492.889046,1410.420847,W
+2016,Richmond,Port Adelaide,MCG,6,6,1,0,1410.420847,1492.889046,L
+2016,Brisbane Lions,Sydney,Gabba,6,6,1,0,1328.704968,1653.567766,L
+2016,Sydney,Brisbane Lions,Gabba,6,6,0,1,1653.567766,1328.704968,W
+2016,Carlton,Essendon,MCG,6,6,0,0,1332.85411,1340.5321,W
+2016,Essendon,Carlton,MCG,6,6,0,0,1340.5321,1332.85411,L
+2016,Collingwood,West Coast,Domain Stadium,6,6,0,1,1422.575934,1620.421457,L
+2016,West Coast,Collingwood,Domain Stadium,6,6,1,0,1620.421457,1422.575934,W
+2016,Hawthorn,Richmond,MCG,7,7,0,0,1650.784265,1383.942213,W
+2016,Richmond,Hawthorn,MCG,7,7,0,0,1383.942213,1650.784265,L
+2016,Carlton,Collingwood,MCG,7,7,0,0,1360.263163,1413.47938,W
+2016,Collingwood,Carlton,MCG,7,7,0,0,1413.47938,1360.263163,L
+2016,Geelong,West Coast,Simonds Stadium,7,7,1,0,1575.205368,1629.518011,W
+2016,West Coast,Geelong,Simonds Stadium,7,7,0,1,1629.518011,1575.205368,L
+2016,Essendon,Sydney,SCG,7,7,0,1,1313.123048,1664.003545,L
+2016,Sydney,Essendon,SCG,7,7,1,0,1664.003545,1313.123048,W
+2016,Gold Coast,Melbourne,Metricon Stadium,7,7,1,0,1376.634686,1383.251842,L
+2016,Melbourne,Gold Coast,Metricon Stadium,7,7,0,1,1383.251842,1376.634686,W
+2016,Adelaide,Western Bulldogs,Etihad Stadium,7,7,0,1,1574.222416,1543.047473,L
+2016,Western Bulldogs,Adelaide,Etihad Stadium,7,7,1,0,1543.047473,1574.222416,W
+2016,Fremantle,Greater Western Sydney,Domain Stadium,7,7,1,0,1453.601486,1515.547026,L
+2016,Greater Western Sydney,Fremantle,Domain Stadium,7,7,0,1,1515.547026,1453.601486,W
+2016,North Melbourne,St Kilda,Etihad Stadium,7,7,0,0,1614.830269,1391.430145,W
+2016,St Kilda,North Melbourne,Etihad Stadium,7,7,0,0,1391.430145,1614.830269,L
+2016,Brisbane Lions,Port Adelaide,Adelaide Oval,7,7,0,1,1318.26919,1519.36768,L
+2016,Port Adelaide,Brisbane Lions,Adelaide Oval,7,7,1,0,1519.36768,1318.26919,W
+2016,Adelaide,Geelong,Adelaide Oval,8,8,1,0,1551.00515,1600.189509,L
+2016,Geelong,Adelaide,Adelaide Oval,8,8,0,1,1600.189509,1551.00515,W
+2016,Essendon,North Melbourne,Etihad Stadium,8,8,0,0,1308.937807,1626.443518,L
+2016,North Melbourne,Essendon,Etihad Stadium,8,8,0,0,1626.443518,1308.937807,W
+2016,Fremantle,Hawthorn,Aurora Stadium,8,8,0,1,1425.539742,1660.2831,L
+2016,Hawthorn,Fremantle,Aurora Stadium,8,8,1,0,1660.2831,1425.539742,W
+2016,Gold Coast,Greater Western Sydney,Spotless Stadium,8,8,0,1,1344.378094,1543.60877,L
+2016,Greater Western Sydney,Gold Coast,Spotless Stadium,8,8,1,0,1543.60877,1344.378094,W
+2016,Richmond,Sydney,MCG,8,8,1,0,1374.443378,1668.188786,W
+2016,Sydney,Richmond,MCG,8,8,0,1,1668.188786,1374.443378,L
+2016,Brisbane Lions,Collingwood,Gabba,8,8,1,0,1309.31321,1382.587223,L
+2016,Collingwood,Brisbane Lions,Gabba,8,8,0,1,1382.587223,1309.31321,W
+2016,Carlton,Port Adelaide,Etihad Stadium,8,8,1,0,1391.15532,1528.32366,W
+2016,Port Adelaide,Carlton,Etihad Stadium,8,8,0,1,1528.32366,1391.15532,L
+2016,Melbourne,Western Bulldogs,MCG,8,8,0,0,1415.508434,1566.264739,L
+2016,Western Bulldogs,Melbourne,MCG,8,8,0,0,1566.264739,1415.508434,W
+2016,St Kilda,West Coast,Domain Stadium,8,8,0,1,1379.816895,1604.533871,L
+2016,West Coast,St Kilda,Domain Stadium,8,8,1,0,1604.533871,1379.816895,W
+2016,Hawthorn,Sydney,MCG,9,9,1,0,1667.88569,1626.579744,L
+2016,Sydney,Hawthorn,MCG,9,9,0,1,1626.579744,1667.88569,W
+2016,Collingwood,Geelong,MCG,9,9,0,0,1409.77546,1629.231976,W
+2016,Geelong,Collingwood,MCG,9,9,0,0,1629.231976,1409.77546,L
+2016,Adelaide,Gold Coast,Metricon Stadium,9,9,0,1,1521.962682,1335.341612,W
+2016,Gold Coast,Adelaide,Metricon Stadium,9,9,1,0,1335.341612,1521.962682,L
+2016,Port Adelaide,West Coast,Adelaide Oval,9,9,1,0,1496.990676,1612.520898,L
+2016,West Coast,Port Adelaide,Adelaide Oval,9,9,0,1,1612.520898,1496.990676,W
+2016,Fremantle,Richmond,Domain Stadium,9,9,1,0,1417.937152,1416.052419,L
+2016,Richmond,Fremantle,Domain Stadium,9,9,0,1,1416.052419,1417.937152,W
+2016,Carlton,North Melbourne,Etihad Stadium,9,9,0,0,1422.488304,1633.872305,L
+2016,North Melbourne,Carlton,Etihad Stadium,9,9,0,0,1633.872305,1422.488304,W
+2016,Brisbane Lions,Melbourne,MCG,9,9,0,1,1282.124972,1399.648737,L
+2016,Melbourne,Brisbane Lions,MCG,9,9,1,0,1399.648737,1282.124972,W
+2016,Greater Western Sydney,Western Bulldogs,Spotless Stadium,9,9,1,0,1552.645252,1582.124436,W
+2016,Western Bulldogs,Greater Western Sydney,Spotless Stadium,9,9,0,1,1582.124436,1552.645252,L
+2016,Essendon,St Kilda,Etihad Stadium,9,9,0,0,1301.50902,1371.829868,L
+2016,St Kilda,Essendon,Etihad Stadium,9,9,0,0,1371.829868,1301.50902,W
+2016,North Melbourne,Sydney,SCG,10,10,0,1,1646.127235,1662.265352,L
+2016,Sydney,North Melbourne,SCG,10,10,1,0,1662.265352,1646.127235,W
+2016,Brisbane Lions,Hawthorn,Gabba,10,10,1,0,1268.990674,1632.200083,L
+2016,Hawthorn,Brisbane Lions,Gabba,10,10,0,1,1632.200083,1268.990674,W
+2016,Melbourne,Port Adelaide,TIO Traeger Park,10,10,0,0,1412.783036,1473.052791,L
+2016,Port Adelaide,Melbourne,TIO Traeger Park,10,10,0,0,1473.052791,1412.783036,W
+2016,Fremantle,St Kilda,Etihad Stadium,10,10,0,1,1385.054586,1393.291662,L
+2016,St Kilda,Fremantle,Etihad Stadium,10,10,1,0,1393.291662,1385.054586,W
+2016,Essendon,Richmond,MCG,10,10,0,0,1280.047226,1448.934985,L
+2016,Richmond,Essendon,MCG,10,10,0,0,1448.934985,1280.047226,W
+2016,Adelaide,Greater Western Sydney,Adelaide Oval,10,10,1,0,1540.664583,1575.734075,W
+2016,Greater Western Sydney,Adelaide,Adelaide Oval,10,10,0,1,1575.734075,1540.664583,L
+2016,Carlton,Geelong,Etihad Stadium,10,10,0,0,1410.233374,1587.420045,W
+2016,Geelong,Carlton,Etihad Stadium,10,10,0,0,1587.420045,1410.233374,L
+2016,Collingwood,Western Bulldogs,MCG,10,10,0,0,1451.587391,1559.035612,L
+2016,Western Bulldogs,Collingwood,MCG,10,10,0,0,1559.035612,1451.587391,W
+2016,Gold Coast,West Coast,Domain Stadium,10,10,0,1,1316.639711,1636.458783,L
+2016,West Coast,Gold Coast,Domain Stadium,10,10,1,0,1636.458783,1316.639711,W
+2016,North Melbourne,Richmond,Blundstone Arena,11,11,1,0,1626.410412,1463.654202,W
+2016,Richmond,North Melbourne,Blundstone Arena,11,11,0,1,1463.654202,1626.410412,L
+2016,Hawthorn,Melbourne,MCG,11,11,0,0,1640.904256,1390.572271,W
+2016,Melbourne,Hawthorn,MCG,11,11,0,0,1390.572271,1640.904256,L
+2016,Brisbane Lions,Carlton,Etihad Stadium,11,11,0,1,1260.2865,1449.651874,L
+2016,Carlton,Brisbane Lions,Etihad Stadium,11,11,1,0,1449.651874,1260.2865,W
+2016,Geelong,Greater Western Sydney,Simonds Stadium,11,11,1,0,1548.001545,1552.221195,W
+2016,Greater Western Sydney,Geelong,Simonds Stadium,11,11,0,1,1552.221195,1548.001545,L
+2016,Essendon,Fremantle,Domain Stadium,11,11,0,1,1265.328009,1364.767337,L
+2016,Fremantle,Essendon,Domain Stadium,11,11,1,0,1364.767337,1265.328009,W
+2016,Gold Coast,Sydney,Metricon Stadium,11,11,1,0,1311.710368,1681.982175,L
+2016,Sydney,Gold Coast,Metricon Stadium,11,11,0,1,1681.982175,1311.710368,W
+2016,Collingwood,Port Adelaide,MCG,11,11,1,0,1432.809505,1495.263556,L
+2016,Port Adelaide,Collingwood,MCG,11,11,0,1,1495.263556,1432.809505,W
+2016,West Coast,Western Bulldogs,Etihad Stadium,11,11,0,1,1641.388125,1577.813499,L
+2016,Western Bulldogs,West Coast,Etihad Stadium,11,11,1,0,1577.813499,1641.388125,W
+2016,Adelaide,St Kilda,Adelaide Oval,11,11,1,0,1564.177464,1413.578911,W
+2016,St Kilda,Adelaide,Adelaide Oval,11,11,0,1,1413.578911,1564.177464,L
+2016,Essendon,Hawthorn,Etihad Stadium,12,12,0,0,1251.134057,1651.168895,L
+2016,Hawthorn,Essendon,Etihad Stadium,12,12,0,0,1651.168895,1251.134057,W
+2016,Port Adelaide,Western Bulldogs,Adelaide Oval,12,12,1,0,1523.286133,1603.510309,L
+2016,Western Bulldogs,Port Adelaide,Adelaide Oval,12,12,0,1,1603.510309,1523.286133,W
+2016,Brisbane Lions,Fremantle,Gabba,12,12,1,0,1250.815237,1378.961289,L
+2016,Fremantle,Brisbane Lions,Gabba,12,12,0,1,1378.961289,1250.815237,W
+2016,Geelong,North Melbourne,Etihad Stadium,12,12,0,0,1569.200829,1637.135918,W
+2016,North Melbourne,Geelong,Etihad Stadium,12,12,0,0,1637.135918,1569.200829,L
+2016,Adelaide,West Coast,Domain Stadium,12,12,0,1,1575.51611,1615.691314,W
+2016,West Coast,Adelaide,Domain Stadium,12,12,1,0,1615.691314,1575.51611,L
+2016,Carlton,St Kilda,Etihad Stadium,12,12,0,0,1459.123136,1402.240265,L
+2016,St Kilda,Carlton,Etihad Stadium,12,12,0,0,1402.240265,1459.123136,W
+2016,Gold Coast,Richmond,MCG,12,12,0,1,1303.298574,1452.928696,L
+2016,Richmond,Gold Coast,MCG,12,12,1,0,1452.928696,1303.298574,W
+2016,Greater Western Sydney,Sydney,Spotless Stadium,12,12,1,0,1531.02191,1690.393969,W
+2016,Sydney,Greater Western Sydney,Spotless Stadium,12,12,0,1,1690.393969,1531.02191,L
+2016,Collingwood,Melbourne,MCG,12,12,0,0,1404.786928,1380.307633,L
+2016,Melbourne,Collingwood,MCG,12,12,0,0,1380.307633,1404.786928,W
+2016,Hawthorn,North Melbourne,Etihad Stadium,13,13,0,0,1656.043739,1605.141694,W
+2016,North Melbourne,Hawthorn,Etihad Stadium,13,13,0,0,1605.141694,1656.043739,L
+2016,Brisbane Lions,West Coast,Gabba,13,13,1,0,1227.835718,1580.083519,L
+2016,West Coast,Brisbane Lions,Gabba,13,13,0,1,1580.083519,1227.835718,W
+2016,Fremantle,Port Adelaide,Domain Stadium,13,13,1,0,1401.940809,1496.634312,W
+2016,Port Adelaide,Fremantle,Domain Stadium,13,13,0,1,1496.634312,1401.940809,L
+2016,Geelong,Western Bulldogs,Etihad Stadium,13,13,0,0,1601.195054,1630.16213,W
+2016,Western Bulldogs,Geelong,Etihad Stadium,13,13,0,0,1630.16213,1601.195054,L
+2016,Melbourne,Sydney,SCG,13,13,0,1,1409.010457,1657.415768,L
+2016,Sydney,Melbourne,SCG,13,13,1,0,1657.415768,1409.010457,W
+2016,Essendon,Greater Western Sydney,Etihad Stadium,13,13,1,0,1246.259213,1564.000111,L
+2016,Greater Western Sydney,Essendon,Etihad Stadium,13,13,0,1,1564.000111,1246.259213,W
+2016,Adelaide,North Melbourne,Adelaide Oval,13,14,1,0,1611.123905,1582.226125,W
+2016,North Melbourne,Adelaide,Adelaide Oval,14,13,0,1,1582.226125,1611.123905,L
+2016,Collingwood,Fremantle,MCG,13,14,1,0,1376.084105,1430.037878,W
+2016,Fremantle,Collingwood,MCG,14,13,0,1,1430.037878,1376.084105,L
+2016,Brisbane Lions,Richmond,MCG,14,13,0,1,1218.661587,1464.317269,L
+2016,Richmond,Brisbane Lions,MCG,13,14,1,0,1464.317269,1218.661587,W
+2016,Carlton,Greater Western Sydney,Spotless Stadium,13,14,0,1,1427.954961,1574.784797,L
+2016,Greater Western Sydney,Carlton,Spotless Stadium,14,13,1,0,1574.784797,1427.954961,W
+2016,Geelong,St Kilda,Etihad Stadium,14,13,0,0,1630.242218,1433.40844,L
+2016,St Kilda,Geelong,Etihad Stadium,13,14,0,0,1433.40844,1630.242218,W
+2016,Gold Coast,Hawthorn,Aurora Stadium,13,14,0,1,1291.910001,1678.959307,L
+2016,Hawthorn,Gold Coast,Aurora Stadium,14,13,1,0,1678.959307,1291.910001,W
+2016,Essendon,West Coast,Domain Stadium,14,14,0,1,1235.474527,1589.25765,L
+2016,West Coast,Essendon,Domain Stadium,14,14,1,0,1589.25765,1235.474527,W
+2016,Port Adelaide,Richmond,Adelaide Oval,14,14,1,0,1468.537243,1471.519138,W
+2016,Richmond,Port Adelaide,Adelaide Oval,14,14,0,1,1471.519138,1468.537243,L
+2016,Gold Coast,St Kilda,Metricon Stadium,14,14,1,0,1288.460824,1473.976719,W
+2016,St Kilda,Gold Coast,Metricon Stadium,14,14,0,1,1473.976719,1288.460824,L
+2016,Sydney,Western Bulldogs,SCG,14,14,1,0,1664.519522,1601.114966,L
+2016,Western Bulldogs,Sydney,SCG,14,14,0,1,1601.114966,1664.519522,W
+2016,Carlton,Collingwood,MCG,14,14,0,0,1416.421119,1401.040677,L
+2016,Collingwood,Carlton,MCG,14,14,0,0,1401.040677,1416.421119,W
+2016,Adelaide,Melbourne,MCG,14,14,0,1,1629.934137,1401.906704,W
+2016,Melbourne,Adelaide,MCG,14,14,1,0,1401.906704,1629.934137,L
+2016,Hawthorn,Port Adelaide,Adelaide Oval,15,15,0,1,1682.408485,1489.645252,W
+2016,Port Adelaide,Hawthorn,Adelaide Oval,15,15,1,0,1489.645252,1682.408485,L
+2016,Geelong,Sydney,Simonds Stadium,15,15,1,0,1589.673939,1627.348082,L
+2016,Sydney,Geelong,Simonds Stadium,15,15,0,1,1627.348082,1589.673939,W
+2016,Collingwood,Greater Western Sydney,Spotless Stadium,15,15,0,1,1429.043559,1586.318639,W
+2016,Greater Western Sydney,Collingwood,Spotless Stadium,15,15,1,0,1586.318639,1429.043559,L
+2016,Brisbane Lions,Gold Coast,Metricon Stadium,15,15,0,1,1211.459718,1323.314417,L
+2016,Gold Coast,Brisbane Lions,Metricon Stadium,15,15,1,0,1323.314417,1211.459718,W
+2016,Richmond,Western Bulldogs,Etihad Stadium,15,15,0,0,1450.411128,1638.286406,L
+2016,Western Bulldogs,Richmond,Etihad Stadium,15,15,0,0,1638.286406,1450.411128,W
+2016,Fremantle,Melbourne,TIO Stadium,15,15,0,0,1405.081305,1385.994292,L
+2016,Melbourne,Fremantle,TIO Stadium,15,15,0,0,1385.994292,1405.081305,W
+2016,Adelaide,Carlton,MCG,15,15,0,1,1645.846549,1388.418237,W
+2016,Carlton,Adelaide,MCG,15,15,1,0,1388.418237,1645.846549,L
+2016,North Melbourne,West Coast,Domain Stadium,15,15,0,1,1563.415893,1593.37887,L
+2016,West Coast,North Melbourne,Domain Stadium,15,15,1,0,1593.37887,1563.415893,W
+2016,Essendon,St Kilda,Etihad Stadium,15,15,0,0,1231.353306,1439.123126,L
+2016,St Kilda,Essendon,Etihad Stadium,15,15,0,0,1439.123126,1231.353306,W
+2016,Hawthorn,Sydney,SCG,16,16,0,1,1700.682053,1657.270094,W
+2016,Sydney,Hawthorn,SCG,16,16,1,0,1657.270094,1700.682053,L
+2016,Fremantle,Geelong,Domain Stadium,16,16,1,0,1376.79304,1559.751926,L
+2016,Geelong,Fremantle,Domain Stadium,16,16,0,1,1559.751926,1376.79304,W
+2016,Essendon,Richmond,MCG,16,16,0,0,1218.900561,1436.830013,L
+2016,Richmond,Essendon,MCG,16,16,0,0,1436.830013,1218.900561,W
+2016,North Melbourne,Port Adelaide,Etihad Stadium,16,16,1,0,1544.68048,1471.371684,L
+2016,Port Adelaide,North Melbourne,Etihad Stadium,16,16,0,1,1471.371684,1544.68048,W
+2016,Gold Coast,Western Bulldogs,Cazaly's Stadium,16,16,0,0,1336.775059,1651.867521,L
+2016,Western Bulldogs,Gold Coast,Cazaly's Stadium,16,16,0,0,1651.867521,1336.775059,W
+2016,Adelaide,Collingwood,Adelaide Oval,16,16,1,0,1659.932098,1471.677813,W
+2016,Collingwood,Adelaide,Adelaide Oval,16,16,0,1,1471.677813,1659.932098,L
+2016,Carlton,West Coast,MCG,16,16,1,0,1374.332688,1612.114283,L
+2016,West Coast,Carlton,MCG,16,16,0,1,1612.114283,1374.332688,W
+2016,Melbourne,St Kilda,Etihad Stadium,16,16,0,0,1414.282557,1451.575871,L
+2016,St Kilda,Melbourne,Etihad Stadium,16,16,0,0,1451.575871,1414.282557,W
+2016,Brisbane Lions,Greater Western Sydney,Gabba,16,16,1,0,1197.999076,1543.684386,L
+2016,Greater Western Sydney,Brisbane Lions,Gabba,16,16,0,1,1543.684386,1197.999076,W
+2016,Collingwood,North Melbourne,Etihad Stadium,17,17,0,0,1462.156567,1506.865826,L
+2016,North Melbourne,Collingwood,Etihad Stadium,17,17,0,0,1506.865826,1462.156567,W
+2016,Carlton,Sydney,SCG,17,17,0,1,1359.041411,1627.785808,L
+2016,Sydney,Carlton,SCG,17,17,1,0,1627.785808,1359.041411,W
+2016,Fremantle,Gold Coast,Metricon Stadium,17,17,0,1,1357.833547,1329.256921,L
+2016,Gold Coast,Fremantle,Metricon Stadium,17,17,1,0,1329.256921,1357.833547,W
+2016,Melbourne,West Coast,Domain Stadium,17,17,0,1,1390.333477,1627.40556,L
+2016,West Coast,Melbourne,Domain Stadium,17,17,1,0,1627.40556,1390.333477,W
+2016,Adelaide,Geelong,Simonds Stadium,17,17,0,1,1669.453344,1578.71142,L
+2016,Geelong,Adelaide,Simonds Stadium,17,17,1,0,1578.71142,1669.453344,W
+2016,St Kilda,Western Bulldogs,Etihad Stadium,17,17,0,0,1475.524951,1659.385659,W
+2016,Western Bulldogs,St Kilda,Etihad Stadium,17,17,0,0,1659.385659,1475.524951,L
+2016,Brisbane Lions,Essendon,Etihad Stadium,17,17,0,1,1188.534078,1206.998223,W
+2016,Essendon,Brisbane Lions,Etihad Stadium,17,17,1,0,1206.998223,1188.534078,L
+2016,Hawthorn,Richmond,MCG,17,17,0,0,1730.166339,1448.732351,W
+2016,Richmond,Hawthorn,MCG,17,17,0,0,1448.732351,1730.166339,L
+2016,Greater Western Sydney,Port Adelaide,Adelaide Oval,17,17,0,1,1553.149383,1509.186338,W
+2016,Port Adelaide,Greater Western Sydney,Adelaide Oval,17,17,1,0,1509.186338,1553.149383,L
+2016,Geelong,Western Bulldogs,Simonds Stadium,18,18,1,0,1606.504033,1619.569429,W
+2016,Western Bulldogs,Geelong,Simonds Stadium,18,18,0,1,1619.569429,1606.504033,L
+2016,Greater Western Sydney,Richmond,StarTrack Oval,18,18,1,0,1582.591548,1439.872384,W
+2016,Richmond,Greater Western Sydney,StarTrack Oval,18,18,0,1,1439.872384,1582.591548,L
+2016,Carlton,Hawthorn,Aurora Stadium,18,18,0,1,1352.628686,1739.026306,L
+2016,Hawthorn,Carlton,Aurora Stadium,18,18,1,0,1739.026306,1352.628686,W
+2016,Collingwood,West Coast,MCG,18,18,1,0,1438.771962,1634.921101,W
+2016,West Coast,Collingwood,MCG,18,18,0,1,1634.921101,1438.771962,L
+2016,North Melbourne,St Kilda,Etihad Stadium,18,18,0,0,1530.250432,1515.341182,W
+2016,St Kilda,North Melbourne,Etihad Stadium,18,18,0,0,1515.341182,1530.250432,L
+2016,Brisbane Lions,Port Adelaide,Gabba,18,18,1,0,1222.616966,1479.744173,L
+2016,Port Adelaide,Brisbane Lions,Gabba,18,18,0,1,1479.744173,1222.616966,W
+2016,Gold Coast,Melbourne,MCG,18,18,0,1,1352.277452,1382.817935,L
+2016,Melbourne,Gold Coast,MCG,18,18,1,0,1382.817935,1352.277452,W
+2016,Fremantle,Sydney,Domain Stadium,18,18,1,0,1334.813016,1634.198534,L
+2016,Sydney,Fremantle,Domain Stadium,18,18,0,1,1634.198534,1334.813016,W
+2016,Adelaide,Essendon,Adelaide Oval,18,18,1,0,1641.66073,1172.915336,W
+2016,Essendon,Adelaide,Adelaide Oval,18,18,0,1,1172.915336,1641.66073,L
+2016,Collingwood,Richmond,MCG,19,19,0,0,1474.365535,1428.122866,L
+2016,Richmond,Collingwood,MCG,19,19,0,0,1428.122866,1474.365535,W
+2016,Port Adelaide,Sydney,SCG,19,19,0,1,1493.847732,1645.922402,L
+2016,Sydney,Port Adelaide,SCG,19,19,1,0,1645.922402,1493.847732,W
+2016,Hawthorn,Melbourne,MCG,19,19,0,0,1742.487611,1401.512842,L
+2016,Melbourne,Hawthorn,MCG,19,19,0,0,1401.512842,1742.487611,W
+2016,Gold Coast,Greater Western Sydney,Metricon Stadium,19,19,1,0,1333.582545,1594.341066,L
+2016,Greater Western Sydney,Gold Coast,Metricon Stadium,19,19,0,1,1594.341066,1333.582545,W
+2016,North Melbourne,Western Bulldogs,Etihad Stadium,19,19,0,0,1555.916909,1597.713993,L
+2016,Western Bulldogs,North Melbourne,Etihad Stadium,19,19,0,0,1597.713993,1555.916909,W
+2016,Adelaide,Brisbane Lions,Adelaide Oval,19,19,1,0,1643.869154,1208.513406,W
+2016,Brisbane Lions,Adelaide,Adelaide Oval,19,19,0,1,1208.513406,1643.869154,L
+2016,Carlton,St Kilda,MCG,19,19,0,0,1349.167381,1489.674705,L
+2016,St Kilda,Carlton,MCG,19,19,0,0,1489.674705,1349.167381,W
+2016,Essendon,Geelong,Etihad Stadium,19,19,0,0,1170.706912,1628.359469,L
+2016,Geelong,Essendon,Etihad Stadium,19,19,0,0,1628.359469,1170.706912,W
+2016,Fremantle,West Coast,Domain Stadium,19,19,0,0,1323.089148,1599.327528,L
+2016,West Coast,Fremantle,Domain Stadium,19,19,0,0,1599.327528,1323.089148,W
+2016,Collingwood,Western Bulldogs,Etihad Stadium,20,20,0,0,1444.000731,1621.319922,L
+2016,Western Bulldogs,Collingwood,Etihad Stadium,20,20,0,0,1621.319922,1444.000731,W
+2016,Brisbane Lions,Carlton,Gabba,20,20,1,0,1205.860126,1332.640842,W
+2016,Carlton,Brisbane Lions,Gabba,20,20,0,1,1332.640842,1205.860126,L
+2016,Hawthorn,North Melbourne,MCG,20,20,0,0,1695.460182,1532.310979,W
+2016,North Melbourne,Hawthorn,MCG,20,20,0,0,1532.310979,1695.460182,L
+2016,Greater Western Sydney,West Coast,Spotless Stadium,20,20,1,0,1608.228417,1608.410928,L
+2016,West Coast,Greater Western Sydney,Spotless Stadium,20,20,0,1,1608.410928,1608.228417,W
+2016,St Kilda,Sydney,Etihad Stadium,20,20,1,0,1506.201244,1657.185256,L
+2016,Sydney,St Kilda,Etihad Stadium,20,20,0,1,1657.185256,1506.201244,W
+2016,Melbourne,Port Adelaide,Adelaide Oval,20,20,0,1,1448.540271,1482.584878,W
+2016,Port Adelaide,Melbourne,Adelaide Oval,20,20,1,0,1482.584878,1448.540271,L
+2016,Essendon,Gold Coast,Etihad Stadium,20,20,1,0,1167.116002,1319.695195,W
+2016,Gold Coast,Essendon,Etihad Stadium,20,20,0,1,1319.695195,1167.116002,L
+2016,Geelong,Richmond,MCG,20,20,0,0,1631.95038,1458.48767,W
+2016,Richmond,Geelong,MCG,20,20,0,0,1458.48767,1631.95038,L
+2016,Adelaide,Fremantle,Domain Stadium,20,20,0,1,1646.522434,1314.005748,W
+2016,Fremantle,Adelaide,Domain Stadium,20,20,1,0,1314.005748,1646.522434,L
+2016,Hawthorn,West Coast,Domain Stadium,21,21,0,1,1710.534804,1641.141898,L
+2016,West Coast,Hawthorn,Domain Stadium,21,21,1,0,1641.141898,1710.534804,W
+2016,North Melbourne,Sydney,Blundstone Arena,21,21,1,0,1517.236357,1678.456659,L
+2016,Sydney,North Melbourne,Blundstone Arena,21,21,0,1,1678.456659,1517.236357,W
+2016,Richmond,St Kilda,MCG,21,21,0,0,1444.04803,1484.929841,L
+2016,St Kilda,Richmond,MCG,21,21,0,0,1484.929841,1444.04803,W
+2016,Fremantle,Greater Western Sydney,Spotless Stadium,21,21,0,1,1303.935322,1575.497447,L
+2016,Greater Western Sydney,Fremantle,Spotless Stadium,21,21,1,0,1575.497447,1303.935322,W
+2016,Collingwood,Gold Coast,Etihad Stadium,21,21,1,0,1429.794139,1287.215793,W
+2016,Gold Coast,Collingwood,Etihad Stadium,21,21,0,1,1287.215793,1429.794139,L
+2016,Adelaide,Port Adelaide,Adelaide Oval,21,21,0,0,1656.59286,1447.401826,W
+2016,Port Adelaide,Adelaide,Adelaide Oval,21,21,0,0,1447.401826,1656.59286,L
+2016,Carlton,Melbourne,MCG,21,21,0,0,1302.090584,1483.723323,W
+2016,Melbourne,Carlton,MCG,21,21,0,0,1483.723323,1302.090584,L
+2016,Brisbane Lions,Geelong,Gabba,21,21,1,0,1236.410384,1646.39002,L
+2016,Geelong,Brisbane Lions,Gabba,21,21,0,1,1646.39002,1236.410384,W
+2016,Essendon,Western Bulldogs,Etihad Stadium,21,21,0,0,1199.595404,1635.526514,L
+2016,Western Bulldogs,Essendon,Etihad Stadium,21,21,0,0,1635.526514,1199.595404,W
+2016,Collingwood,Hawthorn,MCG,22,22,0,0,1441.551097,1684.389425,L
+2016,Hawthorn,Collingwood,MCG,22,22,0,0,1684.389425,1441.551097,W
+2016,Adelaide,West Coast,Adelaide Oval,22,22,1,0,1668.967554,1667.287276,L
+2016,West Coast,Adelaide,Adelaide Oval,22,22,0,1,1667.287276,1668.967554,W
+2016,Carlton,Essendon,MCG,22,22,0,0,1341.774853,1195.562179,L
+2016,Essendon,Carlton,MCG,22,22,0,0,1195.562179,1341.774853,W
+2016,Gold Coast,Port Adelaide,Metricon Stadium,22,22,1,0,1275.458836,1435.027133,L
+2016,Port Adelaide,Gold Coast,Metricon Stadium,22,22,0,1,1435.027133,1275.458836,W
+2016,Richmond,Sydney,SCG,22,22,0,1,1420.372446,1698.976561,L
+2016,Sydney,Richmond,SCG,22,22,1,0,1698.976561,1420.372446,W
+2016,Brisbane Lions,St Kilda,Etihad Stadium,22,22,0,1,1229.495814,1508.605424,L
+2016,St Kilda,Brisbane Lions,Etihad Stadium,22,22,1,0,1508.605424,1229.495814,W
+2016,Greater Western Sydney,North Melbourne,Etihad Stadium,22,22,0,1,1581.819157,1496.716456,W
+2016,North Melbourne,Greater Western Sydney,Etihad Stadium,22,22,1,0,1496.716456,1581.819157,L
+2016,Geelong,Melbourne,Simonds Stadium,22,22,1,0,1653.30459,1444.039053,W
+2016,Melbourne,Geelong,Simonds Stadium,22,22,0,1,1444.039053,1653.30459,L
+2016,Fremantle,Western Bulldogs,Domain Stadium,22,22,1,0,1297.613611,1639.559739,W
+2016,Western Bulldogs,Fremantle,Domain Stadium,22,22,0,1,1639.559739,1297.613611,L
+2017,Carlton,Richmond,MCG,1,1,0,0,1353.221395,1435.704986,L
+2017,Richmond,Carlton,MCG,1,1,0,0,1435.704986,1353.221395,W
+2017,Collingwood,Western Bulldogs,MCG,1,1,0,0,1448.192732,1571.670467,L
+2017,Western Bulldogs,Collingwood,MCG,1,1,0,0,1571.670467,1448.192732,W
+2017,Sydney,Port Adelaide,SCG,1,1,1,0,1653.806769,1466.750735,L
+2017,Port Adelaide,Sydney,SCG,1,1,0,1,1466.750735,1653.806769,W
+2017,St Kilda,Melbourne,Etihad Stadium,1,1,0,0,1511.016633,1451.571258,L
+2017,Melbourne,St Kilda,Etihad Stadium,1,1,0,0,1451.571258,1511.016633,W
+2017,Gold Coast,Brisbane Lions,Metricon Stadium,1,1,0,0,1316.113741,1292.559296,L
+2017,Brisbane Lions,Gold Coast,Metricon Stadium,1,1,0,0,1292.559296,1316.113741,W
+2017,Essendon,Hawthorn,MCG,1,1,0,0,1299.781379,1646.26266,W
+2017,Hawthorn,Essendon,MCG,1,1,0,0,1646.26266,1299.781379,L
+2017,North Melbourne,West Coast,Etihad Stadium,1,1,1,0,1477.830831,1650.11615,L
+2017,West Coast,North Melbourne,Etihad Stadium,1,1,0,1,1650.11615,1477.830831,W
+2017,Adelaide,Greater Western Sydney,Adelaide Oval,1,1,1,0,1602.074972,1581.070878,W
+2017,Greater Western Sydney,Adelaide,Adelaide Oval,1,1,0,1,1581.070878,1602.074972,L
+2017,Fremantle,Geelong,Domain Stadium,1,1,1,0,1381.209546,1621.436474,L
+2017,Geelong,Fremantle,Domain Stadium,1,1,0,1,1621.436474,1381.209546,W
+2017,Richmond,Collingwood,MCG,2,2,0,0,1456.27206,1430.524758,W
+2017,Collingwood,Richmond,MCG,2,2,0,0,1430.524758,1456.27206,L
+2017,Western Bulldogs,Sydney,Etihad Stadium,2,2,1,0,1589.338441,1609.749091,W
+2017,Sydney,Western Bulldogs,Etihad Stadium,2,2,0,1,1609.749091,1589.338441,L
+2017,Hawthorn,Adelaide,MCG,2,2,1,0,1599.053816,1621.443857,L
+2017,Adelaide,Hawthorn,MCG,2,2,0,1,1621.443857,1599.053816,W
+2017,Greater Western Sydney,Gold Coast,Spotless Stadium,2,2,1,0,1561.701994,1287.481961,W
+2017,Gold Coast,Greater Western Sydney,Spotless Stadium,2,2,0,1,1287.481961,1561.701994,L
+2017,Brisbane Lions,Essendon,Gabba,2,2,1,0,1321.191076,1346.990222,L
+2017,Essendon,Brisbane Lions,Gabba,2,2,0,1,1346.990222,1321.191076,W
+2017,West Coast,St Kilda,Domain Stadium,2,2,1,0,1669.835352,1479.656115,W
+2017,St Kilda,West Coast,Domain Stadium,2,2,0,1,1479.656115,1669.835352,L
+2017,Geelong,North Melbourne,Etihad Stadium,2,2,1,0,1636.574339,1458.11163,W
+2017,North Melbourne,Geelong,Etihad Stadium,2,2,0,1,1458.11163,1636.574339,L
+2017,Melbourne,Carlton,MCG,2,2,0,0,1482.931776,1332.654322,W
+2017,Carlton,Melbourne,MCG,2,2,0,0,1332.654322,1482.931776,L
+2017,Port Adelaide,Fremantle,Adelaide Oval,2,2,1,0,1510.808414,1366.071681,W
+2017,Fremantle,Port Adelaide,Adelaide Oval,2,2,0,1,1366.071681,1510.808414,L
+2017,Sydney,Collingwood,SCG,3,3,1,0,1587.344054,1405.691882,L
+2017,Collingwood,Sydney,SCG,3,3,0,1,1405.691882,1587.344054,W
+2017,North Melbourne,Greater Western Sydney,Blundstone Arena,3,3,1,0,1448.140942,1567.938879,L
+2017,Greater Western Sydney,North Melbourne,Blundstone Arena,3,3,0,1,1567.938879,1448.140942,W
+2017,Richmond,West Coast,MCG,3,3,1,0,1481.104935,1679.270133,W
+2017,West Coast,Richmond,MCG,3,3,0,1,1679.270133,1481.104935,L
+2017,Geelong,Melbourne,Etihad Stadium,3,3,1,0,1646.545027,1498.82228,W
+2017,Melbourne,Geelong,Etihad Stadium,3,3,0,1,1498.82228,1646.545027,L
+2017,Port Adelaide,Adelaide,Adelaide Oval,3,3,0,0,1522.451714,1652.523098,L
+2017,Adelaide,Port Adelaide,Adelaide Oval,3,3,0,0,1652.523098,1522.451714,W
+2017,Fremantle,Western Bulldogs,Domain Stadium,3,3,1,0,1354.42838,1611.743478,W
+2017,Western Bulldogs,Fremantle,Domain Stadium,3,3,0,1,1611.743478,1354.42838,L
+2017,St Kilda,Brisbane Lions,Etihad Stadium,3,3,1,0,1470.221334,1290.368708,W
+2017,Brisbane Lions,St Kilda,Etihad Stadium,3,3,0,1,1290.368708,1470.221334,L
+2017,Carlton,Essendon,MCG,3,3,0,0,1316.763818,1377.812591,W
+2017,Essendon,Carlton,MCG,3,3,0,0,1377.812591,1316.763818,L
+2017,Gold Coast,Hawthorn,Metricon Stadium,3,3,1,0,1281.245075,1567.974575,W
+2017,Hawthorn,Gold Coast,Metricon Stadium,3,3,0,1,1567.974575,1281.245075,L
+2017,West Coast,Sydney,Domain Stadium,4,4,1,0,1643.537887,1543.533511,W
+2017,Sydney,West Coast,Domain Stadium,4,4,0,1,1543.533511,1643.537887,L
+2017,North Melbourne,Western Bulldogs,Etihad Stadium,4,4,0,0,1424.528216,1572.202738,L
+2017,Western Bulldogs,North Melbourne,Etihad Stadium,4,4,0,0,1572.202738,1424.528216,W
+2017,Melbourne,Fremantle,MCG,4,4,1,0,1487.334905,1393.96912,L
+2017,Fremantle,Melbourne,MCG,4,4,0,1,1393.96912,1487.334905,W
+2017,Greater Western Sydney,Port Adelaide,Manuka Oval,4,4,1,0,1591.551604,1505.230488,W
+2017,Port Adelaide,Greater Western Sydney,Manuka Oval,4,4,0,1,1505.230488,1591.551604,L
+2017,Carlton,Gold Coast,Etihad Stadium,4,4,1,0,1348.244444,1322.473183,L
+2017,Gold Coast,Carlton,Etihad Stadium,4,4,0,1,1322.473183,1348.244444,W
+2017,Adelaide,Essendon,Adelaide Oval,4,4,1,0,1669.744325,1346.331964,W
+2017,Essendon,Adelaide,Adelaide Oval,4,4,0,1,1346.331964,1669.744325,L
+2017,Collingwood,St Kilda,Etihad Stadium,4,4,0,0,1449.502425,1480.12724,L
+2017,St Kilda,Collingwood,Etihad Stadium,4,4,0,0,1480.12724,1449.502425,W
+2017,Brisbane Lions,Richmond,Gabba,4,4,1,0,1280.462801,1516.837182,L
+2017,Richmond,Brisbane Lions,Gabba,4,4,0,1,1516.837182,1280.462801,W
+2017,Hawthorn,Geelong,MCG,4,4,1,0,1526.746467,1658.032402,L
+2017,Geelong,Hawthorn,MCG,4,4,0,1,1658.032402,1526.746467,W
+2017,Port Adelaide,Carlton,Adelaide Oval,5,5,1,0,1490.234477,1313.64201,W
+2017,Carlton,Port Adelaide,Adelaide Oval,5,5,0,1,1313.64201,1490.234477,L
+2017,Western Bulldogs,Brisbane Lions,Etihad Stadium,5,5,1,0,1588.261306,1265.082818,W
+2017,Brisbane Lions,Western Bulldogs,Etihad Stadium,5,5,0,1,1265.082818,1588.261306,L
+2017,Gold Coast,Adelaide,Metricon Stadium,5,5,1,0,1357.075617,1674.581855,L
+2017,Adelaide,Gold Coast,Metricon Stadium,5,5,0,1,1674.581855,1357.075617,W
+2017,Sydney,Greater Western Sydney,SCG,5,5,0,0,1529.373483,1606.547615,L
+2017,Greater Western Sydney,Sydney,SCG,5,5,0,0,1606.547615,1529.373483,W
+2017,Fremantle,North Melbourne,Domain Stadium,5,5,1,0,1433.04032,1408.469649,W
+2017,North Melbourne,Fremantle,Domain Stadium,5,5,0,1,1408.469649,1433.04032,L
+2017,St Kilda,Geelong,Etihad Stadium,5,5,1,0,1504.586122,1680.774847,L
+2017,Geelong,St Kilda,Etihad Stadium,5,5,0,1,1680.774847,1504.586122,W
+2017,Hawthorn,West Coast,MCG,5,5,1,0,1504.004022,1657.697915,W
+2017,West Coast,Hawthorn,MCG,5,5,0,1,1657.697915,1504.004022,L
+2017,Richmond,Melbourne,MCG,5,5,0,0,1532.217165,1448.263705,W
+2017,Melbourne,Richmond,MCG,5,5,0,0,1448.263705,1532.217165,L
+2017,Essendon,Collingwood,MCG,5,5,0,0,1341.494434,1425.043544,W
+2017,Collingwood,Essendon,MCG,5,5,0,0,1425.043544,1341.494434,L
+2017,Greater Western Sydney,Western Bulldogs,Manuka Oval,6,6,1,0,1627.503593,1593.104765,W
+2017,Western Bulldogs,Greater Western Sydney,Manuka Oval,6,6,0,1,1593.104765,1627.503593,L
+2017,Hawthorn,St Kilda,University of Tasmania Stadium,6,6,0,0,1536.565569,1485.146255,L
+2017,St Kilda,Hawthorn,University of Tasmania Stadium,6,6,0,0,1485.146255,1536.565569,W
+2017,Carlton,Sydney,MCG,6,6,1,0,1303.583638,1508.417505,W
+2017,Sydney,Carlton,MCG,6,6,0,1,1508.417505,1303.583638,L
+2017,Brisbane Lions,Port Adelaide,Gabba,6,6,1,0,1260.23936,1500.292849,L
+2017,Port Adelaide,Brisbane Lions,Gabba,6,6,0,1,1500.292849,1260.23936,W
+2017,North Melbourne,Gold Coast,Etihad Stadium,6,6,1,0,1389.354083,1346.279287,W
+2017,Gold Coast,North Melbourne,Etihad Stadium,6,6,0,1,1346.279287,1389.354083,L
+2017,West Coast,Fremantle,Domain Stadium,6,6,0,0,1625.136368,1452.155885,W
+2017,Fremantle,West Coast,Domain Stadium,6,6,0,0,1452.155885,1625.136368,L
+2017,Essendon,Melbourne,Etihad Stadium,6,6,0,0,1374.638139,1427.803814,L
+2017,Melbourne,Essendon,Etihad Stadium,6,6,0,0,1427.803814,1374.638139,W
+2017,Geelong,Collingwood,MCG,6,6,1,0,1700.214713,1391.899839,L
+2017,Collingwood,Geelong,MCG,6,6,0,1,1391.899839,1700.214713,W
+2017,Adelaide,Richmond,Adelaide Oval,6,6,1,0,1685.378185,1552.677056,W
+2017,Richmond,Adelaide,Adelaide Oval,6,6,0,1,1552.677056,1685.378185,L
+2017,St Kilda,Greater Western Sydney,Etihad Stadium,7,7,1,0,1515.902818,1645.92893,W
+2017,Greater Western Sydney,St Kilda,Etihad Stadium,7,7,0,1,1645.92893,1515.902818,L
+2017,North Melbourne,Adelaide,Blundstone Arena,7,7,1,0,1407.180147,1697.665403,W
+2017,Adelaide,North Melbourne,Blundstone Arena,7,7,0,1,1697.665403,1407.180147,L
+2017,Collingwood,Carlton,MCG,7,7,0,0,1440.299001,1339.770747,L
+2017,Carlton,Collingwood,MCG,7,7,0,0,1339.770747,1440.299001,W
+2017,Port Adelaide,West Coast,Adelaide Oval,7,7,1,0,1515.441564,1639.605319,L
+2017,West Coast,Port Adelaide,Adelaide Oval,7,7,0,1,1639.605319,1515.441564,W
+2017,Gold Coast,Geelong,Metricon Stadium,7,7,1,0,1328.453223,1651.815551,W
+2017,Geelong,Gold Coast,Metricon Stadium,7,7,0,1,1651.815551,1328.453223,L
+2017,Western Bulldogs,Richmond,Etihad Stadium,7,7,0,0,1574.679428,1540.389837,W
+2017,Richmond,Western Bulldogs,Etihad Stadium,7,7,0,0,1540.389837,1574.679428,L
+2017,Sydney,Brisbane Lions,SCG,7,7,1,0,1472.230396,1245.090644,W
+2017,Brisbane Lions,Sydney,SCG,7,7,0,1,1245.090644,1472.230396,L
+2017,Melbourne,Hawthorn,MCG,7,7,0,0,1450.548528,1505.809006,L
+2017,Hawthorn,Melbourne,MCG,7,7,0,0,1505.809006,1450.548528,W
+2017,Fremantle,Essendon,Domain Stadium,7,7,1,0,1437.686935,1351.893426,W
+2017,Essendon,Fremantle,Domain Stadium,7,7,0,1,1351.893426,1437.686935,L
+2017,West Coast,Western Bulldogs,Domain Stadium,8,8,1,0,1662.886397,1598.857904,W
+2017,Western Bulldogs,West Coast,Domain Stadium,8,8,0,1,1598.857904,1662.886397,L
+2017,Hawthorn,Brisbane Lions,University of Tasmania Stadium,8,8,1,0,1528.395908,1237.197957,W
+2017,Brisbane Lions,Hawthorn,University of Tasmania Stadium,8,8,0,1,1237.197957,1528.395908,L
+2017,St Kilda,Carlton,Etihad Stadium,8,8,0,0,1546.698387,1374.136949,W
+2017,Carlton,St Kilda,Etihad Stadium,8,8,0,0,1374.136949,1546.698387,L
+2017,Greater Western Sydney,Collingwood,Spotless Stadium,8,8,1,0,1615.133361,1405.932799,W
+2017,Collingwood,Greater Western Sydney,Spotless Stadium,8,8,0,1,1405.932799,1615.133361,L
+2017,Essendon,Geelong,MCG,8,8,1,0,1336.864583,1608.691061,W
+2017,Geelong,Essendon,MCG,8,8,0,1,1608.691061,1336.864583,L
+2017,Adelaide,Melbourne,Adelaide Oval,8,8,1,0,1656.232332,1427.961626,L
+2017,Melbourne,Adelaide,Adelaide Oval,8,8,0,1,1427.961626,1656.232332,W
+2017,Richmond,Fremantle,MCG,8,8,1,0,1516.211361,1452.715777,L
+2017,Fremantle,Richmond,MCG,8,8,0,1,1452.715777,1516.211361,W
+2017,Gold Coast,Port Adelaide,"Jiangwan Stadium, Shanghai",8,8,1,0,1371.577714,1492.160486,L
+2017,Port Adelaide,Gold Coast,"Jiangwan Stadium, Shanghai",8,8,0,1,1492.160486,1371.577714,W
+2017,North Melbourne,Sydney,Etihad Stadium,8,8,1,0,1448.613218,1480.123083,L
+2017,Sydney,North Melbourne,Etihad Stadium,8,8,0,1,1480.123083,1448.613218,W
+2017,Geelong,Western Bulldogs,Simonds Stadium,9,9,1,0,1568.299792,1582.437233,W
+2017,Western Bulldogs,Geelong,Simonds Stadium,9,9,0,1,1582.437233,1568.299792,L
+2017,St Kilda,Sydney,Etihad Stadium,9,9,1,0,1561.192838,1510.513489,L
+2017,Sydney,St Kilda,Etihad Stadium,9,9,0,1,1510.513489,1561.192838,W
+2017,Greater Western Sydney,Richmond,Spotless Stadium,9,9,1,0,1623.746773,1479.033944,W
+2017,Richmond,Greater Western Sydney,Spotless Stadium,9,9,0,1,1479.033944,1623.746773,L
+2017,Brisbane Lions,Adelaide,Gabba,9,9,1,0,1231.479868,1610.448238,L
+2017,Adelaide,Brisbane Lions,Gabba,9,9,0,1,1610.448238,1231.479868,W
+2017,Collingwood,Hawthorn,MCG,9,9,0,0,1397.319387,1534.113997,W
+2017,Hawthorn,Collingwood,MCG,9,9,0,0,1534.113997,1397.319387,L
+2017,Essendon,West Coast,Etihad Stadium,9,9,1,0,1377.255851,1679.307068,W
+2017,West Coast,Essendon,Etihad Stadium,9,9,0,1,1679.307068,1377.255851,L
+2017,Melbourne,North Melbourne,MCG,9,9,0,0,1473.74572,1418.222813,L
+2017,North Melbourne,Melbourne,MCG,9,9,0,0,1418.222813,1473.74572,W
+2017,Fremantle,Carlton,Domain Stadium,9,9,1,0,1489.893195,1359.642497,W
+2017,Carlton,Fremantle,Domain Stadium,9,9,0,1,1359.642497,1489.893195,L
+2017,Geelong,Port Adelaide,Simonds Stadium,10,9,1,0,1590.235186,1515.713515,W
+2017,Port Adelaide,Geelong,Simonds Stadium,9,10,0,1,1515.713515,1590.235186,L
+2017,Sydney,Hawthorn,SCG,10,10,1,0,1546.837586,1497.252843,L
+2017,Hawthorn,Sydney,SCG,10,10,0,1,1497.252843,1546.837586,W
+2017,Western Bulldogs,St Kilda,Etihad Stadium,10,10,0,0,1560.501839,1524.868741,W
+2017,St Kilda,Western Bulldogs,Etihad Stadium,10,10,0,0,1524.868741,1560.501839,L
+2017,Melbourne,Gold Coast,TIO Traeger Park,10,9,1,0,1442.679813,1348.024684,W
+2017,Gold Coast,Melbourne,TIO Traeger Park,9,10,0,1,1348.024684,1442.679813,L
+2017,Richmond,Essendon,MCG,10,10,0,0,1467.389389,1419.305013,W
+2017,Essendon,Richmond,MCG,10,10,0,0,1419.305013,1467.389389,L
+2017,Adelaide,Fremantle,Adelaide Oval,10,10,1,0,1618.51104,1502.314538,W
+2017,Fremantle,Adelaide,Adelaide Oval,10,10,0,1,1502.314538,1618.51104,L
+2017,Collingwood,Brisbane Lions,MCG,10,10,1,0,1434.180541,1223.417066,W
+2017,Brisbane Lions,Collingwood,MCG,10,10,0,1,1223.417066,1434.180541,L
+2017,Carlton,North Melbourne,Etihad Stadium,10,10,0,0,1347.221155,1449.28872,L
+2017,North Melbourne,Carlton,Etihad Stadium,10,10,0,0,1449.28872,1347.221155,W
+2017,West Coast,Greater Western Sydney,Domain Stadium,10,10,1,0,1637.257906,1635.391328,L
+2017,Greater Western Sydney,West Coast,Domain Stadium,10,10,0,1,1635.391328,1637.257906,W
+2017,Port Adelaide,Hawthorn,Adelaide Oval,10,11,1,0,1499.972867,1533.502991,W
+2017,Hawthorn,Port Adelaide,Adelaide Oval,11,10,0,1,1533.502991,1499.972867,L
+2017,Geelong,Adelaide,Simonds Stadium,11,11,1,0,1605.975835,1631.721262,W
+2017,Adelaide,Geelong,Simonds Stadium,11,11,0,1,1631.721262,1605.975835,L
+2017,Gold Coast,West Coast,Metricon Stadium,10,11,1,0,1333.541425,1604.37667,W
+2017,West Coast,Gold Coast,Metricon Stadium,11,10,0,1,1604.37667,1333.541425,L
+2017,Greater Western Sydney,Essendon,Spotless Stadium,11,11,1,0,1668.272565,1396.176321,W
+2017,Essendon,Greater Western Sydney,Spotless Stadium,11,11,0,1,1396.176321,1668.272565,L
+2017,North Melbourne,Richmond,Etihad Stadium,11,11,0,0,1468.446321,1490.518081,L
+2017,Richmond,North Melbourne,Etihad Stadium,11,11,0,0,1490.518081,1468.446321,W
+2017,Fremantle,Collingwood,Domain Stadium,11,11,1,0,1489.104316,1442.729104,L
+2017,Collingwood,Fremantle,Domain Stadium,11,11,0,1,1442.729104,1489.104316,W
+2017,Sydney,Western Bulldogs,SCG,11,11,1,0,1510.587437,1584.57766,W
+2017,Western Bulldogs,Sydney,SCG,11,11,0,1,1584.57766,1510.587437,L
+2017,Adelaide,St Kilda,Adelaide Oval,12,11,1,0,1608.914624,1500.79292,W
+2017,St Kilda,Adelaide,Adelaide Oval,11,12,0,1,1500.79292,1608.914624,L
+2017,Hawthorn,Gold Coast,MCG,12,11,1,0,1510.107058,1373.875709,L
+2017,Gold Coast,Hawthorn,MCG,11,12,0,1,1373.875709,1510.107058,W
+2017,Brisbane Lions,Fremantle,Gabba,11,12,1,0,1214.868503,1453.071937,W
+2017,Fremantle,Brisbane Lions,Gabba,12,11,0,1,1453.071937,1214.868503,L
+2017,Essendon,Port Adelaide,Etihad Stadium,12,11,1,0,1389.871736,1523.368801,W
+2017,Port Adelaide,Essendon,Etihad Stadium,11,12,0,1,1523.368801,1389.871736,L
+2017,Carlton,Greater Western Sydney,Etihad Stadium,11,12,1,0,1328.063553,1674.577149,W
+2017,Greater Western Sydney,Carlton,Etihad Stadium,12,11,0,1,1674.577149,1328.063553,L
+2017,Melbourne,Collingwood,MCG,11,12,0,0,1457.163072,1478.761482,W
+2017,Collingwood,Melbourne,MCG,12,11,0,0,1478.761482,1457.163072,L
+2017,West Coast,Geelong,Domain Stadium,12,12,1,0,1564.042386,1628.782473,W
+2017,Geelong,West Coast,Domain Stadium,12,12,0,1,1628.782473,1564.042386,L
+2017,North Melbourne,St Kilda,Etihad Stadium,12,12,0,0,1443.331094,1487.114462,L
+2017,St Kilda,North Melbourne,Etihad Stadium,12,12,0,0,1487.114462,1443.331094,W
+2017,Richmond,Sydney,MCG,12,12,1,0,1515.633308,1537.087531,L
+2017,Sydney,Richmond,MCG,12,12,0,1,1537.087531,1515.633308,W
+2017,Port Adelaide,Brisbane Lions,Adelaide Oval,12,12,1,0,1492.311624,1253.236818,W
+2017,Brisbane Lions,Port Adelaide,Adelaide Oval,12,12,0,1,1253.236818,1492.311624,L
+2017,Gold Coast,Carlton,Metricon Stadium,12,12,1,0,1415.412981,1372.268723,L
+2017,Carlton,Gold Coast,Metricon Stadium,12,12,0,1,1372.268723,1415.412981,W
+2017,Western Bulldogs,Melbourne,Etihad Stadium,12,12,0,0,1558.077567,1485.644513,L
+2017,Melbourne,Western Bulldogs,Etihad Stadium,12,12,0,0,1485.644513,1558.077567,W
+2017,Adelaide,Hawthorn,Adelaide Oval,13,13,1,0,1622.593082,1468.569786,L
+2017,Hawthorn,Adelaide,Adelaide Oval,13,13,0,1,1468.569786,1622.593082,W
+2017,Sydney,Essendon,SCG,13,13,1,0,1568.237147,1420.928913,W
+2017,Essendon,Sydney,SCG,13,13,0,1,1420.928913,1568.237147,L
+2017,Collingwood,Port Adelaide,MCG,13,13,1,0,1450.280041,1499.752972,L
+2017,Port Adelaide,Collingwood,MCG,13,13,0,1,1499.752972,1450.280041,W
+2017,Brisbane Lions,Greater Western Sydney,Gabba,13,13,1,0,1245.79547,1630.371979,L
+2017,Greater Western Sydney,Brisbane Lions,Gabba,13,13,0,1,1630.371979,1245.79547,W
+2017,Western Bulldogs,North Melbourne,Etihad Stadium,13,13,0,0,1525.749965,1419.876171,W
+2017,North Melbourne,Western Bulldogs,Etihad Stadium,13,13,0,0,1419.876171,1525.749965,L
+2017,West Coast,Melbourne,Domain Stadium,13,13,1,0,1589.829008,1517.972116,L
+2017,Melbourne,West Coast,Domain Stadium,13,13,0,1,1517.972116,1589.829008,W
+2017,Geelong,Fremantle,Simonds Stadium,13,13,1,0,1602.995851,1414.703623,W
+2017,Fremantle,Geelong,Simonds Stadium,13,13,0,1,1414.703623,1602.995851,L
+2017,Richmond,Carlton,MCG,13,13,0,0,1484.483692,1408.080477,W
+2017,Carlton,Richmond,MCG,13,13,0,0,1408.080477,1484.483692,L
+2017,St Kilda,Gold Coast,Etihad Stadium,13,13,1,0,1510.569385,1379.601227,W
+2017,Gold Coast,St Kilda,Etihad Stadium,13,13,0,1,1379.601227,1510.569385,L
+2017,Melbourne,Sydney,MCG,14,14,1,0,1555.693396,1579.746076,L
+2017,Sydney,Melbourne,MCG,14,14,0,1,1579.746076,1555.693396,W
+2017,Western Bulldogs,West Coast,Etihad Stadium,14,14,1,0,1544.638602,1552.107728,L
+2017,West Coast,Western Bulldogs,Etihad Stadium,14,14,0,1,1552.107728,1544.638602,W
+2017,Carlton,Adelaide,MCG,14,14,1,0,1387.067811,1580.123394,L
+2017,Adelaide,Carlton,MCG,14,14,0,1,1580.123394,1387.067811,W
+2017,Gold Coast,North Melbourne,Metricon Stadium,14,14,1,0,1367.21926,1400.987534,W
+2017,North Melbourne,Gold Coast,Metricon Stadium,14,14,0,1,1400.987534,1367.21926,L
+2017,Greater Western Sydney,Geelong,Spotless Stadium,14,14,1,0,1638.216107,1612.515387,L
+2017,Geelong,Greater Western Sydney,Spotless Stadium,14,14,0,1,1612.515387,1638.216107,L
+2017,Port Adelaide,Richmond,Adelaide Oval,14,14,1,0,1528.773318,1505.496358,L
+2017,Richmond,Port Adelaide,Adelaide Oval,14,14,0,1,1505.496358,1528.773318,W
+2017,Essendon,Brisbane Lions,Etihad Stadium,14,14,1,0,1409.419983,1237.951342,L
+2017,Brisbane Lions,Essendon,Etihad Stadium,14,14,0,1,1237.951342,1409.419983,W
+2017,Hawthorn,Collingwood,MCG,14,14,0,0,1511.039474,1421.259695,W
+2017,Collingwood,Hawthorn,MCG,14,14,0,0,1421.259695,1511.039474,L
+2017,Fremantle,St Kilda,Domain Stadium,14,14,1,0,1405.184087,1522.951352,L
+2017,St Kilda,Fremantle,Domain Stadium,14,14,0,1,1522.951352,1405.184087,W
+2017,Adelaide,Western Bulldogs,Adelaide Oval,15,15,1,0,1598.376693,1512.445093,W
+2017,Western Bulldogs,Adelaide,Adelaide Oval,15,15,0,1,1512.445093,1598.376693,L
+2017,Hawthorn,Greater Western Sydney,University of Tasmania Stadium,15,15,1,0,1531.076653,1630.435189,L
+2017,Greater Western Sydney,Hawthorn,University of Tasmania Stadium,15,15,0,1,1630.435189,1531.076653,L
+2017,Collingwood,Essendon,MCG,15,15,0,0,1401.222515,1366.088554,L
+2017,Essendon,Collingwood,MCG,15,15,0,0,1366.088554,1401.222515,W
+2017,Sydney,Gold Coast,SCG,15,15,1,0,1610.700137,1390.633278,W
+2017,Gold Coast,Sydney,SCG,15,15,0,1,1390.633278,1610.700137,L
+2017,Brisbane Lions,Geelong,Gabba,15,15,1,0,1281.282771,1620.296305,L
+2017,Geelong,Brisbane Lions,Gabba,15,15,0,1,1620.296305,1281.282771,W
+2017,St Kilda,Richmond,Etihad Stadium,15,15,0,0,1546.718682,1539.922135,W
+2017,Richmond,St Kilda,Etihad Stadium,15,15,0,0,1539.922135,1546.718682,L
+2017,North Melbourne,Fremantle,Etihad Stadium,15,15,1,0,1377.573517,1381.416757,L
+2017,Fremantle,North Melbourne,Etihad Stadium,15,15,0,1,1381.416757,1377.573517,W
+2017,Carlton,Melbourne,MCG,15,15,0,0,1368.814512,1524.739335,L
+2017,Melbourne,Carlton,MCG,15,15,0,0,1524.739335,1368.814512,W
+2017,West Coast,Port Adelaide,Domain Stadium,15,15,1,0,1584.301236,1494.347541,L
+2017,Port Adelaide,West Coast,Domain Stadium,15,15,0,1,1494.347541,1584.301236,W
+2017,St Kilda,Essendon,Etihad Stadium,16,16,0,0,1573.010693,1395.607664,L
+2017,Essendon,St Kilda,Etihad Stadium,16,16,0,0,1395.607664,1573.010693,W
+2017,Geelong,Hawthorn,MCG,16,16,1,0,1630.064391,1532.716186,W
+2017,Hawthorn,Geelong,MCG,16,16,0,1,1532.716186,1630.064391,L
+2017,Port Adelaide,North Melbourne,Adelaide Oval,16,16,1,0,1533.209447,1345.111969,W
+2017,North Melbourne,Port Adelaide,Adelaide Oval,16,16,0,1,1345.111969,1533.209447,L
+2017,Gold Coast,Collingwood,Metricon Stadium,16,16,1,0,1382.462576,1371.703406,L
+2017,Collingwood,Gold Coast,Metricon Stadium,16,16,0,1,1371.703406,1382.462576,W
+2017,Greater Western Sydney,Sydney,Spotless Stadium,16,16,0,0,1628.795655,1618.870839,L
+2017,Sydney,Greater Western Sydney,Spotless Stadium,16,16,0,0,1618.870839,1628.795655,W
+2017,Melbourne,Adelaide,TIO Stadium,16,16,1,0,1540.268734,1613.396938,L
+2017,Adelaide,Melbourne,TIO Stadium,16,16,0,1,1613.396938,1540.268734,W
+2017,Richmond,Brisbane Lions,Etihad Stadium,16,16,1,0,1513.630125,1271.514685,W
+2017,Brisbane Lions,Richmond,Etihad Stadium,16,16,0,1,1271.514685,1513.630125,L
+2017,Carlton,Western Bulldogs,MCG,16,16,0,0,1353.285113,1497.424848,L
+2017,Western Bulldogs,Carlton,MCG,16,16,0,0,1497.424848,1353.285113,W
+2017,Fremantle,West Coast,Domain Stadium,16,16,0,0,1413.878304,1545.43933,L
+2017,West Coast,Fremantle,Domain Stadium,16,16,0,0,1545.43933,1413.878304,W
+2017,Adelaide,Geelong,Adelaide Oval,17,17,1,0,1640.596428,1644.38434,W
+2017,Geelong,Adelaide,Adelaide Oval,17,17,0,1,1644.38434,1640.596428,L
+2017,Essendon,North Melbourne,Etihad Stadium,17,17,0,0,1435.039172,1335.583653,W
+2017,North Melbourne,Essendon,Etihad Stadium,17,17,0,0,1335.583653,1435.039172,L
+2017,Melbourne,Port Adelaide,MCG,17,17,1,0,1513.069245,1542.737763,W
+2017,Port Adelaide,Melbourne,MCG,17,17,0,1,1542.737763,1513.069245,L
+2017,Western Bulldogs,Gold Coast,Cazaly's Stadium,17,17,1,0,1513.713267,1348.933966,W
+2017,Gold Coast,Western Bulldogs,Cazaly's Stadium,17,17,0,1,1348.933966,1513.713267,L
+2017,Sydney,St Kilda,SCG,17,17,1,0,1646.453199,1533.579185,W
+2017,St Kilda,Sydney,SCG,17,17,0,1,1533.579185,1646.453199,L
+2017,Fremantle,Hawthorn,Domain Stadium,17,17,1,0,1396.75718,1518.396237,L
+2017,Hawthorn,Fremantle,Domain Stadium,17,17,0,1,1518.396237,1396.75718,W
+2017,Richmond,Greater Western Sydney,MCG,17,17,1,0,1520.960003,1601.213295,W
+2017,Greater Western Sydney,Richmond,MCG,17,17,0,1,1601.213295,1520.960003,L
+2017,Collingwood,West Coast,Etihad Stadium,17,17,1,0,1405.232016,1562.560455,W
+2017,West Coast,Collingwood,Etihad Stadium,17,17,0,1,1562.560455,1405.232016,L
+2017,Brisbane Lions,Carlton,Gabba,17,17,1,0,1264.184806,1336.996694,W
+2017,Carlton,Brisbane Lions,Gabba,17,17,0,1,1336.996694,1264.184806,L
+2017,Hawthorn,Sydney,MCG,18,18,1,0,1541.868976,1659.854768,W
+2017,Sydney,Hawthorn,MCG,18,18,0,1,1659.854768,1541.868976,L
+2017,North Melbourne,Melbourne,Blundstone Arena,18,18,0,0,1316.240493,1536.172401,W
+2017,Melbourne,North Melbourne,Blundstone Arena,18,18,0,0,1536.172401,1316.240493,L
+2017,Greater Western Sydney,Fremantle,Spotless Stadium,18,18,1,0,1574.229809,1373.284442,W
+2017,Fremantle,Greater Western Sydney,Spotless Stadium,18,18,0,1,1373.284442,1574.229809,L
+2017,Port Adelaide,St Kilda,Adelaide Oval,18,18,1,0,1519.634608,1520.177616,W
+2017,St Kilda,Port Adelaide,Adelaide Oval,18,18,0,1,1520.177616,1519.634608,L
+2017,Gold Coast,Richmond,Metricon Stadium,18,18,1,0,1338.308039,1547.94349,L
+2017,Richmond,Gold Coast,Metricon Stadium,18,18,0,1,1547.94349,1338.308039,W
+2017,Carlton,Geelong,Etihad Stadium,18,18,1,0,1310.587533,1623.216909,L
+2017,Geelong,Carlton,Etihad Stadium,18,18,0,1,1623.216909,1310.587533,W
+2017,Western Bulldogs,Essendon,Etihad Stadium,18,18,0,0,1524.339194,1454.382332,W
+2017,Essendon,Western Bulldogs,Etihad Stadium,18,18,0,0,1454.382332,1524.339194,L
+2017,Collingwood,Adelaide,MCG,18,18,1,0,1438.060608,1661.763859,L
+2017,Adelaide,Collingwood,MCG,18,18,0,1,1661.763859,1438.060608,L
+2017,West Coast,Brisbane Lions,Domain Stadium,18,18,1,0,1529.731862,1290.593967,W
+2017,Brisbane Lions,West Coast,Domain Stadium,18,18,0,1,1290.593967,1529.731862,L
+2017,Geelong,Sydney,Simonds Stadium,19,19,1,0,1634.257348,1629.972391,L
+2017,Sydney,Geelong,Simonds Stadium,19,19,0,1,1629.972391,1634.257348,W
+2017,Greater Western Sydney,Melbourne,Manuka Oval,19,19,1,0,1583.192367,1494.335269,W
+2017,Melbourne,Greater Western Sydney,Manuka Oval,19,19,0,1,1494.335269,1583.192367,L
+2017,Essendon,Carlton,MCG,19,19,0,0,1432.893558,1299.547093,W
+2017,Carlton,Essendon,MCG,19,19,0,0,1299.547093,1432.893558,L
+2017,Brisbane Lions,Western Bulldogs,Gabba,19,19,1,0,1283.154946,1545.827967,L
+2017,Western Bulldogs,Brisbane Lions,Gabba,19,19,0,1,1545.827967,1283.154946,W
+2017,North Melbourne,Collingwood,Etihad Stadium,19,19,0,0,1358.077624,1448.684749,L
+2017,Collingwood,North Melbourne,Etihad Stadium,19,19,0,0,1448.684749,1358.077624,W
+2017,Fremantle,Gold Coast,Domain Stadium,19,19,1,0,1364.321884,1321.185858,W
+2017,Gold Coast,Fremantle,Domain Stadium,19,19,0,1,1321.185858,1364.321884,L
+2017,St Kilda,West Coast,Etihad Stadium,19,19,1,0,1499.249049,1537.170883,W
+2017,West Coast,St Kilda,Etihad Stadium,19,19,0,1,1537.170883,1499.249049,L
+2017,Richmond,Hawthorn,MCG,19,19,0,0,1565.065671,1571.751353,W
+2017,Hawthorn,Richmond,MCG,19,19,0,0,1571.751353,1565.065671,L
+2017,Adelaide,Port Adelaide,Adelaide Oval,19,19,0,0,1651.139718,1540.563175,W
+2017,Port Adelaide,Adelaide,Adelaide Oval,19,19,0,0,1540.563175,1651.139718,L
+2017,Western Bulldogs,Greater Western Sydney,Etihad Stadium,20,20,1,0,1559.602199,1598.031179,L
+2017,Greater Western Sydney,Western Bulldogs,Etihad Stadium,20,20,0,1,1598.031179,1559.602199,W
+2017,Sydney,Fremantle,SCG,20,20,1,0,1663.03046,1382.143753,W
+2017,Fremantle,Sydney,SCG,20,20,0,1,1382.143753,1663.03046,L
+2017,Geelong,Richmond,Simonds Stadium,20,20,1,0,1601.199279,1592.398166,W
+2017,Richmond,Geelong,Simonds Stadium,20,20,0,1,1592.398166,1601.199279,L
+2017,Brisbane Lions,Gold Coast,Gabba,20,20,0,0,1269.380714,1303.363989,W
+2017,Gold Coast,Brisbane Lions,Gabba,20,20,0,0,1303.363989,1269.380714,L
+2017,Essendon,Adelaide,Etihad Stadium,20,20,1,0,1449.895112,1669.698442,L
+2017,Adelaide,Essendon,Etihad Stadium,20,20,0,1,1669.698442,1449.895112,W
+2017,West Coast,Carlton,Domain Stadium,20,20,1,0,1513.440973,1282.54554,W
+2017,Carlton,West Coast,Domain Stadium,20,20,0,1,1282.54554,1513.440973,L
+2017,Melbourne,St Kilda,MCG,20,20,0,0,1479.496457,1522.978958,W
+2017,St Kilda,Melbourne,MCG,20,20,0,0,1522.978958,1479.496457,L
+2017,Hawthorn,North Melbourne,University of Tasmania Stadium,20,20,0,0,1544.418858,1338.100186,W
+2017,North Melbourne,Hawthorn,University of Tasmania Stadium,20,20,0,0,1338.100186,1544.418858,L
+2017,Port Adelaide,Collingwood,Adelaide Oval,20,20,1,0,1522.004451,1468.662187,W
+2017,Collingwood,Port Adelaide,Adelaide Oval,20,20,0,1,1468.662187,1522.004451,L
+2017,Adelaide,Sydney,Adelaide Oval,21,21,1,0,1686.145719,1669.058924,L
+2017,Sydney,Adelaide,Adelaide Oval,21,21,0,1,1669.058924,1686.145719,W
+2017,Western Bulldogs,Port Adelaide,Eureka Stadium,21,21,1,0,1529.737681,1539.134205,L
+2017,Port Adelaide,Western Bulldogs,Eureka Stadium,21,21,0,1,1539.134205,1529.737681,W
+2017,Collingwood,Geelong,MCG,21,21,1,0,1451.532434,1621.44559,L
+2017,Geelong,Collingwood,MCG,21,21,0,1,1621.44559,1451.532434,W
+2017,Greater Western Sydney,West Coast,Spotless Stadium,21,21,1,0,1627.895698,1521.189243,W
+2017,West Coast,Greater Western Sydney,Spotless Stadium,21,21,0,1,1521.189243,1627.895698,L
+2017,Gold Coast,Essendon,Metricon Stadium,21,21,1,0,1273.932821,1433.447834,L
+2017,Essendon,Gold Coast,Metricon Stadium,21,21,0,1,1433.447834,1273.932821,W
+2017,Carlton,Hawthorn,Etihad Stadium,21,21,0,0,1274.79727,1556.951653,W
+2017,Hawthorn,Carlton,Etihad Stadium,21,21,0,0,1556.951653,1274.79727,L
+2017,Melbourne,Brisbane Lions,MCG,21,21,1,0,1509.651734,1298.811882,W
+2017,Brisbane Lions,Melbourne,MCG,21,21,0,1,1298.811882,1509.651734,L
+2017,St Kilda,North Melbourne,Etihad Stadium,21,21,0,0,1492.823681,1325.567391,W
+2017,North Melbourne,St Kilda,Etihad Stadium,21,21,0,0,1325.567391,1492.823681,L
+2017,Fremantle,Richmond,Domain Stadium,21,21,1,0,1376.115289,1572.151855,L
+2017,Richmond,Fremantle,Domain Stadium,21,21,0,1,1572.151855,1376.115289,W
+2017,West Coast,Adelaide,Domain Stadium,22,22,1,0,1507.427604,1652.161441,W
+2017,Adelaide,West Coast,Domain Stadium,22,22,0,1,1652.161441,1507.427604,L
+2017,Sydney,Carlton,SCG,22,22,1,0,1703.043202,1319.600992,W
+2017,Carlton,Sydney,SCG,22,22,0,1,1319.600992,1703.043202,L
+2017,Brisbane Lions,North Melbourne,Gabba,22,22,1,0,1290.266478,1310.747664,L
+2017,North Melbourne,Brisbane Lions,Gabba,22,22,0,1,1310.747664,1290.266478,W
+2017,Port Adelaide,Gold Coast,Adelaide Oval,22,22,1,0,1571.184772,1253.288412,W
+2017,Gold Coast,Port Adelaide,Adelaide Oval,22,22,0,1,1253.288412,1571.184772,L
+2017,Collingwood,Melbourne,MCG,22,22,0,0,1431.642658,1518.197138,W
+2017,Melbourne,Collingwood,MCG,22,22,0,0,1518.197138,1431.642658,L
+2017,Hawthorn,Western Bulldogs,Etihad Stadium,22,22,0,0,1512.147931,1497.687114,W
+2017,Western Bulldogs,Hawthorn,Etihad Stadium,22,22,0,0,1497.687114,1512.147931,L
+2017,Geelong,Greater Western Sydney,Simonds Stadium,22,22,1,0,1641.335366,1641.657336,W
+2017,Greater Western Sydney,Geelong,Simonds Stadium,22,22,0,1,1641.657336,1641.335366,L
+2017,Richmond,St Kilda,MCG,22,22,0,0,1590.1991,1507.643408,W
+2017,St Kilda,Richmond,MCG,22,22,0,0,1507.643408,1590.1991,L
+2017,Essendon,Fremantle,Etihad Stadium,22,22,1,0,1454.092243,1358.068044,W
+2017,Fremantle,Essendon,Etihad Stadium,22,22,0,1,1358.068044,1454.092243,L
